@@ -101,7 +101,53 @@ Y se recuerda registrar las métricas de cada secuencia (respuestas, conversacio
 
 ---
 
-## 4. Los 5 elementos del CTA que convierte
+## 4. La estructura estándar — 5 historias, 5 funciones
+
+**La secuencia es siempre esta y en este orden.** Cada historia cumple UNA función y no invade
+la de al lado.
+
+### 1 · ESPEJO
+Le devolvés su situación actual con una afirmación fuerte, casi incómoda. Arranca con la mentira
+que le vendieron o con el síntoma que está viviendo hoy. **No explica nada todavía: solo lo frena.**
+*Formato:* Manu hablando a cámara. Texto corto arriba de la pantalla, la cara abajo.
+
+### 2 · DESEO ORIGINAL
+Le recordás por qué empezó. **Tres líneas cortas, en pasado**, una debajo de la otra, sobre una
+foto real del día 1. Cierra con una **pregunta** que contrasta ese deseo con su rutina de hoy.
+*Formato:* texto sobre foto. Sin cara.
+
+### 3 · ENEMIGO EXTERNO
+Le sacás la culpa de encima y se la ponés a lo que el mercado le vendió. **Tres bullets de
+"te vendieron X".** Remata con la verdad que nadie le dijo, en una sola frase.
+*Formato:* fondo oscuro, solo texto.
+
+### 4 · PRUEBA · TANGIBILIZAR
+Mostrás el recurso o el dato, **no lo explicás**. Captura real en pantalla + tres bullets
+numerados de lo que hay adentro. Cierra con una prueba propia, con números reales.
+*Formato:* captura del recurso o del tablero.
+
+### 5 · CTA
+**Un solo paso siguiente**, con la palabra clave grande y sola en su renglón. Decís qué gana y
+qué pierde si no lo pide, y **filtrás a quién le sirve**.
+*Formato:* Manu hablando a cámara, mismo encuadre que la historia 1.
+
+---
+
+### El proceso de esta estructura, en orden
+
+1. **Confirmá qué dolor corre esta secuencia.** Si no te lo dicen, preguntalo.
+   **UNA secuencia = UN dolor.**
+2. **Identificá qué pieza del método resuelve ese dolor.** Esa pieza es la única solución que
+   aparece en la secuencia.
+3. **Buscá el enemigo externo:** qué le vendió la competencia para ese dolor puntual.
+   **Sin enemigo nombrable, avisá y proponé otro dolor.**
+4. **Escribí las 5 historias** con la estructura de arriba.
+5. **Marcá cuáles requieren cámara** — siempre la 1 y la 5 — y cuáles son solo diseño.
+6. **Listá al final los datos que faltan** y hay que completar antes de publicar.
+
+---
+
+## 5. Los 5 elementos del CTA que convierte
 
 1. **Nombrar el recurso** con lo que el avatar asocia a valor.
 2. **Tangibilizarlo visualmente** — que se vea que existe.
@@ -120,7 +166,7 @@ La autoridad es 2.200 activos y 1,28% de churn, no facturación en pesos (regla 
 
 ---
 
-## 5. Criterio de calidad
+## 6. Criterio de calidad
 
 ### Reframe de palabras — mismo mensaje, distinto inconsciente
 
@@ -147,18 +193,41 @@ arregla antes de entregar.
 
 ---
 
-## 6. Formato del output
+## 7. Formato del output
 
-- Cada secuencia titulada con su rol y su dolor:
-  `SECUENCIA 3 — VENTA · dolor: [X] · CTA: [PALABRA]`
-- Cada story numerada: **copy exacto / visual / rol**. Lista para producir en el celular en
-  menos de 30 minutos.
-- Si es lanzamiento: primero el mapa (tabla día / objetivo / CTA sí-no / keyword), después las
-  secuencias.
+Encabezado de la secuencia, con el dolor, la pieza del método, el enemigo y el CTA:
+
+```
+SECUENCIA — [ROL]
+dolor: [la frase textual del avatar]
+pieza del método: [cuál]
+enemigo externo: [qué le vendió el mercado para ese dolor]
+CTA: [PALABRA] → [destino]
+```
+
+Después, **por cada historia, exactamente esto**:
+
+```
+HISTORIA [N] — [BEAT: ESPEJO / DESEO ORIGINAL / ENEMIGO EXTERNO / PRUEBA · TANGIBILIZAR / CTA]
+Texto en pantalla: [el título, corto, en MAYÚSCULAS]
+Qué se ve:         [fondo, captura, foto, cara a cámara]
+Texto / guión:     [palabra por palabra; si es hablado, como se dice]
+Nota de producción:[graba / solo diseño, y cualquier indicación de encuadre]
+```
+
+Y al final de la secuencia, dos listas:
+
+- **QUÉ GRABAR** — las historias que requieren cámara, con su texto junto.
+- **DATOS FALTANTES** — los números o materiales a confirmar antes de publicar.
+
+Cada story tiene que quedar lista para producir en el celular en menos de 30 minutos.
+
+Si es lanzamiento: primero el mapa (tabla día / objetivo / CTA sí-no / keyword), después las
+secuencias.
 
 ---
 
-## 7. Cómo se trabajan las correcciones
+## 8. Cómo se trabajan las correcciones
 
 Cuando se corrige algo: se aplica el cambio **solo donde se pidió**, se muestra qué cambió, y se
 verifica que no rompa el rol de la secuencia ni la proporción valor/venta del plan.
@@ -168,12 +237,13 @@ Si una secuencia no funcionó: se piden las métricas y se propone **UNA hipóte
 
 ---
 
-## 8. Anti-patrones — lo que NUNCA se hace
+## 9. Anti-patrones — lo que NUNCA se hace
 
 Además de los 11 de `playbooks/agente-copy.md`:
 
 1. **NUNCA se da la solución completa.** Se muestra. Si el espectador ya la tiene, no responde.
-2. **NUNCA se toca más de UN dolor por secuencia.** Muchos dolores = identificación tibia = cero acción.
+2. **NUNCA se toca más de UN dolor por secuencia.** Los ángulos varían, el dolor no.
+   Muchos dolores = identificación tibia = cero acción.
 3. **NUNCA se pone CTA en todas las secuencias.** Proporción ~3 de valor por cada 1 de venta.
    El CTA convierte por la confianza acumulada antes.
 4. **NUNCA se escribe el copy sin la indicación visual.** Si el inconsciente no aprueba la
@@ -181,10 +251,22 @@ Además de los 11 de `playbooks/agente-copy.md`:
 5. **NUNCA se usa una imagen incongruente con el copy.** El clima visual acompaña la emoción.
 6. **NUNCA se usan palabras que activan rechazo.** Se reformula hacia el deseo.
 7. **NUNCA se repite el mismo formato hasta quemarlo.** Si se viene repitiendo, se avisa y se rompe.
-8. **NUNCA se inventan casos, números ni testimonios.** Si falta, `[FALTA CASO REAL]`.
-9. **NUNCA se escribe genérico.** Si una frase podría escribirla cualquiera del nicho, se reescribe.
-10. **NUNCA se rompe el personaje ni se mezcla tuteo y voseo.**
-11. **NUNCA se entrega todo junto.** Por bloques, cada uno con su OK.
+8. **NUNCA se inventan números, métricas, casos ni resultados.** Si un guión necesita un dato
+   que no se dio, va entre `[corchetes]` y se lista en DATOS FALTANTES.
+9. **NUNCA se usa paráfrasis técnica si existe la frase textual del avatar.** Las palabras de
+   ellos, no las nuestras.
+10. **NUNCA se escribe el CTA sin filtro.** Siempre se dice para quién NO es. El filtro sube la
+    calidad de los chats.
+11. **NUNCA más de una métrica por placa.** Dos números en la misma pantalla se anulan.
+12. **NUNCA se cierra la historia 2 con una afirmación.** Se cierra con una pregunta.
+13. **NUNCA motivación** ("vos podés", "confiá en el proceso") **ni lenguaje de gurú**
+    ("el secreto que nadie te cuenta"). El tono es directo, concreto y con datos.
+14. **NUNCA se ataca una objeción de frente:** se convierte en enemigo externo.
+    `[PENDIENTE — la regla original tenía una segunda salida ("...o en ___") que quedó sin
+    completar. Preguntarle a Santi antes de darla por cerrada.]`
+15. **NUNCA se escribe genérico.** Si una frase podría escribirla cualquiera del nicho, se reescribe.
+16. **NUNCA se rompe el personaje ni se mezcla tuteo y voseo.**
+17. **NUNCA se entrega todo junto.** Por bloques, cada uno con su OK.
 
 ### B2B, no B2C
 El avatar de Génesis es un dueño de negocio: **lógica, impacto, riesgo, resultado medible, la
@@ -193,7 +275,7 @@ original no aplica acá.
 
 ---
 
-## 9. Pendientes
+## 10. Pendientes
 
 - **La palabra clave.** `ADENTRO` está declarada en la bio pero sigue `[CONFIRMAR MANU]`. En
   lanzamiento hace falta una palabra distinta por CTA.
