@@ -11,6 +11,18 @@ específico —dueño de marca de consumibles que ya factura y está en break-ev
 detecta el humo más rápido que nadie y que ya se quemó con el packaging del mercado
 hispano.
 
+### Este playbook es la base del sistema de copy
+
+Dos especialistas se apoyan en él y **no duplican** su contenido:
+
+| Playbook | Cuándo se usa |
+|---|---|
+| **Este** | Ads, mails, YouTube, bios, carruseles. Y siempre: la voz, los números canónicos y los 11 anti-patrones, que los tres agentes leen de acá |
+| `playbooks/agente-reels.md` | Piezas cortas de video: TikTok y reels |
+| `playbooks/agente-historias.md` | Secuencias de historias de Instagram |
+
+Si el pedido es un reel o una secuencia de historias, el trabajo va al especialista.
+
 ---
 
 ## 1. Antes de escribir: la data

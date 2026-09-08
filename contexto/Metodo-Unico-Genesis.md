@@ -1,8 +1,11 @@
 MÉTODO ÚNICO — Escalar Hacia Adentro
-Versión consolidada al 7 de septiembre de 2026. Reemplaza la versión del 5 de septiembre.
+Versión consolidada al 8 de septiembre de 2026. Reemplaza la versión del 7 de septiembre.
+Cambia respecto de la anterior: rango del punto A (30–80M), LTV 3 en lugar de 2,5, y la cuenta
+del CPA reescrita con techo (90.000) y punto operativo (75.000). Sale de la call del 7 de
+septiembre, consolidada en Personaje.md.
 
 Método: SOP "Cómo y por qué crear tu método único" (Programa Limitless), cuatro pasos.
-Fuentes: Avatar-Genesis.md · Analisis-Competencia.md · Fathoms.md (roadmap en Miro y módulos) · Logo-Genesis-OS.md (lectura visual)
+Fuentes: Avatar-Genesis.md · Personaje.md (call 7-sept) · Analisis-Competencia.md · Fathoms.md (roadmap en Miro y módulos) · Logo-Genesis-OS.md (lectura visual)
 Documentos que dependen de este: Oferta-Genesis.md · Roadmap-MVP-Genesis.md · Entrega-DFY-Piloto.md
 
 Regla que ordena todo: el nombre sale de los pasos 1 a 3, nunca al revés.
@@ -22,7 +25,7 @@ PASO 1 — LA TRANSFORMACIÓN (PUNTO A → PUNTO B)
 ============================================================
 
 PUNTO A
-Marca de consumibles en compra única. Factura 30–150M ARS/mes con Meta Ads, en break-even. Cada venta cuesta lo mismo que la anterior: no acumula clientes, vuelve a comprarlos todos los meses. El 1 del mes arranca en cero. El CPM sube y compite por el mismo cliente con el 95% del mercado. Si pasa a RI, no cierra. Si Meta le baja la cuenta, se termina.
+Marca de consumibles en compra única. Factura 30–80M ARS/mes con Meta Ads, en break-even. Cada venta cuesta lo mismo que la anterior: no acumula clientes, vuelve a comprarlos todos los meses. El 1 del mes arranca en cero. El CPM sube y compite por el mismo cliente con el 95% del mercado. Si pasa a RI, no cierra. Si Meta le baja la cuenta, se termina.
 
 PUNTO B
 Marca de suscripción con base de suscriptores activos. El mes arranca cobrado. Puede pagar 2,5 veces más por cliente que su competencia y seguir rentable. Los clientes se acumulan como activo: la segunda, tercera y cuarta compra no tienen costo de adquisición. El margen por cliente aguanta IVA y ganancias. Si cae la cuenta de Meta, los suscriptores siguen cobrándose.
@@ -30,7 +33,7 @@ Marca de suscripción con base de suscriptores activos. El mes arranca cobrado. 
 EN UNA LÍNEA
   De una marca que cada mes vuelve a comprar a sus clientes, a una marca que los acumula.
 
-Referencia numérica del punto B: Manu. 2.200 suscriptores activos, churn 1,28%, LTV 2,5 pedidos mínimo.
+Referencia numérica del punto B: Manu. 2.200 suscriptores activos, churn 1,28%, LTV 3 pedidos mínimo.
 
 ============================================================
 PASO 2 — LOS OBSTÁCULOS
@@ -69,15 +72,15 @@ Cada obstáculo tiene una pieza. Las piezas ya existen en el roadmap en Miro y e
     [CONFIRMAR MANU: que la variante paralela es como lo enseña.]
 
   DE PEDIDO A SUSCRIPTOR  → O3
-    Se cambia la unidad de venta. Un cliente vale 2,5 pedidos, no uno. Primero se le ofrece la suscripción a los compradores anteriores: sin CPA, es el camino más corto al primer cobro.
+    Se cambia la unidad de venta. Un cliente vale 3 pedidos, no uno. Primero se le ofrece la suscripción a los compradores anteriores: sin CPA, es el camino más corto al primer cobro.
     Por qué esquiva: el crecimiento viene de los clientes que ya entraron, no de los que hay que salir a comprar.
     Origen: módulo de oferta y funnel.
 
   LA CUENTA DEL CPA  → O4
-    El CPA máximo tolerable deja de ser el margen de un pedido y pasa a ser margen × 2,5. Con 30.000 de margen: 30.000 en compra única, 75.000 con suscripción.
+    El CPA máximo tolerable deja de ser el margen de un pedido y pasa a ser margen × LTV. Con 30.000 de margen: el techo en compra única es 30.000 (break-even en la primera venta); con LTV 3 el techo pasa a 90.000 y el punto operativo recomendado es 75.000, que deja 15.000 de margen vivo por cliente. Techo y punto operativo se muestran siempre juntos: solo el techo suena imprudente a un operador, solo el operativo subvende el mecanismo.
     Por qué esquiva: no se compite por el CPM más bajo —lo decide Meta—, se compite por quién puede pagar más por el mismo cliente.
     Origen: módulo de finanzas y costeo, recalculado.
-    [CONFIRMAR MANU: si la hoja de costeo con LTV existe o se arma.]
+    [CONFIRMAR MANU: si la calculadora de tres escenarios —con techo y punto operativo— existe o se arma.]
 
   PISO DE FACTURACIÓN  → O5
     Base de suscriptores activos medida y seguida, con Scalify como tracker. Objetivo de churn: el de Manu, 1,28%.
@@ -145,7 +148,7 @@ La oferta cerrada dice "convirtiéndolo a modelo de suscripción". Eso es la CAT
 
 CÓMO SE SOSTIENEN JUNTOS "+$100M" Y "HACIA ADENTRO"
 La oferta promete facturación; el método dice que no se crece metiendo más pauta. No se contradicen si el relato mantiene el orden:
-  llegás a +$100M escalando hacia adentro — no metiendo más pauta, sino haciendo que cada cliente valga 2,5 veces más.
+  llegás a +$100M escalando hacia adentro — no metiendo más pauta, sino haciendo que cada cliente valga 3 veces más.
 Es la línea que tiene que aparecer en la call, en el webinar y en el video largo. Si el contenido dice "+$100M" sin decir "hacia adentro", queda igual que los siete competidores.
 
 ============================================================
