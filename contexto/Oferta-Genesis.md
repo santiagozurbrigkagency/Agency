@@ -1,10 +1,12 @@
 OFERTA — Génesis (Manuel Dominguez)
-Versión consolidada al 7 de septiembre de 2026 — revisión 2. Reemplaza la revisión 1 del 7 de septiembre.
-Cambia respecto de la revisión 1: estructura de pago, la oferta como se presenta (página completa con
-entregables), criterio de validación y pendientes. La frase de la oferta no cambia.
+Versión consolidada al 8 de septiembre de 2026 — revisión 3. Reemplaza la revisión 2 del 7 de septiembre.
+Cambia respecto de la revisión 2: precio (USD 4.000 con anclaje declarado a 6.000, no un 20% off),
+la cuenta canónica (techo 90.000 / operativo 75.000), el rango del avatar (30–80M) y lo que eso hace
+con la promesa de "+$100M", quién vende en esta fase, el pitch de DM, y los pendientes 1 y 8.
+La frase de la oferta no cambia.
 
 Método: SOP "Cómo definir tu oferta" (Programa Limitless), Estructura Main.
-Fuentes: Avatar-Genesis.md · Metodo-Unico-Genesis.md · Analisis-Research-05sept.md · Analisis-Competencia.md · Pitch-Corto.md
+Fuentes: Avatar-Genesis.md · Metodo-Unico-Genesis.md · Personaje.md (call 7-sept) · Analisis-Research-05sept.md · Analisis-Competencia.md · Pitch-Corto.md
 Entrega: Entrega-DFY-Piloto.md · Piloto-1a1-Genesis.md
 Cruce que originó esta revisión: outputs/2026-09-07/arquitecto-oferta/Cruce-Oferta-Consultoria.md
 
@@ -23,7 +25,7 @@ NOMBRE DE LA OFERTA
   nombre del método. Regla del método: se busca por categoría, se recuerda por método.
 
 FORMATO
-  3 meses · 1:1 · Done For You · cupo de 5 marcas.
+  3 meses · 1:1 · Done For You · cupo de 5 marcas · USD 4.000, con anclaje declarado a 6.000.
   Los 3 meses NO van en la frase. El SOP es explícito: el tiempo de la oferta es cuánto tarda el resultado, no cuánto dura el programa. El formato se nombra al presentarlo, no en la promesa.
 
 NO VOLVER A
@@ -39,11 +41,14 @@ NO VOLVER A
 AVATAR — "tu ecomm de consumibles"
   Dueño de marca de consumibles —químicos, suplementos, cosmética— que ya factura. Sale del Nivel 3 de la escalera.
   Pasa el test del SOP: Gonza se reconoce, el que arranca de cero no. Eso es lo que se busca.
-  Nota de selección: para el piloto se busca entre 30 y 80 millones/mes, no en todo el rango del avatar (30–150M), para que "+$100M" sea alcanzable y no redundante.
+  Rango: 30 a 80 millones/mes. El rango del avatar y el filtro del piloto son lo mismo — no hay dos avatares.
 
 RESULTADO — "+$100M al mes"
   Es facturación, es concreto y es verificable.
-  Componente a vigilar en la validación: el avatar declarado va de 30 a 150 millones, así que la promesa le habla a la mitad baja del rango. Y cifras en pesos como prueba las usan cinco de siete competidores, según el análisis de competencia. Si la oferta no valida, este es el primer componente a revisar (ver sección 7).
+  Es la aritmética de LTV 3 aplicada al piso del rango: 30M × 3 ≈ 90–100M. Para el de 80M es
+  conservadora. Con el rango cerrado en 30–80M nadie está arriba de 100M, así que la promesa dejó
+  de ser redundante para nadie y quedó fundada en el mecanismo en todo el rango.
+  Lo que sí hay que decir con precisión: "+$100M" es el punto final de LTV 3, no un resultado a 90 días.
   El punto B del avatar sigue siendo "arrancar el mes cobrado" y es lo que se usa en el contenido y en la entrega. En la oferta lidera la facturación; en el contenido lidera la predictibilidad. Las dos cosas conviven: se llega a +$100M sin meter más pauta, y eso es el mes cobrado.
 
 TIEMPO — no está en la frase
@@ -90,8 +95,9 @@ Metodo-Unico-Genesis.md, sección "Las piezas en la entrega DFY". Acá va el cop
   suscripción, sin depender del CPA ni dejar de vender.
 
   PRECIO
-    USD 5.000
-      Pago completo: USD 4.000 — 20% off, precio de piloto
+    USD 4.000 — precio de validación.
+      La idea es venderlo a 6.000. Se entrega a 4.000 porque hace falta dar resultados
+      antes de salir. La diferencia se declara en voz alta, no se negocia.
       2 cuotas de USD 2.250
       3 cuotas de USD 1.700
     Primer cobro recurrente: al cumplirse el primer ciclo de reposición de tu producto.
@@ -121,7 +127,7 @@ Metodo-Unico-Genesis.md, sección "Las piezas en la entrega DFY". Acá va el cop
     SOPs de cada pieza del sistema
 
     Todo esto es una sola cosa: escalar hacia adentro. Llegás a +$100M sin meter
-    más pauta, sino haciendo que cada cliente valga 2,5 veces más.
+    más pauta, sino haciendo que cada cliente valga 3 veces más.
     Si Meta te baja la cuenta, los suscriptores se siguen cobrando. Y la landing te
     la copian en 48 horas; tu base de suscriptores, no.
 ------------------------------------------------------------
@@ -168,8 +174,13 @@ BLOQUE DE AUTORIDAD, al final de cada caption (costo cero, cero implementaciones
 ============================================================
 
   Bio y TikTok — la de arriba.
-  DM de Manu a candidatos del piloto:
-    "Estoy armando algo para marcas como la tuya: que el mes arranque cobrado sin meter más pauta. ¿Te muestro un número?"
+  DM de Manu a candidatos del piloto [CALL 7-SEP @14:00 — esta es la versión que usa]:
+    "Estoy trabajando en un programa nuevo para este mismo problema. Necesito darle resultados
+     a clientes con esto antes de salir a venderlo, así que estoy agarrando a los que mejor
+     parados están. ¿Estás para una call y te cuento?"
+    El frame es de confianza y privilegio, no de pitch. La versión corta anterior —"Estoy armando
+    algo para marcas como la tuya: que el mes arranque cobrado sin meter más pauta. ¿Te muestro un
+    número?"— sonaba a pitch y se reemplazó. Transcripción completa en Personaje.md, sección 5.
   Apertura de la call de diagnóstico:
     "Paso tu e-commerce de compra única a suscripción y hacés el primer cobro recurrente en 30 días, sin depender del producto que pegue ni de pelear el CPA más bajo."
   Página de oferta y PDF — la de la sección 3.
@@ -181,43 +192,59 @@ BLOQUE DE AUTORIDAD, al final de cada caption (costo cero, cero implementaciones
 ============================================================
 
 ESTRUCTURA
-  Precio de lista        USD 5.000
-  Pago completo          USD 4.000   (20% off — precio de piloto)
+  Precio de validación   USD 4.000
+  Lista declarada        USD 6.000
   2 cuotas               USD 2.250   → 4.500  (+12,5%)
   3 cuotas               USD 1.700   → 5.100  (+27,5%)
 
-  Forma recomendada: pago completo. El descuento es el incentivo; antes era una regla impuesta.
+  Forma recomendada: pago completo.
 
-POR QUÉ USD 5.000 SE SOSTIENE
-Referencias que ya existen:
+POR QUÉ USD 4.000 CON ANCLAJE A 6.000
+El 4.000 NO es un descuento negociado. Es el precio de validación, con el 6.000 declarado en voz
+alta: "la idea es venderlo a 6.000, lo entrego a 4.000 porque necesito dar resultados antes de
+salir a venderlo". La diferencia es explícita, no negociada.
+
+Qué sostiene el 6.000 declarado:
   Fran Guess, cliente de Manu con mentoría propia, le dijo que debería cobrar 5.000.
   El mercado cobra entre 6.500 y 10.000.
   La 1a1 actual de 1.800–2.100 "se vende fácilmente y sin esfuerzo" — señal de que está por debajo del precio.
 
-Pero la justificación real es la cuenta del propio cliente:
-  El avatar factura entre 30 y 150 millones por mes. USD 5.000 es entre el 3% y el 15% de UN mes.
-  Con compra única y 30.000 de margen, su techo de pauta por cliente es 30.000.
-  Con 2,5 pedidos promedio, ese techo pasa a 75.000.
-  La diferencia no es un ahorro: es capacidad de compra de clientes que hoy no tiene.
+LA CUENTA QUE JUSTIFICA EL PRECIO
+Comparar el precio contra la facturación es débil cuando el problema del avatar es el margen:
+con el rango nuevo, USD 4.000 es entre el 7,5% y el 20% de un mes, y "el 20% de tu facturación"
+dicho en voz alta a un tipo en break-even suena peor, no mejor. La cuenta correcta es la de
+adquisición.
 
-POR QUÉ 4.000 ES UN DESCUENTO Y NO UN PRECIO MÁS BAJO
-  Es la cuenta de las propias cuotas: 3 × 1.700 = 5.100, ya por encima del precio de webinar.
-  El precio de la oferta es 5.000; el 4.000 es un 20% off por pago completo. Presentarlo así resuelve
-  tres cosas de una:
+  [SUPUESTO DE FX: 30M ARS ≈ 20K USD, la misma conversión que usa este documento.]
 
-  1. Se valida el precio que después se vende. Si el piloto cerrara a "4.000 precio de salida", lo
-     probado sería 4.000 y el webinar saldría con un precio nunca testeado.
-  2. El webinar no sube nada — deja de haber descuento. Avatar-Genesis marca "que el precio cambie
-     según quién lo atienda" como freno de compra declarado: los primeros clientes van a ver el
-     webinar semanas después de haber pagado, y el descuento tiene que tener nombre.
-  3. El pago completo —que la investigación recomienda por "algunos pagan una cuota y desaparecen"—
-     pasa a ser la opción conveniente en vez de una condición.
+  USD 4.000 ≈ 6.000.000 ARS.
+  Techo de pauta hoy, con compra única y 30.000 de margen ......... 30.000 por cliente
+  Techo con LTV 3 ................................................. 90.000
+  Punto operativo recomendado ..................................... 75.000 (quedan 15.000 vivos)
+  Capacidad de compra extra por cliente ........................... 45.000
 
-EL DESCUENTO TIENE CONTRAPARTIDA
-  "Precio de piloto. Entran 5 marcas. A cambio del 20%, tu caso con números reales queda
-   documentado para el webinar."
-  No es una rebaja: es una compra. Se pagan 1.000 dólares menos y se entrega el caso que hoy no
-  existe — el pendiente 5 de este documento.
+  6.000.000 ÷ 45.000 = el programa se paga solo a los ~133 clientes adquiridos al techo nuevo.
+  Para una marca de 30M/mes, eso es una fracción de un mes de adquisición.
+
+  La diferencia entre 30.000 y 75.000 no es un ahorro: es capacidad de compra de clientes que hoy
+  no tiene. Techo y punto operativo se muestran siempre juntos — mostrar solo el techo suena
+  imprudente a un operador; mostrar solo el operativo subvende el mecanismo.
+
+  Es la misma lógica de "el que hace la cuenta no discute el precio", pero con el número puesto.
+
+QUÉ RESUELVE PRESENTARLO CON ANCLAJE Y NO CON DESCUENTO
+  1. El webinar no tiene que subir nada ni quitar un descuento: el 6.000 ya está declarado desde
+     la primera call. Avatar-Genesis marca "que el precio cambie según quién lo atienda" como freno
+     de compra declarado, y los primeros clientes van a ver el webinar semanas después de pagar.
+  2. El pago completo pasa a ser la opción conveniente en vez de una condición.
+  3. La regla "sin bajar el precio" queda intacta y ahora es más simple: bajar de 4.000 en la call
+     está prohibido.
+
+LA DIFERENCIA TIENE CONTRAPARTIDA
+  "Precio de validación. Entran 5 marcas. A cambio de los 2.000 de diferencia, tu caso con
+   números reales queda documentado."
+  No es una rebaja: es una compra. Se pagan 2.000 dólares menos que la lista declarada y se
+  entrega el caso que hoy no existe — el pendiente 8 de este documento.
 
 SI SE COBRA EN CUOTAS
   El DFY está cargado adelante: las 9 piezas se instalan primero y la 1a1 semanal arranca recién
@@ -228,7 +255,8 @@ SI SE COBRA EN CUOTAS
   en letra chica.
 
 CUÁNDO SE JUSTIFICA EL PRECIO
-  En el diagnóstico, no en la llamada de venta. La hoja de costeo con LTV es la herramienta de venta.
+  En el diagnóstico, no en la llamada de venta. La calculadora de tres escenarios —con techo y
+  punto operativo— es la herramienta de venta.
   El que no hace la cuenta discute el precio; el que la hace, no.
   Ver el pendiente 3 de la sección 8: hoy esa hoja está adentro del entregable 1, o sea del otro lado
   de la compra.
@@ -239,18 +267,34 @@ CUÁNDO SE JUSTIFICA EL PRECIO
 
 El SOP: la primera versión es un borrador. Si el mercado no responde, no es un fracaso, es data: se ajusta el componente que falló y se vuelve a probar.
 
-SE CONSIDERA VALIDADA CON 3 A 5 VENTAS AL PRECIO DE LISTA, SIN NEGOCIARLO.
-"Sin bajar el precio" ahora significa: no se cierra por debajo de 4.000, y el 20% no se da sin la
-contrapartida del caso documentado. El que paga en cuotas paga 4.500 o 5.100.
+SE CONSIDERA VALIDADA CON 3 VENTAS AL PRECIO DE VALIDACIÓN, SIN NEGOCIARLO.
+"Sin bajar el precio" ahora significa: no se cierra por debajo de 4.000, y los 2.000 de diferencia
+contra la lista declarada no se dan sin la contrapartida del caso documentado. El que paga en
+cuotas paga 4.500 o 5.100.
+
+Criterio adicional de la call del 7-sep: no alcanza con cerrar 3 — hay que saber que compraron
+por la oferta y no por la confianza previa con Manu. Por eso se piden las grabaciones de las calls.
+
+QUIÉN VENDE EN ESTA FASE [CALL 7-SEP @11:00–22:12]
+  Setter y closer quedan parados hasta validar. Se les comunica de frente: "no vendan más hasta
+  que validemos; cuando se valide sale el webinar y ahí están a full. Si deciden irse, no hay problema."
+  La validación es 1 a 1 con Manu en la call, no con closer. Manu se sube a todas.
+  Los candidatos salen de la CARTERA ACTUAL DE LA MENTORÍA —3 a 5 clientes con marca de consumible
+  adaptable a suscripción—, no de los compradores viejos de la 1a1. Empieza por el que termina
+  programa a los 3 meses: marca de químicos, buenos márgenes, "el avatar calcado".
+  En la call NO SE VENDE: SE DIAGNOSTICA. Qué probó, si comparó soluciones, si intentó algo de
+  suscripción antes. Si no cierra, sirve igual: se aprende del avatar para el contenido y el webinar.
+
 Son dos validaciones distintas:
 
   VALIDACIÓN 1 — LA OFERTA
     Prueba: que el avatar existe, que el mensaje le llega y que paga en el rango 4.000–5.100.
-    Cuándo: 2 a 3 semanas de trabajo de Manu.
-    Sí: 3 a 5 cierres sin negociar el precio.
+    Cuándo: menos de 2 semanas. Son clientes que ya lo conocen y con los que Manu tiene call
+      quincenal, así que no hay que conseguir la reunión.
+    Sí: 3 cierres sin negociar el precio, con la grabación que muestre que compraron por la oferta.
     Señal fuerte: que al menos uno cierre en 3 cuotas (5.100). Eso prueba el precio del webinar de
       forma directa, porque ya lo supera.
-    Lo que queda sin probar: los 5.000 al contado y sin descuento. Eso lo prueba el webinar.
+    Lo que queda sin probar: los 6.000 de lista declarada. Eso lo prueba el webinar.
     No: se agendan llamadas y no cierran. El problema no es el avatar, es la oferta o el precio.
     Decide: si se graba el webinar sobre esta oferta o se corrige primero.
 
@@ -263,9 +307,9 @@ Son dos validaciones distintas:
 
 ORDEN DE AJUSTE SI NO VALIDA
 Del componente más incierto al más firme:
-  1. RESULTADO — "+$100M al mes". Es el componente con más riesgo: le habla a la mitad baja del rango del avatar, y es la moneda de prueba que usan cinco de siete competidores. Alternativa lista: "que el mes arranque cobrado", que es el punto B textual del avatar y no lo dice nadie.
-  2. TIEMPO — hoy no está en la frase. Si el ciclo de reposición se confirma, entra como "primer cobro recurrente a los 30 días" y la oferta gana concreción.
-  3. DOLORES — los dos "sin" salen del análisis de huecos, no del formulario. El Typeform confirma o reordena cuáles pesan, y resuelve la divergencia abierta de la sección 2.
+  1. TIEMPO — hoy no está en la frase. Si el ciclo de reposición se confirma, entra como "primer cobro recurrente a los 30 días" y la oferta gana concreción.
+  2. DOLORES — los dos "sin" salen del análisis de huecos, no del formulario. El Typeform confirma o reordena cuáles pesan, y resuelve la divergencia abierta de la sección 2.
+  3. RESULTADO — "+$100M al mes". BAJÓ en el orden. Con el rango cerrado en 30–80M dejó de ser el componente con más riesgo: es la aritmética de LTV 3 sobre el piso del rango, no una promesa colgada. Lo único a cuidar es cómo se dice — es el punto final de LTV 3, no un resultado a 90 días. Sigue siendo la moneda de prueba que usan cinco de siete competidores. Alternativa lista si igual falla: "que el mes arranque cobrado", que es el punto B textual del avatar y no lo dice nadie.
   4. AVATAR — no se toca sin data. Es el componente más sólido: tres fuentes independientes convergen (ventas, producto, mercado).
   5. MÉTODO — el nombre se valida cuando Manu lo diga en voz alta y le salga natural.
 
@@ -276,7 +320,9 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
 ============================================================
 
   BLOQUEA LA VENTA
-  1. La hoja de costeo con LTV. Auditoría, herramienta de venta y justificación del precio, todo junto.
+  1. La calculadora de suscripción de tres escenarios, con techo y punto operativo. Auditoría,
+     herramienta de venta y justificación del precio, todo junto. Sostiene además el Escenario 3
+     de contenido (pantalla compartida haciendo la cuenta de un negocio real).
 
   BLOQUEA LA PÁGINA DE OFERTA
   2. Ciclo de reposición típico de los productos del avatar. Define si sale el renglón "primer cobro
@@ -285,7 +331,7 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
      página no sale.
 
   DECISIONES ABIERTAS
-  4. Dónde se corta la hoja de costeo gratis y dónde empieza el entregable 1. El contexto es
+  4. Dónde se corta la calculadora gratis y dónde empieza el entregable 1. El contexto es
      explícito en que la cuenta va en el diagnóstico, antes de cobrar; hoy vive adentro del programa,
      o sea que el prospecto tendría que comprar para ver la cuenta que justifica la compra.
      Propuesta a confirmar: versión rápida en la call, gratis; versión auditada como entregable 1.
@@ -296,6 +342,11 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
   7. Que Manu diga "Escalar Hacia Adentro" en voz alta antes de que vaya a la bio. Si no le sale natural, cambia el nombre y cambia la bio.
 
   DATA QUE MEJORA LA OFERTA
-  8. Casos de alumnos con números de suscripción. Hoy la promesa se ancla en el caso de Manu y en el
-     mecanismo; con casos se puede subir. El descuento del piloto está diseñado para comprarlos.
+  8. Casos de alumnos con números de suscripción. PARCIAL, ya no vacío: existe José —único cliente
+     en el modelo de suscripción, 100M ARS de profit/mes—, pero es socio (ayuda a Manu a entregar
+     el servicio) y está fuera del rango del avatar. Prueba el MECANISMO, no el RESULTADO del avatar.
+     Falta el caso de un Nivel 3 dentro del rango. La diferencia contra la lista declarada está
+     diseñada para comprarlo.
+     Antes de usar los números de José en público hay que confirmarlo con él. Regla acordada:
+     retención adelante, profit atrás, doble rol declarado.
   9. Últimos 10 que pagaron la 1a1: confirma el rango de facturación del avatar y de ahí pueden salir los primeros candidatos del piloto.

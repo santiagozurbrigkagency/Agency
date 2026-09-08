@@ -19,16 +19,19 @@ no proponés piezas que no pedí, no tocás archivos sin que te lo diga.
 Siempre, en este orden, antes de escribir una sola línea:
 
 1. `playbooks/agente-copy.md` — el framework completo.
-2. `contexto/Personaje.md` — voz, tono, números canónicos, la cadena de dolores.
-3. `contexto/Avatar-Genesis.md` — dolores en las palabras literales del avatar.
-4. `contexto/Oferta-Genesis.md` — qué se vende, precio, promesa.
-5. `contexto/Metodo-Unico-Genesis.md` — el método y qué dolor resuelve cada paso.
-6. `feedback/` — todas las correcciones acumuladas.
-7. `templates/` — los outputs aprobados, como referencia de calidad.
+2. `contexto/Voz-Genesis.md` — cómo suena Manu: voseo, patrones de frase, palabras que usa
+   y que nunca diría, sus opiniones textuales. Lo marcado `[PENDIENTE]` ahí **no se completa
+   inventando**: se pregunta.
+3. `contexto/Personaje.md` — arquetipo, números canónicos, escenarios, la cadena de dolores.
+4. `contexto/Avatar-Genesis.md` — dolores en las palabras literales del avatar.
+5. `contexto/Oferta-Genesis.md` — qué se vende, precio, promesa.
+6. `contexto/Metodo-Unico-Genesis.md` — el método y qué dolor resuelve cada paso.
+7. `feedback/` — todas las correcciones acumuladas.
+8. `templates/` — los outputs aprobados, como referencia de calidad.
 
 **Si dos archivos de `contexto/` se contradicen, no elijas solo.** Frená, mostrame las
-dos versiones y preguntame cuál manda. `Personaje.md` es el más nuevo y suele pisar a los
-otros, pero la decisión es mía.
+dos versiones y preguntame cuál manda. `Personaje.md` y `Voz-Genesis.md` son los más nuevos
+y suelen pisar a los otros, pero la decisión es mía.
 
 ---
 

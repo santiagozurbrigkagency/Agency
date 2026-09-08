@@ -13,7 +13,7 @@ agentes especializados para tareas recurrentes, cada uno guiado por playbooks
 
 | Carpeta | Qué contiene |
 |---|---|
-| `contexto/` | La data del negocio en su versión vigente: `Avatar-Genesis.md`, `Oferta-Genesis.md`, `Metodo-Unico-Genesis.md`, `Personaje.md`. Fuente única de verdad — todos los agentes leen de acá y ninguno duplica esta data. Si dos archivos se contradicen, el agente pregunta, no elige solo. Ver `contexto/README.md`. |
+| `contexto/` | La data del negocio en su versión vigente: `Avatar-Genesis.md`, `Oferta-Genesis.md`, `Metodo-Unico-Genesis.md`, `Personaje.md`, `Voz-Genesis.md`. Fuente única de verdad — todos los agentes leen de acá y ninguno duplica esta data. Si dos archivos se contradicen, el agente pregunta, no elige solo. Ver `contexto/README.md`. |
 | `agentes/` | Un subdirectorio por agente creado con `/crear-agente`, cada uno con su propio `CLAUDE.md` (rol, alcance, playbooks que usa). |
 | `playbooks/` | Frameworks y criterios propios. Manual de referencia de cómo se hacen las cosas acá. |
 | `templates/` | Ejemplos aprobados, guardados para reusar como referencia de calidad. |
@@ -26,7 +26,7 @@ agentes especializados para tareas recurrentes, cada uno guiado por playbooks
 |---|---|---|---|---|
 | Arquitecto de Producto MVP | `agentes/arquitecto-producto-mvp/` | Convierte avatar + problemas + oferta en un roadmap de entrega MVP (3-5 fases, con vehículo de entrega) | `playbooks/arquitecto-producto-mvp.md` | Activo — falta completar "Datos de mi negocio" |
 | Arquitecto de Oferta | `agentes/arquitecto-oferta/` | Dos modos: **escribir** ofertas con la Estructura Main (variantes, checklist, bio de IG) y **cruzar** una versión nueva contra la data vigente de `contexto/` | `playbooks/arquitecto-oferta.md` | Activo — lee la data de `contexto/`, sin bloque de datos que completar |
-| Agente Copy | `agentes/agente-copy/` | Escribe todo el copy en la voz de Manu (reels, historias, ads, YouTube, mails, bios, carruseles). Tres modos: escribir, planificar la semana y auditar copy existente | `playbooks/agente-copy.md` | Activo — lee la data de `contexto/`. Pendiente: `contexto/Voz-Genesis.md` (muletillas y palabras prohibidas) |
+| Agente Copy | `agentes/agente-copy/` | Escribe todo el copy en la voz de Manu (reels, historias, ads, YouTube, mails, bios, carruseles). Tres modos: escribir, planificar la semana y auditar copy existente | `playbooks/agente-copy.md` | Activo — lee la data de `contexto/`, incluida `Voz-Genesis.md` |
 
 ## Reglas del sistema
 

@@ -1,8 +1,11 @@
 AVATAR — Génesis (Manuel Dominguez)
-Versión consolidada al 7 de septiembre de 2026. Reemplaza la versión del 5 de septiembre.
+Versión consolidada al 8 de septiembre de 2026. Reemplaza la versión del 7 de septiembre.
+Cambia respecto de la anterior: rango de facturación (30–80M), LTV 3, enunciado del Dolor 1,
+ticket, la sección de cuáles dolores pesan (orden de Manu + mapa de conciencia), y la nota de la
+cadena. Todo sale de la call del 7 de septiembre, consolidada en Personaje.md.
 
 Método: SOP "Cómo definir tu avatar" (Programa Limitless), tres pasos — escalera de niveles, descripción general, mapa de dolores.
-Fuentes: Fathoms.md (4 reuniones, 2–4 sept) · Analisis-Competencia.md (9 cuentas relevadas) · Analisis-Research-05sept.md (huecos y contradicciones) · data de ventas declarada por Manuel.
+Fuentes: Fathoms.md (4 reuniones, 2–4 sept) · Fathom call 7-sept · Personaje.md · Analisis-Competencia.md (9 cuentas relevadas) · Analisis-Research-05sept.md (huecos y contradicciones) · data de ventas declarada por Manuel.
 Documentos que dependen de este: Metodo-Unico-Genesis.md · Oferta-Genesis.md · Roadmap-MVP-Genesis.md · Entrega-DFY-Piloto.md · Formulario-Audiencia-Externa.md
 
 Estado: el formulario interno del Discord todavía no tiene respuestas. Los datos demográficos sin evidencia están marcados [HIP] — el SOP autoriza la hipótesis honesta ("ellos mismos de hace unos meses"). Acá el avatar es Manu antes de la suscripción.
@@ -26,7 +29,7 @@ NIVEL 2 — Tiene tienda propia y vende, sin sistema
   Le hablan: Tomás Mingo ("0 a 10k en 90 días"), Mateo Lezama (IA), Duarte, Juanchy.
 
 NIVEL 3 — Ya factura, y escala por volumen hasta que no da más   ← EL AVATAR
-  Dueño de marca de consumibles que factura entre 30 y 150 millones de pesos por mes. Meta Ads, proveedor, algo de equipo. Sabe operar.
+  Dueño de marca de consumibles que factura entre 30 y 80 millones de pesos por mes. Meta Ads, proveedor, algo de equipo. Sabe operar.
   Resolvió: volumen. Aprendió a escalar pauta, creativos, campañas.
   Abrió: escala por volumen y el volumen lo está matando. El CPM sube porque todos compiten por el mismo cliente, la marca va a break-even, y como responsable inscripto no cierra. Cada venta le cuesta lo mismo que la anterior. El 1 del mes arranca en cero. Si Meta le baja la cuenta, se termina.
   Su problema no es no saber escalar: es que la forma en que escala no es sostenible. (Definición literal del Nivel 3 en el SOP.)
@@ -47,11 +50,16 @@ Por qué el 3 y no el 2 (regla del SOP: apuntá al nivel más cercano al tuyo si
 La excepción del SOP no aplica: el 95% del mercado está en químicos, y una fracción de ese 95% ya factura y está en break-even. Es el segmento que más sufre hoy y el único con plata para pagar la solución. Y Manu sabe ayudarlo porque es exactamente el escalón que él subió.
 
 ------------------------------------------------------------
-AVATAR DE LA OFERTA vs AVATAR DEL PILOTO
+POR QUÉ LA PROMESA DE "+$100M" APLICA A TODO EL RANGO
 ------------------------------------------------------------
-La oferta cerrada promete "+$100M al mes". El avatar declarado va de 30 a 150 millones.
-Para que la promesa sea alcanzable y no redundante, los clientes del piloto se buscan en la mitad baja del rango: 30 a 80 millones. El que ya está en 120 no es candidato para esa promesa.
-El avatar del documento no cambia; cambia el filtro de selección del piloto. Ver Entrega-DFY-Piloto.md.
+El filtro del piloto y el avatar ahora son lo mismo: 30 a 80 millones. No hay dos avatares.
+
+La promesa "+$100M al mes" es la aritmética de LTV 3 aplicada al piso del rango:
+30M × 3 ≈ 90–100M. Para el de 80M es conservadora.
+
+Con el rango viejo (hasta 150M) la promesa era redundante para la mitad alta y por eso
+había que filtrar el piloto. Con 30–80M nadie está arriba de 100M, así que la promesa
+quedó fundada en el mecanismo en todo el rango, no a pesar de él.
 
 ============================================================
 PASO 2 — LA DESCRIPCIÓN GENERAL
@@ -66,7 +74,7 @@ DEMOGRÁFICOS
   Nivel educativo: universitario incompleto. [HIP] Patrón en los creadores del nicho (Bulacio dejó la universidad, Mingo estudiaba derecho, Duarte "sin estudios"); a confirmar en alumnos.
   Ocupación: dueño y operador de una marca de e-commerce. Hace él las campañas o supervisa a quien las hace. [DATA]
   Industria: consumibles — químicos (limpieza, cuidado personal), suplementos, cosmética. Producto que se termina y se vuelve a comprar. [DATA]
-  Facturación: 30 a 150 millones ARS/mes (20–100K USD). Margen neto bajo o en break-even. [DATA]
+  Facturación: 30 a 80 millones ARS/mes (20–53K USD, al supuesto de FX de este documento: 30M ARS ≈ 20K USD). Margen neto bajo o en break-even. [DATA — rango cerrado en la call del 7-sep]
   Ingreso personal: no hay data suficiente.
   Fuente principal de ingresos: la marca. Probablemente la única. [HIP] Por eso el miedo a la cuenta de Meta es existencial.
   Clase social: media / media-alta por facturación, sin patrimonio consolidado. [HIP]
@@ -106,8 +114,8 @@ COMPORTAMIENTO EN REDES
 
 COMPORTAMIENTO DE COMPRA
   Por qué compra: para resolver un problema concreto de margen. No compra "aprender e-commerce": ya lo sabe. [DATA — no compra la grupal de 500, compra la 1a1 de 2.100]
-  Ticket: USD 2.100 hoy. Soporta 5.000. [DATA]
-  Qué lo decide: la cuenta (30.000 vs 75.000 de techo de pauta) + un número de retención que nadie más muestra + acceso directo a quien lo hizo. [DATA]
+  Ticket: USD 2.100 hoy. Precio de validación 4.000, lista declarada 6.000. [DATA] La evidencia de que soporta 5.000 —Fran Guess (cliente con mentoría propia) y el mercado cobrando 6.500–10.000— es el respaldo del 6.000 declarado, no del precio que se cobra hoy.
+  Qué lo decide: la cuenta (30.000 de techo hoy contra 75.000 de punto operativo, con techo de 90.000) + un número de retención que nadie más muestra + acceso directo a quien lo hizo. [DATA]
   Qué lo frena: que le rompan lo que funciona; que sea otro curso de "producto ganador"; que el precio cambie según quién lo atienda. [DATA]
   Calidad vs precio: calidad. Pagó 2.100 sin esfuerzo. [DATA]
 
@@ -121,14 +129,22 @@ PASO 3 — MAPA DE DOLORES Y SOLUCIONES
 
 Siete dolores, con las palabras del avatar. En "solución común" va lo que hace CADA competidor nombrado, no el mercado en general — regla del SOP para diferenciarse con precisión.
 
+NOTA DE LA CADENA [CALL 7-SEP @35:45]
+Siguen siendo siete dolores, pero NO son independientes. Manu: "muchos se comunican en cadena.
+Si tenés uno, tenés otro sí o sí. Todo parte de lo mismo." El problema único del que cuelgan
+todos es que LA UNIDAD DE VENTA ES LA COMPRA Y NO EL CLIENTE.
+Consecuencia de formato: en pieza corta va UN eslabón; en video largo y webinar se recorren
+juntos, en orden, y la cadena entera ES el argumento. El diagrama de la cadena está en
+Personaje.md, sección 6.
+
 ------------------------------------------------------------
-DOLOR 1: "Cada venta me cuesta lo mismo que la anterior. No acumulo nada."
+DOLOR 1: "Cada venta me cuesta lo mismo que la anterior y me deja el mismo margen."
 ------------------------------------------------------------
   Solución común:
     Lauti Cardozo / Duarte / Caminos → más pauta, más creativos, más volumen. Escalar es gastar más.
     Mateo Lezama → IA para hacer anuncios "tan buenos que te pidan pagarte".
     Juanchy → buscar otro producto ganador y arrancar el ciclo de nuevo.
-  Nuestra solución: cambiar la unidad de venta, de pedido a suscriptor. El cliente que entra vuelve 2,5 veces mínimo sin volver a pagar adquisición.
+  Nuestra solución: cambiar la unidad de venta, de pedido a suscriptor. El cliente que entra vuelve 3 veces mínimo sin volver a pagar adquisición.
   Por qué es mejor: escalar pauta multiplica el costo; escalar recurrencia multiplica el cliente. La segunda, tercera y cuarta compra son puro profit.
   Nombre de la solución: De Pedido a Suscriptor
   (Nota: originalmente se llamaba "Escalar Hacia Adentro". Ese nombre pasó a ser el del método completo — ver Metodo-Unico-Genesis.md — y la pieza se renombró.)
@@ -140,7 +156,7 @@ DOLOR 2: "El CPM sube todos los meses y estoy en break-even. Si sigo así, en se
     Bulacio → email marketing para generar 30–40% de facturación recurrente sin pauta.
     Mingo → "aplicá esto y hacé 20K": técnica de campaña.
     Todos → mejores creativos, mejores hooks, mejor landing.
-  Nuestra solución: subir el CPA máximo tolerable. Con 30.000 de margen y compra única podés gastar 30.000 por cliente. Con 2,5 pedidos promedio podés gastar 75.000 y seguir rentable.
+  Nuestra solución: subir el CPA máximo tolerable. Con 30.000 de margen y compra única, tu techo es 30.000 por cliente: gastás todo el margen en la primera venta. Con LTV 3 el techo pasa a 90.000, y el punto operativo recomendado es 75.000 — te quedan 15.000 de margen vivo por cliente. Techo y punto operativo se muestran siempre juntos.
   Por qué es mejor: no competís por el CPM más bajo —eso lo decide Meta—, competís por quién puede pagar más por el mismo cliente. Con suscripción, ese sos vos, y la competencia de compra única se queda afuera de la subasta.
   Nombre de la solución: La Cuenta del CPA
 
@@ -171,7 +187,7 @@ DOLOR 5: "Facturo bien pero no puedo blanquear. Si paso a responsable inscripto,
   Solución común:
     Bulacio → armar la estructura fiscal y fabricar legal. Es su ángulo principal.
     Lauti / Caminos / Duarte → no lo tocan. El "200M por mes" es siempre bruto.
-  Nuestra solución: no es un problema fiscal, es un problema de margen. Con LTV de 2,5 pedidos el margen por cliente se multiplica, y ahí IVA y ganancias entran. La formalización se vuelve posible porque el modelo la aguanta.
+  Nuestra solución: no es un problema fiscal, es un problema de margen. Con LTV de 3 pedidos el margen por cliente se multiplica, y ahí IVA y ganancias entran. La formalización se vuelve posible porque el modelo la aguanta.
   Por qué es mejor: Bulacio te da la estructura legal; si el margen no la sostiene, es una estructura para fundirte en blanco. Primero el modelo, después el contador.
   Nombre de la solución: Margen Formalizable
 
@@ -185,8 +201,14 @@ DOLOR 6: "Ya pagué dos mentorías y me enseñaron a buscar producto. Yo ya teng
     Mingo → "de 0 a 10K" — ya está arriba de eso.
   Nuestra solución: no se cambia el producto, se cambia cómo se vende. Variación de producto para suscripción —formato, dosis, ciclo de reposición— sobre lo que ya vende. El roadmap de Génesis arranca en "variación de producto", no en "buscá producto".
   Por qué es mejor: parte de lo que ya funciona en vez de volver a testear desde cero. Es el único programa del mercado que no le pide al avatar que tire lo que construyó.
-  Redacción para copy: "sin depender del producto que pegue" — nombra la lotería y es más filoso que "sin cambiar de producto".
   Nombre de la solución: Migración sin Frenar
+  [CALL 7-SEP @35:45] Manu: "es el menos fuerte de todos". El avatar nuevo ya tiene el producto
+  definido, y este dolor describe lo que COMPRÓ EN EL PASADO, no lo que le está sangrando ahora:
+  no es un dolor de P&L. Se queda acá como objeción de venta —es real y aparece en la call—
+  pero no entra en la frase de la oferta ni en el contenido de dolor.
+  El ángulo "dejar de buscar winners" ya no vive acá: se mudó a la historia de Manu
+  (Personaje.md, sección 4). La redacción para copy "sin depender del producto que pegue"
+  se mudó con él.
 
 ------------------------------------------------------------
 DOLOR 7: "Todos venden lo mismo que yo. Me copian la landing en dos semanas."
@@ -202,10 +224,34 @@ DOLOR 7: "Todos venden lo mismo que yo. Me copian la landing en dos semanas."
 Chequeo del SOP: siete dolores (entre 5 y 10), ninguno repetido, cada uno con solución común nombrada por competidor, y cada "nuestra solución" es un mecanismo distinto, no una promesa.
 
 CUÁLES PESAN MÁS EN LA DECISIÓN DE COMPRA
-Según el análisis de huecos, los dos que van a la oferta como los "sin":
-  Dolor 2 — más pauta. Es el hueco de mecanismo, el más grande.
-  Dolor 6 — cambiar de producto. Es la objeción directa a comprar otra mentoría.
-Los dolores 4 y 5 (Meta, blanqueo) son miedos, no soluciones que ya le fallaron: van al contenido, no a la frase de la oferta.
+
+LO QUE LA OFERTA REALMENTE USA COMO "SIN"
+  Dolor 2 — más pauta / CPM en break-even. Es el hueco de mecanismo, el más grande.
+  Obstáculo O2 del método — "ni dejar de vender": no frenar ni romper la operación que hoy
+  factura mientras cambia el modelo. Es el miedo específico del Nivel 3.
+  El Dolor 6 NO entra acá. Antes figuraba como el segundo "sin", pero la Oferta nunca lo usó
+  y Manu lo bajó a "el menos fuerte de todos" en la call del 7-sep.
+
+ORDEN DE FUERZA SEGÚN MANU [CALL 7-SEP @31:30–36:24]
+  Más fuertes: CPA (Dolor 1) y metadependencia (Dolor 4).
+  El que más califica: blanqueo (Dolor 5) — el que lo siente factura de verdad y ya habló
+  con un contador.
+  El que hay que enseñar: "el 1 arranco en cero" (Dolor 3) — "las personas con este dolor
+  no son muy conscientes del problema".
+  El más débil: producto (Dolor 6).
+
+MAPA DE CONCIENCIA — es lo que decide el formato, no la intensidad del dolor
+  NO NECESITA EXPLICACIÓN → hook corto de TikTok e historias
+    Metadependencia (Dolor 4). Es miedo puro, cero educación: el mejor hook corto de todos.
+    CPA (Dolor 1). Lo siente todos los días.
+  NECESITA UNA CUENTA → TikTok con número en pantalla, o video largo
+    CPM / break-even (Dolor 2). Blanqueo (Dolor 5).
+  NECESITA QUE SE LE ENSEÑE EL PROBLEMA → video largo y webinar, NUNCA hook
+    "El 1 arranco en cero" (Dolor 3) y mercado finito. No sirve de hook: el avatar todavía
+    no sabe que tiene el problema.
+
+Los dolores 4 y 5 van al contenido, no a la frase de la oferta. El 4 va corto (hook);
+el 5 va largo, porque necesita la cuenta del margen para entenderse.
 
 ============================================================
 QUÉ ESTE AVATAR DEFINE EN EL RESTO DE LOS DOCUMENTOS
@@ -217,7 +263,7 @@ QUÉ ESTE AVATAR DEFINE EN EL RESTO DE LOS DOCUMENTOS
   Contenido — cada dolor es una serie: un TikTok, un video largo y una pieza de prueba.
   Packaging — carril analista (pizarra anotada, tablero de suscriptores, logos de Grüns/AG1), no carril de auto. Al dueño de negocio se le vende sin venderle.
   Calificación — el setter agenda solo si ya factura: ¿vendés hoy? ¿cuánto por mes? ¿consumible o compra única?
-  Selección del piloto — filtro adicional de 30 a 80 millones, por la promesa de "+$100M".
+  Selección del piloto — sin filtro adicional: el rango del avatar (30 a 80 millones) ya ES el filtro.
 
 ============================================================
 PENDIENTE PARA CERRAR EL AVATAR

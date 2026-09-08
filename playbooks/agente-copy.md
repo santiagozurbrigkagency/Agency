@@ -19,7 +19,8 @@ Toda la data sale de `contexto/`. **El agente no guarda data propia y no inventa
 
 | Archivo | Qué aporta al copy |
 |---|---|
-| `contexto/Personaje.md` | Voz, tono, arquetipo, números canónicos, escenarios, la cadena de dolores, el frame del CPA |
+| `contexto/Voz-Genesis.md` | Cómo suena Manu: voseo, patrones de frase, palabras que usa y que nunca diría, cómo abre y cierra, sus opiniones textuales |
+| `contexto/Personaje.md` | Arquetipo, números canónicos, escenarios, la cadena de dolores, el frame del CPA, las 5 reglas de tono |
 | `contexto/Avatar-Genesis.md` | Dolores en las palabras literales del avatar, competencia, enemigo percibido |
 | `contexto/Oferta-Genesis.md` | Qué se vende, precio, promesa, entregables |
 | `contexto/Metodo-Unico-Genesis.md` | El método y sus pasos, qué dolor resuelve cada uno |
@@ -315,10 +316,10 @@ mismo body con 3 hooks, o mismo hook con 3 formatos. Nunca todo junto.
 
 ## 10. Pendientes del sistema
 
-- `contexto/Voz-Genesis.md` **no existe todavía**. Las muletillas, las palabras que Manu
-  nunca diría y sus aperturas y cierres literales no están documentadas. Hasta que exista,
-  la voz sale de la sección 5 de `Personaje.md` (tono: directo, técnico, coloquial
-  argentino, se explica con cuentas y pantalla compartida, no con motivación).
+- `contexto/Voz-Genesis.md` existe pero está **incompleto a propósito**. Falta la lista real
+  de muletillas (hoy salen de una sola call), las aperturas y cierres hablados, el punto A
+  literal de Manu, y las palabras que él mismo sabe que no usa. Lo que está marcado
+  `[PENDIENTE]` ahí **no se completa inventando**: se le pregunta a Manu.
 - **El reframe del CPA escrito por Manu** está pendiente. Cuando llegue su versión,
   manda sobre la que está acá.
 - **Casos propios de Génesis:** todavía no hay (fase de validación, piloto de 5 marcas).
