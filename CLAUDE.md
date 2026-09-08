@@ -25,6 +25,7 @@ agentes especializados para tareas recurrentes, cada uno guiado por playbooks
 | Agente | Carpeta | Propósito | Playbooks que usa | Estado |
 |---|---|---|---|---|
 | Arquitecto de Producto MVP | `agentes/arquitecto-producto-mvp/` | Convierte avatar + problemas + oferta en un roadmap de entrega MVP (3-5 fases, con vehículo de entrega) | `playbooks/arquitecto-producto-mvp.md` | Activo — falta completar "Datos de mi negocio" |
+| Arquitecto de Oferta | `agentes/arquitecto-oferta/` | Dos modos: **escribir** ofertas con la Estructura Main (variantes, checklist, bio de IG) y **cruzar** una versión nueva contra la data vigente de `contexto/` | `playbooks/arquitecto-oferta.md` | Activo — lee la data de `contexto/`, sin bloque de datos que completar |
 
 ## Reglas del sistema
 
