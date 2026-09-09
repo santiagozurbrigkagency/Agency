@@ -42,9 +42,9 @@ Génesis ese bloque no se completa a mano: ya existe en `contexto/`.**
 - **Testimonios reales, con link al video o audio.** **José es el caso principal y se explota en
   todo el contenido** (ver sección 2). Lo que falta son casos que cubran el resto de los
   sub-segmentos: esos se piden, y si no están se marca `[FALTA CASO REAL]`. **Nunca se inventa.**
-- **Marco global / scarcity real.** El negocio está en **validación, no en lanzamiento**: hoy no
-  hay fecha de cierre ni cupos. Si no hay nada real, se declara "no hay" y **el VSL no usa
-  urgencia**.
+- **Marco global / scarcity real.** Hoy no hay fecha de cierre. Lo que sí hay es el **cupo de 5
+  marcas**, y es real: se usa explicado por capacidad de atención, nunca por validación (ver
+  sección 6). Si no hay nada real, se declara "no hay" y **el VSL no usa urgencia**.
 - **La duración.** Es decisión de negocio y no está en `contexto/`. **Se pregunta siempre.**
   Cambia qué bloques entran y qué trabajo hace el video.
 - **Nivel de conciencia del tráfico** de la pieza puntual. Cambia todo. Se pregunta, no se supone.
@@ -125,8 +125,9 @@ suscripción), no en venta dura. **8-15 min.**
 ### TIPO 4 — CHAT
 Se manda **1 a 1 por DM o WhatsApp** a leads ya calificados. **15-25 min, flexible.** Misma
 columna vertebral que el Landing, pero con más historia personal del referente, más detalle en la
-oferta (precio, plan de pago, garantías), CTA cálido ("escribime", no "tocá el botón") y permite
-tangentes.
+oferta, CTA cálido ("escribime", no "tocá el botón") y permite tangentes.
+**Es el único tipo donde el precio puede entrar sin CTA de compra**, porque va 1 a 1 a un lead ya
+calificado y hay una persona sosteniendo el frame del otro lado.
 
 ### TIPO 5 — THANK-YOU PAGE
 Confirma el agendamiento, baja la ansiedad y **previene el no-show**. **1-3 min.**
@@ -261,6 +262,12 @@ registrarse a evento / reactivar / upsell.
 **MARCO GLOBAL** — el contexto que define por qué se está viendo esto **ahora**: los 7 días antes
 del cierre, la cohorte que arranca, el método nuevo que nadie enseña todavía. Sin scarcity real el
 VSL pierde urgencia. **Si no hay marco real, se avisa. No se inventa.**
+
+> **El cupo se explica por capacidad, nunca por validación.** Mismo hecho, señal opuesta:
+> ✘ "Abrí cinco lugares porque necesito resultados antes de salir" → *estoy probando esto*.
+> ✔ "Tomo cinco marcas a la vez: son calls quincenales y chat directo, más no atiendo bien"
+> → *soy selectivo*.
+> Ver la regla completa en la sección 8, principio 12.
 
 **BIG IDEA** — la única idea que, si se adopta, acomoda todo lo demás. Es el reframe de la creencia
 común del nicho. Estructura: **"No es X, es Y."**
@@ -407,6 +414,18 @@ Columna vertebral del TIPO 1, con: más historia personal del referente, más de
 10. **Anti-guru.** Sin motivación vacía, sin disclaimers innecesarios.
 11. **2-3 frases quotables por VSL:** antítesis ("X no. Y, sí."), inversión de causalidad ("No es
     que X, es que Y"), o un reveal corto que cierra una idea grande.
+12. **El precio no entra si el CTA no es comprar.** Si el CTA es formulario, WhatsApp o agendar,
+    el precio es **conversación de llamada**. En un video le da al lead un motivo para irse antes
+    de hablar con nadie: se defiende con una persona enfrente sosteniendo el frame, no solo.
+13. **Nunca se le dice al lead que la oferta está en validación.** Ni "piloto", ni "precio de
+    validación", ni "necesito casos", ni "antes de salir a vender esto en serio". Eso es
+    información interna del negocio, no argumento de venta. **No se escucha como transparencia:
+    se escucha como "soy un experimento"** — y con un avatar que está evaluando si el que habla es
+    el verdadero, resta autoridad en vez de sumar confianza.
+14. **La regla 4 de tono se ejecuta sobre los DATOS, no sobre la solidez del negocio.** "Si algo no
+    se sabe, se dice" aplica a lo que no está medido y a los gaps de prueba —el rango que un caso
+    no cubre, un número que no existe—. **No aplica a la madurez de la oferta.** Confundir las dos
+    cosas es lo que produjo el error del 9-sep (`feedback/2026-09-09-vsl-sin-precio-ni-piloto.md`).
 
 La regla de **"programa"** (no se usa antes del bloque de oferta; se camufla con mecanismo,
 sistema, método, proceso, abordaje) ya es el anti-patrón 6 de `playbooks/agente-copy.md`.
@@ -532,7 +551,9 @@ Si hay gaps: se recomienda **la acción concreta** para cerrar cada uno.
 - **Un solo pronombre** — voseo, sin mezclar.
 - **Números canónicos exactos** (`playbooks/agente-copy.md`, sección 6).
 - **Techo y punto operativo juntos** si aparece la cuenta del CPA.
-- **Scarcity real, o no se usa.**
+- **Scarcity real, o no se usa** — y el cupo explicado por capacidad, no por validación.
+- **El precio no aparece** si el CTA no es comprar.
+- **Ni "piloto" ni "validación"** en boca del referente.
 - **Checklist anti-vacíos** pasado y devuelto.
 - **La voz es la de Manu**, no la del marketer.
 
@@ -556,8 +577,11 @@ Además de los 11 de `playbooks/agente-copy.md`:
 10. **NUNCA se copia el tono de un nicho a otro.** Génesis es B2B: lógica, riesgo, resultado
     medible. No emoción abierta ni lenguaje íntimo.
 11. **NUNCA casos de éxito random** sin mapear sub-segmentos del avatar.
-12. **NUNCA se entrega sin pasar el checklist anti-vacíos.**
-13. **NUNCA se entrega el VSL entero sin los checkpoints previos** (inputs → calibración →
+12. **NUNCA se nombra el precio si el CTA no es comprar.** Es conversación de llamada.
+13. **NUNCA se le dice al lead que la oferta está en validación** — ni piloto, ni precio de
+    validación, ni "necesito casos". Se escucha como "soy un experimento", no como transparencia.
+14. **NUNCA se entrega sin pasar el checklist anti-vacíos.**
+15. **NUNCA se entrega el VSL entero sin los checkpoints previos** (inputs → calibración →
     producción).
 
 ---

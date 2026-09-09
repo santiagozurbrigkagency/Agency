@@ -2,10 +2,12 @@
 
 Destino: landing linkeada desde la descripción de los videos de YouTube y desde la bio del canal.
 Producido por: agente-vsl · 9 de septiembre de 2026.
-**Duración objetivo: 4 a 6 minutos.** Esta versión son **936 palabras habladas + 10 segundos de
-testimonio = 6:00** a 160 palabras por minuto. **Está en el techo del rango.** Si al grabarlo se
-pasa, el orden de corte está al final ("Cómo bajarlo a 4:00") — el primer corte deja el video en
-5:40.
+**Duración objetivo: 4 a 6 minutos.** Esta versión son **910 palabras habladas + 10 segundos de
+testimonio = 5:51** a 160 palabras por minuto. Si al grabarlo se pasa, el orden de corte está al
+final ("Cómo acortarlo"): los tres cortes baratos lo dejan en 5:15.
+
+**Sin precio y sin la palabra piloto** (decisión de Santi, 9-sep). Ver "Qué se cayó" abajo y la
+costura a resolver en DATOS FALTANTES, punto 6.
 Entrega doble: **beat** (una línea por bloque) + **guión palabra por palabra** (bloques de cita).
 
 **Excepción de cadencia declarada:** la cadena del bloque 2 ("Largás un químico…") tiene 35
@@ -22,11 +24,11 @@ material que no se parafrasea. Es su Patrón 1: la cadena corre con comas, no co
 | Tipo de VSL | **TIPO 1 — Landing Page**, en formato corto |
 | Nicho | B2B / consultoría — tono lógico, prueba con números |
 | Nivel de conciencia | Consciente de la solución, **no del mecanismo**. Viene de ver contenido de Manu: la autoridad ya está parcialmente construida |
-| Ticket | Premium — USD 4.000, anclaje declarado a 6.000 |
+| Ticket | Premium — USD 4.000, anclaje declarado a 6.000. **No se nombra en el video** |
 | Duración | **4-6 min — decisión de negocio, no derivada del ticket** |
-| Objetivo | Que complete el formulario de aplicación al piloto |
+| Objetivo | Que complete el formulario |
 | **Qué hace este VSL** | **No cierra la venta. Hace que quiera la cuenta hecha con sus números.** El cierre es la llamada de Manu |
-| Marco global | El piloto de 5 marcas al precio de validación, antes de que salga el webinar. **Scarcity real** |
+| Marco global | **Cinco marcas a la vez, por capacidad de atención.** Hoy hay lugar. Es el mismo hecho que el cupo, leído desde la capacidad y no desde la validación |
 | Big Idea | **No competís por el CPM más bajo. Competís por quién puede pagar más por el mismo cliente** |
 | Big Problem | **Tu unidad de venta es la compra, no el cliente** |
 | Voz / tono | Manu. Voseo estricto, presente, cadena causal que remata en plata, remate seco |
@@ -35,7 +37,7 @@ material que no se parafrasea. Es su Patrón 1: la cadena corre con comas, no co
 | Avatar 2 | Gonza, 27, Córdoba. Factura 60M/mes con Meta Ads. Sabe operar. Break-even. Tiene USD 3.000 si le muestran la cuenta |
 | Casos mapeados | José → sub-segmento "ya migró y sostiene el modelo". Prueba el **mecanismo** |
 | Gaps de prueba | **Rango 30-80M sin cubrir.** Se declara en cámara, no se disimula |
-| Scarcity real | **Sí** — cupo de 5 marcas + precio de validación 4.000 contra 6.000 de lista |
+| Scarcity real | **Sí** — cinco lugares, y es verdad. **El precio queda afuera del video**: es conversación de llamada |
 | Contexto del funnel | YouTube (descripción + bio) → esta landing → formulario → Manu prospecta → WhatsApp |
 
 ## QUÉ SE CAYÓ AL PASAR DE 20 MIN A 6:00, Y POR QUÉ
@@ -45,7 +47,8 @@ material que no se parafrasea. Es su Patrón 1: la cadena corre con comas, no co
 | ORIGIN STORY | **Fuera.** El tráfico viene de ver contenido de Manu: la autoridad ya está hecha. Es lo primero que sobra cuando el video es corto |
 | Auditoría de intentos pasados | **Fuera.** Costaba 90 segundos y su único trabajo era llegar al insight. El insight se dice directo |
 | Las 7 piezas del método | **Comprimidas a 3 tiempos.** El detalle pieza por pieza es material de la llamada, no del video |
-| Los 12 renglones de la oferta | **Comprimidos a una frase.** En 5 minutos con CTA a formulario, el stack no se lee: se nombra |
+| Los 12 renglones de la oferta | **Comprimidos a una frase.** En 6 minutos con CTA a formulario, el stack no se lee: se nombra |
+| El precio y la palabra "piloto" | **Fuera, por decisión de Santi (9-sep).** "Precio de validación" y "necesito casos" le dicen al lead que sos un experimento, y el precio antes de la llamada solo da motivo para irse. El cupo de 5 se explica ahora por capacidad de atención |
 | OBJECIÓN y ELEGIBILIDAD | **Fusionados en un bloque de 30 segundos** |
 | La cadena de 6 eslabones | **Bajada a 4**, en la cadena causal que Manu ya dice de corrido |
 
@@ -167,30 +170,26 @@ material que no se parafrasea. Es su Patrón 1: la cadena corre con comas, no co
 >
 > Ahora te digo algo que me conviene no decir.
 >
-> José factura arriba de los 80 millones. Te prueba que el mecanismo funciona. No que le vaya a pasar lo mismo a una marca de 40.
+> José factura arriba de los 80 millones. Te prueba que el mecanismo funciona. No que los números te vayan a dar iguales a vos.
 >
-> Esa prueba no la tengo todavía. Y por eso existe lo que sigue.
+> Los tuyos son otros. Y son los únicos que importan acá.
 
 ---
 
-## 5 · OFERTA Y MARCO · ~0:33
+## 5 · QUÉ ES Y POR QUÉ CINCO · ~0:28
 
-> **Beat:** cinco lugares, qué se hace, y el precio explicado en vez de anunciado. El puente es el
-> gap que acaba de declarar.
+> **Beat:** qué es el trabajo y por qué son cinco lugares. **Sin precio y sin la palabra piloto:**
+> el precio es conversación de llamada, y el cupo se explica por capacidad, no por validación.
 
-**En pantalla:** placa — 5 marcas · 3 meses · 1a1 · DFY.
+**En pantalla:** placa — 3 meses · 1 a 1 · lo hacemos nosotros · 5 marcas.
 
-> Abrí cinco lugares. Cinco marcas.
+> Esto se trabaja uno a uno, durante tres meses, y lo hacemos nosotros.
 >
-> Tres meses, uno a uno, y el trabajo lo hacemos nosotros. Te instalamos la suscripción al lado de la compra única, y convertimos la base que ya te compró.
+> Te instalamos la suscripción al lado de tu compra única, sin tocarla. Convertimos la base que ya te compró. Y te dejamos el tablero corriendo.
 >
-> Vale 6.000 dólares. Es lo que va a costar cuando tenga los casos.
+> Tomo cinco marcas a la vez. No es escasez inventada: son calls quincenales y chat directo conmigo, y más de cinco no las atiendo bien.
 >
-> Hoy entra a 4.000.
->
-> La diferencia no es una promoción que vence el domingo. Necesito resultados de marcas en tu rango antes de salir a vender esto en serio.
->
-> Entrás antes de que exista la prueba. Por eso pagás menos.
+> Hoy hay lugar.
 
 ---
 
@@ -252,19 +251,37 @@ material que no se parafrasea. Es su Patrón 1: la cadena corre con comas, no co
 
 ---
 
-# CÓMO BAJARLO A 4:00
+# CÓMO ACORTARLO
 
-Se cortan estos tres, en este orden. **No se toca el bloque 3.**
+**El bloque 3 no se toca a ninguna duración.** Es el mecanismo: sin el frame del CPA contra el CAC
+no hay VSL.
+
+### Cortes baratos — de 5:51 a 5:15
 
 1. **El gap del rango**, en el bloque 4 — desde *"Ahora te digo algo que me conviene no decir"*
-   hasta *"Esa prueba no la tengo todavía"*. Ahorra ~20 s. **Es el corte que más cuesta:** es la
-   regla 4 de tono ejecutada donde más duele y con este avatar construye confianza. Se corta
-   primero solo porque es lo único que se puede sacar sin romper la lógica.
-2. **La objeción de las mentorías**, en el bloque 6 — se queda solo el filtro. Ahorra ~15 s.
-3. **El eslabón del blanqueo**, en el bloque 2 — la línea del monotributo. Ahorra ~10 s.
+   hasta *"Los tuyos son otros"*. Ahorra ~17 s. **Es el que más cuesta:** es la regla 4 de tono
+   ejecutada donde más duele. Se corta primero solo porque es lo único que sale sin romper la lógica.
+2. **La objeción de las mentorías**, en el bloque 6 — queda solo el filtro. Ahorra ~12 s.
+3. **El eslabón del blanqueo**, en el bloque 2 — la línea del monotributo. Ahorra ~6 s.
    **Ojo:** es el eslabón que más califica. Sacarlo baja la calidad de las aplicaciones.
 
-Con los tres cortes queda en **4:10**. Solo con el primero queda en **5:40**.
+### Para llegar a 4:00 hay que operar, no recortar
+
+4:00 son ~613 palabras habladas. Desde 910 hay que sacar **300**, y con los tres cortes de arriba
+apenas se van 95. Los otros 200 salen de acá, y cada uno cuesta algo real:
+
+- **El bloque 6 entero** (83 palabras). Se va el filtro de elegibilidad → **más aplicaciones y
+  peores**. Es el corte que más plata cuesta en tiempo de Manu.
+- **Los tres tiempos del método a una línea** (~60 palabras): *"Se hace una variante del producto
+  que ya vendés, se recalcula tu techo con el LTV nuevo, y se construye la base"*. Se va el
+  pre-empt de "me rompe la operación", que hoy vive en el tiempo uno.
+- **El testimonio de José y su contexto** (~40 palabras + los 10 s del clip). Se va la única prueba
+  de que esto le funcionó a alguien que no es Manu.
+- **El future pacing del bloque 8** (~30 palabras). Se va el único momento del video donde el
+  avatar se ve a sí mismo del otro lado.
+
+**Recomendación: no bajar de 5:00.** Abajo de eso se empiezan a cortar cosas que hacen el trabajo,
+no relleno. Si hace falta un formato más corto, no es este video recortado: es otra pieza.
 
 ---
 
@@ -276,7 +293,7 @@ Con los tres cortes queda en **4:10**. Solo con el primero queda en **5:40**.
 | 2 · DOLOR | Escenario 1, a cámara. Cierre sobre la pizarra | La cadena dibujada antes de grabar |
 | 3 · VEHÍCULO | Escenario 1, pizarra. Se escribe CPA / CAC y la subasta | — |
 | 4 · PRUEBA | **Escenario 3** — pantalla compartida, tablero de Scalify | Tablero abierto + testimonio de José grabado |
-| 5 · OFERTA | Voz en off sobre placa | Diseño de la placa |
+| 5 · QUÉ ES | Voz en off sobre placa | Diseño de la placa, **sin precio** |
 | 6 · OBJECIÓN | Escenario 1, a cámara | — |
 | 7 · CTA | Placa con el botón | Formulario publicado |
 | 8 · REFORZADOR | Escenario 1, **mismo encuadre que el hook** | — |
@@ -291,7 +308,7 @@ bloque 4 va aparte.
 1. **El OK de José** para usar sus números en público. Sin eso el bloque 4 no sale.
 2. **Activos y churn de la base de José.** Van adelante del profit por la regla 1 de tono. Hoy no
    están documentados y quedan marcados en el guión.
-3. **El testimonio de José grabado**, 15 segundos, sin guión.
+3. **El testimonio de José grabado**, 10 segundos, sin guión.
 4. **La reescritura del reframe del CPA por Manu.** El bloque 3 usa la versión de la call. Cuando
    llegue la de él, se reemplaza — su versión manda.
 5. **El destino del CTA.** Escrito para **formulario**. Si va a WhatsApp directo, cambian tres
@@ -300,7 +317,16 @@ bloque 4 va aparte.
    un link a mi WhatsApp. Escribime con tres datos: qué vendés, cuánto facturás por mes, y si tu
    producto se vuelve a comprar. / Te contesto yo, no hay un vendedor atrás de esto. / Si tu marca
    entra en el rango, hacemos tu cuenta en pantalla"*.
-6. **Confirmación del cupo de 5** y de que el precio de validación sigue en 4.000.
+6. **Confirmación del cupo de 5** y de que sigue habiendo lugar cuando se publique.
+
+   **Costura a resolver antes de la primera llamada.** El video ya no dice piloto ni precio de
+   validación. Pero `contexto/Oferta-Genesis.md` dice que en la call el anclaje **se declara en voz
+   alta y no se negocia**: "vale 6.000, entra a 4.000 porque necesito dar resultados antes de
+   salir". Si el video construye "trabajo con cinco marcas porque más no atiendo" y la llamada
+   arranca con "necesito casos", el Nivel 3 escucha las dos cosas y una de las dos suena a excusa.
+   Las dos versiones son verdad; la diferencia es dónde se dice cada una. En la llamada hay una
+   persona sosteniendo el frame y ahí el argumento del precio funciona; en el video, solo. **Hay
+   que decidir si el argumento del precio en la call se reformula, o se acepta la costura.**
 7. **Marcas fuera de Tiendanube.** El bloque 5 promete "tu tienda con el cobro recurrente
    instalado" y hoy eso se apoya en la suscripción nativa de Tiendanube, que está
    `[NO PUBLICAR HASTA CONFIRMAR]` para marcas que no estén ahí.
@@ -329,9 +355,10 @@ El **Dolor 6** entra como objeción en el bloque 6, que es donde `contexto/Avata
 ubica desde la call del 7-sep.
 
 **Objeciones sin pre-empt:**
+- **El precio no se pre-emptea porque no se nombra.** La objeción de precio se maneja entera en la llamada. Riesgo asumido: llegan aplicaciones de gente que no puede pagar 4.000. El filtro queda en la pregunta de facturación del formulario (30M+) y en el bloque 6.
 - "Ya pagué mentorías que me enseñaron a buscar producto" → bloque 6.
 - "Me va a romper la operación que hoy factura" → bloque 3, tiempo uno (variante paralela).
-- "Por qué es más barato de lo que dice que vale" → bloque 5, explicado en vez de anunciado.
+- "Esto lo está probando conmigo" → **desactivada por diseño:** no se dice piloto, ni validación, ni precio de validación. El cupo de 5 se explica por capacidad.
 - "Esto es para marcas grandes" → bloque 4, declarando el gap del rango.
 - **Sin pre-empt: "no tengo tiempo para meterme en esto ahora".** No está en
   `contexto/Avatar-Genesis.md` como objeción documentada y no entró por espacio. Si aparece en las
