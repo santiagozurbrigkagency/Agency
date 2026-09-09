@@ -54,8 +54,11 @@ RESULTADO — "+$100M al mes"
 TIEMPO — no está en la frase
   No hay data de cuánto tardan los alumnos en tener base estable, así que no se pone un plazo al resultado completo. Poner "90 días" sería humo (error 2 del SOP).
   Lo que sí está anclado al mecanismo y se usa en la call, en la página de la oferta y en el webinar: el primer cobro recurrente cae al cumplirse el primer ciclo de reposición del producto. Si el producto se termina en 30 días, el primer cobro llega a los 30. Es una velocidad, no un plazo — la forma que el SOP recomienda cuando no todos arrancan del mismo lugar.
-  [PENDIENTE MANU] ciclo de reposición típico de sus productos. Hasta que se confirme, la velocidad
-  no se publica: es lo único que hoy le falta al bloque de precio para responder "¿cuándo veo el primer peso?".
+  [RESUELTO 9-sep, respuesta de Santi] No hay un ciclo de reposición típico único — varía mucho
+  según el cliente. Se define caso por caso en la Fase 1 de cada uno, junto con la variante. La
+  formulación condicional que ya está en el precio ("si tu producto se termina en 30 días, el
+  primer cobro llega a los 30") queda validada tal cual: es un ejemplo, no una promesa general.
+  No se publica un número por defecto porque no lo hay — la velocidad se calcula por cliente.
 
 DOLOR 1 — "sin depender del CPA"
   Sale del Dolor 2 del mapa: el CPM sube y la marca va a break-even. Es la solución común de Lauti, Duarte, Caminos y Mingo (más pauta, más creativos), y es el hueco de mecanismo, el más grande de todos.
@@ -102,7 +105,11 @@ Metodo-Unico-Genesis.md, sección "Las piezas en la entrega DFY". Acá va el cop
       3 cuotas de USD 1.700
     Primer cobro recurrente: al cumplirse el primer ciclo de reposición de tu producto.
     Si tu producto se termina en 30 días, el primer cobro llega a los 30.
-    [NO PUBLICAR HASTA CONFIRMACIÓN DE MANU]
+    [ACTUALIZADO 9-sep: la frase condicional queda validada — no hay ciclo de reposición típico
+    único, varía por cliente, y por eso se dice condicional ("si... llega a los...") y no un
+    número fijo. El cobro recurrente en sí se hace por suscripción nativa de Tiendanube.
+    Sigue [NO PUBLICAR HASTA CONFIRMAR] el caso de marcas del avatar que no están en Tiendanube
+    — ver Roadmap-MVP-Genesis.md, hueco 1.]
 
   QUÉ INCLUYE
     Tu roadmap de conversión, con la auditoría de tu operación y tus números:
@@ -122,7 +129,8 @@ Metodo-Unico-Genesis.md, sección "Las piezas en la entrega DFY". Acá va el cop
     Tu tablero de suscriptores activos, churn y recompra, con el reporte que
       mirás cada mes (DFY)
     Tu cuenta de formalización: en qué punto de la base te cierra pasar a blanco (DFY)
-    [N] sesiones 1 a 1 con Manu, una por semana, una vez instalado el DFY
+    Sesiones de migración con Manu hasta instalar tu suscripción, y después,
+      chequeo semanal 1 a 1 con Manu
     Chat 1 a 1 directo con Manu
     SOPs de cada pieza del sistema
 
@@ -137,9 +145,13 @@ NOTAS DE COPY
   "validada contra tu ciclo de reposición real" — la palabra "validada" sola prometía un test de
   mercado que ninguna pieza entrega, y en la call te la preguntan. Con el complemento es verdad y suma.
 
-  [N] sesiones — el número está pendiente y no puede salir sin él. Si el DFY tarda 4 semanas son 8
-  sesiones; si tarda 6, son 6. Sin número, en la call es una objeción y en el mes 3 una discusión.
-  Falta data: cuánto tarda la instalación completa del DFY.
+  [N] sesiones — [RESUELTO PARCIAL 9-sep, respuesta de Santi] la estructura son dos etapas, no
+  un número fijo de sesiones semanales desde el día 1: primero sesiones de migración (cantidad
+  variable, depende de cada operación — no hay un número fijo), y una vez estabilizada la
+  suscripción, chequeos semanales con Manu. Falta seguir siendo precisos en la página: no se
+  puede prometer "sesión semanal desde el mes 1" si la etapa de migración no tiene cadencia fija.
+  Redacción sugerida para "qué incluye": "Sesiones de migración con Manu hasta instalar tu
+  suscripción, y después, chequeo semanal 1 a 1" — sin comprometer una cantidad exacta.
 
   El renglón de cierre existe porque el Dolor 4 (Meta me baja la cuenta) y el Dolor 7 (me copian la
   landing) son los dos miedos más fuertes del avatar y no tienen entregable propio — Facturación a
@@ -323,6 +335,10 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
   1. La calculadora de suscripción de tres escenarios, con techo y punto operativo. Auditoría,
      herramienta de venta y justificación del precio, todo junto. Sostiene además el Escenario 3
      de contenido (pantalla compartida haciendo la cuenta de un negocio real).
+     [NOTA 9-sep] Santi confirmó que ya existe una hoja de costeo con LTV en Google Sheet — sin
+     confirmar todavía si es esta misma calculadora (conservador/realista/deseado) o solo el
+     motor de cálculo al que le falta la capa de presentación para usar en el diagnóstico en
+     vivo. Ver `Roadmap-MVP-Genesis.md`, "QUÉ FALTA DEFINIR", pendiente 3.
 
   BLOQUEA LA PÁGINA DE OFERTA
   2. Ciclo de reposición típico de los productos del avatar. Define si sale el renglón "primer cobro
@@ -331,11 +347,13 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
      página no sale.
 
   DECISIONES ABIERTAS
-  4. Dónde se corta la calculadora gratis y dónde empieza el entregable 1. El contexto es
-     explícito en que la cuenta va en el diagnóstico, antes de cobrar; hoy vive adentro del programa,
-     o sea que el prospecto tendría que comprar para ver la cuenta que justifica la compra.
-     Propuesta a confirmar: versión rápida en la call, gratis; versión auditada como entregable 1.
+  4. [RESUELTO 9-sep, decisión de Santi] La calculadora/auditoría completa NO va gratis en la
+     call de diagnóstico. Es el entregable 1, pago. En la call de diagnóstico no se muestra la
+     cuenta auditada completa — eso es parte de lo que se compra. Ajustar el discurso de venta:
+     no se puede usar "te muestro la cuenta" como cierre de la llamada si la cuenta es el producto.
   5. El segundo "sin" — "ni dejar de vender" vs "sin depender del producto que pegue". Typeform o Manu.
+  6. [NUEVO 9-sep, confirmado por Santi] "Equipo/roles" y "proveedores/fabricación" NO se suman
+     al producto. Quedan fuera de alcance, igual que la fabricación legal — ver Metodo-Unico-Genesis.md.
 
   CONFIRMACIONES DE COPY
   6. Palabra clave "ADENTRO" y destino del link de la bio.

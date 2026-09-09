@@ -69,7 +69,15 @@ Cada obstáculo tiene una pieza. Las piezas ya existen en el roadmap en Miro y e
     Variación de producto sobre lo que ya vende: formato, dosis, tamaño y ciclo de reposición (cada cuántos días se termina es cada cuántos días se cobra). La suscripción se lanza como variante paralela; la compra única no se toca.
     Por qué esquiva: parte de la marca existente, sin testeo desde cero, y el alumno nunca deja de facturar durante la migración.
     Origen: primer paso del roadmap de Manu.
-    [CONFIRMAR MANU: que la variante paralela es como lo enseña.]
+    [ACLARADO 9-sep, respuesta de Santi] El paralelo es la ETAPA 1, no el estado final. El
+    objetivo real es migrar la tienda completa a suscripción con el tiempo; cuándo y si conviene
+    llegar a full migración se define en llamada 1 a 1 con Manu, caso por caso — no hay una
+    regla fija de cuánto dura el paralelo. "Ni dejar de vender" sigue siendo cierto: describe
+    que la TRANSICIÓN no rompe la facturación, no que la compra única se mantenga para siempre.
+    No cambia la oferta ni la frase de venta — solo aclara que el estado final es más ambicioso
+    de lo que "variante paralela" sugiere leído aislado.
+    [CONFIRMAR MANU: que la variante paralela es como lo enseña, y el criterio real de cuándo
+    conviene pasar a full migración.]
 
   DE PEDIDO A SUSCRIPTOR  → O3
     Se cambia la unidad de venta. Un cliente vale 3 pedidos, no uno. Primero se le ofrece la suscripción a los compradores anteriores: sin CPA, es el camino más corto al primer cobro.
@@ -204,6 +212,10 @@ Cada pieza del método tiene su correlato en lo que recibe el cliente (Entrega-D
 PENDIENTE
 ============================================================
 
-  1. Confirmar con Manu las piezas marcadas: variante paralela (Migración sin Frenar), hoja de costeo con LTV (La Cuenta del CPA) y qué hace para el 1,28% de churn (Piso de Facturación).
+  1. Confirmar con Manu las piezas marcadas: variante paralela (Migración sin Frenar) y qué hace
+     para el 1,28% de churn (Piso de Facturación) — [CONFIRMADO 9-sep: el churn sigue sin
+     mecanismo documentado, sigue pendiente]. La hoja de costeo con LTV (La Cuenta del CPA)
+     [RESUELTO 9-sep: ya existe, en Google Sheet — falta confirmar si es la misma calculadora de
+     tres escenarios que pide Oferta-Genesis.md, ver ese documento sección 8].
   2. Que Manu diga "Escalar Hacia Adentro" en voz alta antes de publicarlo. Si no le sale natural, el nombre está mal — hay cuatro alternativas evaluadas.
   3. Cruzar con el formulario cuando entre: si los obstáculos O1–O8 no aparecen en las palabras de los alumnos, el vehículo esquiva obstáculos que el avatar no tiene.
