@@ -127,7 +127,8 @@ Metodo-Unico-Genesis.md, sección "Las piezas en la entrega DFY". Acá va el cop
     Tus proyecciones de stock y tu reposición, calculadas sobre la base de
       suscriptores (DFY)
     Tu tablero de suscriptores activos, churn y recompra, con el reporte que
-      mirás cada mes (DFY)
+      mirás cada semana [corregido 9-sep: decía "cada mes", la cadencia confirmada
+      es semanal] (DFY)
     Tu cuenta de formalización: en qué punto de la base te cierra pasar a blanco (DFY)
     Sesiones de migración con Manu hasta instalar tu suscripción, y después,
       chequeo semanal 1 a 1 con Manu
