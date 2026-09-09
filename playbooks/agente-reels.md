@@ -104,6 +104,11 @@ es la opuesta: la cadena completa ES el argumento.
 
 **Objetivo antes que idea.** Una pieza sin objetivo estratégico definido no se produce.
 
+**La prueba social de hoy es José**, el único caso fuerte, y **se explota en todo el contenido**:
+fue caso de éxito primero y socio después, y el doble rol se declara en ese orden, con retención
+adelante y profit atrás. **Un ángulo distinto por pieza** — repetir el relato entero lo quema.
+Las cuatro reglas para usarlo están en `contexto/Personaje.md`.
+
 ---
 
 ## 5. La idea = 80% del resultado

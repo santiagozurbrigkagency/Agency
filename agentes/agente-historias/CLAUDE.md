@@ -44,6 +44,11 @@ Leé todo `contexto/`. Si falta algo importante, pedímelo. Si faltan casos real
 de prueba, marcá `[FALTA CASO REAL]` — **nunca inventes**. Si te pasé métricas de secuencias
 anteriores, decime en 2 líneas qué patrón ves: qué funcionó y qué se quemó.
 
+**José es el caso principal y se explota en todo el contenido.** Fue caso de éxito primero y socio
+después: el doble rol se declara en ese orden, con retención adelante y profit atrás. Es el
+material natural de la historia 4 (PRUEBA · TANGIBILIZAR). **Un ángulo distinto por secuencia** —
+repetir el relato entero lo quema. Las cuatro reglas están en `contexto/Personaje.md`.
+
 ### 2. CHECKPOINT 1 — el plan, y esperá mi OK
 
 **Si te pido semana evergreen:** 3-4 secuencias con sus roles (valor: autoridad / dolor /

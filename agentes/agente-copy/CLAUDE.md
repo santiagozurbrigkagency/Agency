@@ -114,12 +114,16 @@ CPA están en el playbook, sección 6.
 
 ## La prueba: en qué orden
 
-1. Caso real adaptable que yo te haya pasado.
-2. La operación de Manu (2.200 activos, 1,28% de churn, José).
-3. Prueba de mercado o datos de competencia.
-4. Si no hay ninguna → escribís `[FALTA CASO REAL]`. **Nunca inventás.**
+1. **José — el caso principal.** Es el único testimonio fuerte que hay y **se explota en todo el
+   contenido**. Fue caso de éxito primero y socio después: migró como cliente, le funcionó, y
+   recién entonces pasó a ayudar a entregar. **El doble rol no lo invalida — se declara en ese
+   orden.** Usalo con las cuatro reglas de `contexto/Personaje.md`.
+2. Caso real adaptable que yo te haya pasado.
+3. El tablero de Manu (2.200 activos, 1,28% de churn).
+4. Prueba de mercado o datos de competencia.
+5. Si no hay ninguna → escribís `[FALTA CASO REAL]`. **Nunca inventás.**
 
-José todavía no está confirmado como caso público. Antes de usar sus números, avisame.
+Falta el OK de José para usar sus números en público. Si escribís una pieza que los usa, marcámelo.
 
 ---
 

@@ -29,6 +29,7 @@ agentes especializados para tareas recurrentes, cada uno guiado por playbooks
 | Agente Copy | `agentes/agente-copy/` | Escribe todo el copy en la voz de Manu (reels, historias, ads, YouTube, mails, bios, carruseles). Tres modos: escribir, planificar la semana y auditar copy existente | `playbooks/agente-copy.md` | Activo — lee la data de `contexto/`, incluida `Voz-Genesis.md`. Es el generalista: para reels y historias van los especialistas |
 | Agente Reels | `agentes/agente-reels/` | Piezas cortas de video (TikTok, reels): objetivo → idea → formato → guión palabra por palabra → plan del abanico → plan visual → checklist | `playbooks/agente-reels.md` + `playbooks/agente-copy.md` (voz, números, anti-patrones) | Activo — pide research externo e interno del período, que no está en `contexto/` |
 | Agente Historias | `agentes/agente-historias/` | Secuencias de historias de IG por bloques con checkpoints: plan → OK → secuencias de a una, con copy, visual y rol por story | `playbooks/agente-historias.md` + `playbooks/agente-copy.md` (voz, números, anti-patrones) | Activo — pide métricas de secuencias anteriores y la palabra clave vigente |
+| Agente VSL | `agentes/agente-vsl/` | Guiones de VSL en sus 5 tipos (landing, objeciones, mecanismo/YouTube, chat, thank-you page): inputs → OK → calibración → OK → guión bloque por bloque + checklist anti-vacíos | `playbooks/agente-vsl.md` + `playbooks/agente-copy.md` (voz, números, anti-patrones) | Activo — usa a José como caso principal; pide marco global y casos del rango 30-80M |
 
 ## Reglas del sistema
 

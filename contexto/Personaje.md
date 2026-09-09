@@ -1,5 +1,5 @@
 PERSONAJE — Génesis (Manuel Dominguez)
-Versión consolidada al 8 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu) y las correcciones de Santi del 8.
+Versión consolidada al 9 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu), las correcciones de Santi del 8 y la decisión sobre José del 9.
 
 Manu — "el que muestra el tablero"
 
@@ -98,9 +98,10 @@ ESCENARIO 3 — Pantalla compartida, haciendo la cuenta de un negocio real   ←
   El tablero de 2.200 activos y 1,28% de churn sigue siendo la prueba de fondo, pero la pieza
   que convierte es la cuenta del OTRO en pantalla, no la de Manu.
 
-  Qué se puede grabar YA: Manu y José haciendo la cuenta de la marca de José.
-  Qué sigue bloqueado: la auditoría a un alumno. José es socio, no alumno; esa pieza depende
-  de la validación #1. La etiqueta tiene que ser honesta en cada caso.
+  Qué se puede grabar YA: Manu y José haciendo la cuenta de la marca de José. Es la pieza
+  disponible hoy y se graba, no se espera.
+  Qué sigue pendiente: la auditoría a un alumno NUEVO, que depende de la validación #1.
+  No reemplaza a José: lo acompaña. La etiqueta tiene que ser honesta en cada caso.
 
   HERRAMIENTA QUE FALTA — la calculadora de suscripción  [CALL 7-SEP @39:00, idea de Manu]
   Toma los números reales del negocio (margen por pedido, CPA actual, ticket, recompra) y proyecta
@@ -186,16 +187,37 @@ DÓNDE ESTOY HOY
   hace que sea más uno a uno todavía; no diversifica la atención, la potencia."
   Acuerdo de la call: en la oferta nueva, el onboarding lo toma Manu y el acompañamiento sigue con José.
 
-  CÓMO SE USA JOSÉ — tres reglas, porque es fácil quemarlo
+  EL ORDEN CRONOLÓGICO — no se invierte  [CORREGIDO POR SANTI 9-SEP]
+  José fue CASO DE ÉXITO primero y socio después. Migró como cliente, le funcionó, y recién
+  entonces pasó a ayudar a Manu a entregar el servicio. El doble rol es la CONSECUENCIA del
+  resultado, no un asterisco que lo invalida.
+  Por eso José ES un testimonio, y hoy es el único fuerte que tiene el negocio.
+
+  DECISIÓN: JOSÉ SE EXPLOTA EN TODO EL CONTENIDO  [CORREGIDO POR SANTI 9-SEP]
+  Deja de tratarse como prueba de segunda a la espera de las 3 validaciones. Es el caso principal
+  de TikTok, historias, YouTube, VSLs y webinar. Ningún agente lo degrada ni lo esquiva por el
+  doble rol: lo usa con las cuatro reglas de abajo.
+  Cuando entren las 3 validaciones, se SUMAN a José —cubren el rango del avatar, que es lo que él
+  no cubre—. No lo reemplazan.
+
+  CÓMO SE USA JOSÉ — cuatro reglas, porque es fácil quemarlo
     1. Prueba el MECANISMO, no el resultado del avatar. José está muy por encima del rango 30–80M.
        Presentarlo como "esto te va a pasar a vos" hace que el de 40M se vea chico y no se reconozca.
        La prueba del tamaño del avatar la van a dar las 3 validaciones.
     2. Sale con números de RETENCIÓN adelante (activos, churn, LTV real medido) y el profit como contexto.
        Sacarlo con "100 palos de profit" adelante es exactamente el movimiento que le prohibimos
        al resto del mercado en la regla 1 de tono.
-    3. El doble rol se declara. José migró, le funcionó, y ahora ayuda a entregarlo.
+    3. El doble rol se declara, en ese orden: primero cliente, después socio. José migró,
+       le funcionó, y ahora ayuda a entregarlo.
        Es la estructura Sabio + Explorador ejecutada por dos personas: el que trajo el modelo
        y el primero que lo adoptó, enseñándolo juntos. Escondido queda peor de lo que es.
+    4. No se agota en una sola pieza. Es el único caso fuerte, así que se corta en ángulos,
+       uno por pieza, siguiendo las piezas del método: la migración a variante paralela,
+       la cuenta del CPA, el piso de facturación, la lectura de riesgo frente a Meta.
+       Repetir el relato entero en cada pieza lo quema; repetir el mismo NOMBRE con ángulos
+       distintos lo construye.
+       [CONFIRMAR MANU: qué pasó concretamente en cada uno de esos frentes en la marca de José.
+       El ángulo se escribe con el dato real o no se escribe.]
 
   CONTACTO REAL CON CLIENTES  [CALL 7-SEP @15:46]
   Calls 1 a 1 quincenales con cada cliente, contacto casi diario, grupos.

@@ -261,10 +261,15 @@ solo el techo suena imprudente a un operador. Mostrar solo el operativo subvende
 
 ### La prueba: qué se usa y en qué orden
 
-1. Caso real adaptable que se haya pasado explícitamente.
-2. La operación de Manu (2.200 activos, 1,28% de churn, José).
-3. Prueba de mercado o datos de competencia.
-4. Si no hay ninguna → `[FALTA CASO REAL]`. **Nunca se inventa.**
+1. **José — el caso principal.** Es el único testimonio fuerte del negocio y **se explota en todo
+   el contenido**. Fue caso de éxito primero y socio después: migró como cliente, le funcionó, y
+   recién entonces pasó a ayudar a entregar. **El doble rol no lo invalida — se declara en ese
+   orden.** Se usa con las cuatro reglas de `contexto/Personaje.md` (mecanismo y no resultado del
+   avatar · retención adelante y profit atrás · doble rol declarado · un ángulo distinto por pieza).
+2. Caso real adaptable que se haya pasado explícitamente.
+3. El tablero de Manu (2.200 activos, 1,28% de churn).
+4. Prueba de mercado o datos de competencia.
+5. Si no hay ninguna → `[FALTA CASO REAL]`. **Nunca se inventa.**
 
 ### Checklist antes de entregar
 
@@ -336,5 +341,9 @@ mismo body con 3 hooks, o mismo hook con 3 formatos. Nunca todo junto.
   manda sobre la que está acá.
 - **Casos propios de Génesis:** todavía no hay (fase de validación, piloto de 5 marcas).
   Mientras tanto rige el orden de prueba de la sección 7.
-- **José** todavía no está confirmado como caso público. Antes de usar sus números en
-  copy, confirmar con él. Regla acordada: retención adelante, profit atrás, doble rol declarado.
+- **José es el caso principal y se explota en todo el contenido.** Lo único que falta es su OK
+  para usar los números en público: es el bloqueo operativo más barato de levantar y el que más
+  desbloquea. Regla acordada: retención adelante, profit atrás, doble rol declarado en orden
+  (primero cliente, después socio).
+- **Los ángulos de José por pieza del método** están `[CONFIRMAR MANU]` en `contexto/Personaje.md`.
+  Sin el dato real de cada frente, el ángulo no se escribe.

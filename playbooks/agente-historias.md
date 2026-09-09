@@ -48,9 +48,15 @@ link en bio → formulario → video largo de YouTube → WhatsApp de Manu.
 está lanzando: está auditando negocios uno por uno. Las historias en esta ventana sostienen ese
 personaje, no un lanzamiento.
 
-**Prueba disponible hoy:** el tablero de Manu (2.200 activos, 1,28% de churn) y José —con
-retención adelante, profit atrás y el doble rol declarado, y solo después de confirmarlo con él.
-Casos de alumnos dentro del rango del avatar todavía no hay.
+**Prueba disponible hoy:** **José es el caso principal y se explota en todo el contenido** — fue
+caso de éxito primero y socio después, y el doble rol se declara en ese orden, con retención
+adelante y profit atrás (falta su OK para usar los números en público). Detrás, el tablero de Manu
+(2.200 activos, 1,28% de churn). Casos de alumnos dentro del rango del avatar todavía no hay: eso
+es lo que José no cubre, no un motivo para no usarlo.
+
+En la estructura de 5 historias, José es el material natural de la historia 4 (PRUEBA ·
+TANGIBILIZAR). **Un ángulo distinto por secuencia** —la migración, la cuenta del CPA, el piso de
+facturación, la lectura de riesgo frente a Meta— para no quemarlo repitiendo el relato entero.
 
 ---
 
@@ -281,5 +287,7 @@ original no aplica acá.
   lanzamiento hace falta una palabra distinta por CTA.
 - **Métricas de secuencias anteriores.** Sin ellas el chequeo anti-quemado es a ojo y no se
   puede construir la bóveda de lo que funciona.
-- **Casos dentro del rango del avatar.** Hoy solo está José, que prueba el mecanismo, no el
-  resultado del avatar.
+- **Casos dentro del rango del avatar.** José prueba el mecanismo, no el resultado del avatar.
+  Los casos del rango **suman** a José cuando lleguen; mientras tanto él es el caso principal.
+- **El OK de José** para usar sus números en público, y sus ángulos por pieza del método
+  (`[CONFIRMAR MANU]` en `contexto/Personaje.md`).

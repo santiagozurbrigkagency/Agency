@@ -362,10 +362,13 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
 
   DATA QUE MEJORA LA OFERTA
   8. Casos de alumnos con números de suscripción. PARCIAL, ya no vacío: existe José —único cliente
-     en el modelo de suscripción, 100M ARS de profit/mes—, pero es socio (ayuda a Manu a entregar
-     el servicio) y está fuera del rango del avatar. Prueba el MECANISMO, no el RESULTADO del avatar.
-     Falta el caso de un Nivel 3 dentro del rango. La diferencia contra la lista declarada está
-     diseñada para comprarlo.
+     en el modelo de suscripción, 100M ARS de profit/mes—. Fue caso de éxito PRIMERO y socio
+     DESPUÉS: migró como cliente, le funcionó, y recién entonces pasó a ayudar a Manu a entregar
+     el servicio. El doble rol no lo invalida como testimonio: se declara en ese orden.
+     Lo que sí sigue siendo cierto es que está fuera del rango del avatar, así que prueba el
+     MECANISMO, no el RESULTADO del avatar. Falta el caso de un Nivel 3 dentro del rango, que
+     SUMA a José en vez de reemplazarlo. La diferencia contra la lista declarada está diseñada
+     para comprarlo.
      Antes de usar los números de José en público hay que confirmarlo con él. Regla acordada:
      retención adelante, profit atrás, doble rol declarado.
   9. Últimos 10 que pagaron la 1a1: confirma el rango de facturación del avatar y de ahí pueden salir los primeros candidatos del piloto.
