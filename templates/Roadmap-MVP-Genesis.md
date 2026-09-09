@@ -59,7 +59,7 @@ producto.
 |---|---|---|---|
 | **Fase 1 — Auditoría y Variante**<br><br>*Objetivo: saber cuánto podés pagar por un cliente y tener la variante de suscripción definida y precificada, sin tocar lo que hoy factura.* | **P6** "Ya pagué dos mentorías y me enseñaron a buscar producto. Yo ya tengo producto."<br><br>**P2** "El CPM sube todos los meses y estoy en break-even." | **La Cuenta del CPA (auditoría):** sobre sus números reales — margen por pedido, CPA actual, techo de pauta hoy. Y el techo nuevo con LTV 2,5. El caso: 30.000 hoy → 75.000 con suscripción.<br><br>**Migración sin Frenar:** variación de producto sobre lo que YA vende — formato, dosis, tamaño y ciclo de reposición. Cada cuántos días se termina es cada cuántos días se cobra. Se define y se precifica con el margen de la auditoría. | **Async:** formulario de números previo (margen, CPA, ticket, recompra, ciclo del producto).<br><br>**Sync:** sesión 1 a 1 — se hace la cuenta con él en pantalla y se define la variante. Es el punto donde se traba: hay que sacarle de la cabeza que la solución es otro producto. |
 | **Fase 2 — Primer Cobro**<br><br>*Objetivo: que la base de compradores que ya tiene empiece a pagar recurrente, sin gastar un peso de CPA.* | **P1** "Cada venta me cuesta lo mismo que la anterior. No acumulo nada." | **De Pedido a Suscriptor:** se cambia la unidad de venta. La suscripción se instala en la tienda como variante paralela — la compra única no se toca — y se le ofrece primero a los compradores anteriores. Sin CPA, es el camino más corto al primer cobro. El primer cobro recurrente cae al cumplirse el primer ciclo de reposición. | **Async:** instalación de la suscripción en la tienda (DFY) + secuencia de mail y WhatsApp de conversión de la base (DFY). Es ejecución, no concepto: se entrega hecho.<br><br>**Sync:** chat para destrabar la instalación si la plataforma no acompaña. |
-| **Fase 3 — Piso de Facturación**<br><br>*Objetivo: una base de suscriptores medida que arranque el mes cobrada y que no dependa de Meta.* | **P3** "El 1 del mes arranco en cero. No sé con cuánto voy a cerrar."<br><br>**P4** "Si Meta me baja la cuenta, se termina el negocio." | **Piso de Facturación:** base de suscriptores activos medida y seguida con tracker (Scalify). Objetivo de churn: 1,28%. Backend de retención + proyecciones de stock sobre la base.<br><br>**Estructura de anuncios al CPA nuevo:** recién acá, con el LTV ya probado por el primer cobro, la pauta se reestructura al techo nuevo. La pauta suma suscriptores; no sostiene la facturación.<br><br>**Facturación a Prueba de Meta** es la misma base leída desde el riesgo. No necesita trabajo aparte. | **Async:** tablero de suscriptores, churn y recompra (DFY) + backend de retención (DFY).<br><br>**Sync:** revisión quincenal del tablero. Acá se traba: leer churn y decidir qué tocar es criterio, no dato. |
+| **Fase 3 — Piso de Facturación**<br><br>*Objetivo: una base de suscriptores medida que arranque el mes cobrada y que no dependa de Meta.* | **P3** "El 1 del mes arranco en cero. No sé con cuánto voy a cerrar."<br><br>**P4** "Si Meta me baja la cuenta, se termina el negocio." | **Piso de Facturación:** base de suscriptores activos medida y seguida con tracker (Scalify). Objetivo de churn: 1,28%. Backend de retención + proyecciones de stock sobre la base.<br><br>**Estructura de anuncios al CPA nuevo:** recién acá, con el LTV ya probado por el primer cobro, la pauta se reestructura al techo nuevo. La pauta suma suscriptores; no sostiene la facturación.<br><br>**Facturación a Prueba de Meta** es la misma base leída desde el riesgo. No necesita trabajo aparte. | **Async:** tablero de suscriptores, churn y recompra (DFY) + backend de retención (DFY).<br><br>**Sync:** revisión semanal del tablero [corregido 9-sep 2026: decía quincenal, Santi confirmó que la cadencia real es semanal, igual que en Oferta-Genesis.md]. Acá se traba: leer churn y decidir qué tocar es criterio, no dato. |
 | **Fase 4 — Margen Formalizable**<br><br>*Objetivo: saber en qué punto de la base el blanco cierra, y llegar a ese punto.* | **P5** "Facturo bien pero no puedo blanquear. Si paso a responsable inscripto, no cierra." | **Margen Formalizable:** la hoja de costeo de la Fase 1, ahora corrida con IVA y ganancias como RI. No es un problema fiscal, es de margen: con LTV 2,5 el margen por cliente se multiplica y el blanco entra. Primero el modelo, después el contador.<br><br>*No incluye:* fabricación legal, ANMAT ni laboratorio. El contador lo pone el cliente. | **Async:** la cuenta de formalización entregada (DFY).<br><br>**Sync:** una sesión para leerla. Es un concepto que se entiende una vez, pero la decisión de blanquear necesita a alguien enfrente. |
 
 **Ventaja Invisible (P7 — "todos venden lo mismo que yo, me copian la landing")** no es una
@@ -84,12 +84,11 @@ Tres huecos entre fases. No están en los siete dolores del avatar, pero el road
 traba en ellos. No los resuelvo acá porque no hay data — los marco.
 
 **1. El cobro recurrente. Entre Fase 1 y Fase 2 — el más grave.**
-Toda la Fase 2 asume que se puede cobrar automáticamente cada X días. En Argentina eso no
-es obvio: pasarela, suscripciones nativas de la plataforma, tarjetas que rebotan, retención
-de Mercado Pago. No hay ningún dolor del avatar sobre esto, pero `Oferta-Genesis.md` lo
-predice solo: *"si se atrasan todos en el mismo punto… probablemente el cobro recurrente o
-el ciclo de reposición"*. El documento sabe que es el punto de falla y el mapa de dolores no
-lo tiene. Si esto no está resuelto antes del piloto, la Fase 2 no ocurre.
+[RESUELTO 9-sep, respuesta de Santi] Es la suscripción nativa de Tiendanube — no hay que instalar
+ninguna app de terceros. Las marcas que no están en Tiendanube: la migración se resuelve con
+Manu en llamada 1 a 1, caso por caso — no hay todavía un proceso DFY estandarizado para esto,
+es criterio de Manu en cada cliente. No entra al filtro de calificación del setter (no se
+descarta a nadie por la plataforma); se resuelve en el diagnóstico/llamada.
 
 **2. La baja del suscriptor. Dentro de Fase 3.**
 Hay un objetivo de churn (1,28%) pero no un dolor que diga "se me dan de baja al segundo
@@ -109,26 +108,46 @@ crea. Nadie lo nombró todavía.
 
 Ordenado por lo que más bloquea.
 
-**Bloquea el roadmap entero**
-1. **Ciclo de reposición típico** de los productos del avatar. Define la Fase 1 (cómo se
-   precifica la variante) y la Fase 2 (cuándo cae el primer cobro). Sin esto, "primer cobro
-   en 30 días" es un número puesto, no una velocidad medida.
-2. **Cómo se cobra recurrente, técnicamente.** Ver hueco 1. Es lo primero a resolver.
+**Ya resueltos (9-sep, respuestas de Santi)**
+- Ciclo de reposición típico: no hay uno único, varía por cliente, se define en la Fase 1 de
+  cada caso. Ver `Oferta-Genesis.md`, sección "TIEMPO".
+- Cómo se cobra recurrente: por Tiendanube. Falta el detalle técnico (suscripción nativa o
+  app de terceros) y qué pasa con marcas que no están en Tiendanube — ver hueco 1 arriba.
 
 **Bloquea una fase**
-3. **La hoja de costeo con LTV: ¿existe o se arma?** Es el corazón de la Fase 1 y además la
-   herramienta de venta. Si hay que armarla, es trabajo previo al piloto, no dentro.
-4. **Qué hace Manu para el 1,28% de churn.** Ver hueco 2. Sin el mecanismo, la Fase 3 es
-   medición sin palanca.
-5. **La variante paralela: ¿es como Manu la enseña?** Toda la Fase 1 y el "ni dejar de
-   vender" de la oferta dependen de que la suscripción se instale al lado de la compra
-   única sin romperla.
+
+**Bloquea una fase**
+3. [RESUELTO 9-sep] **La hoja de costeo con LTV ya existe**, en Google Sheet (confirmado por
+   Santi). Ojo: no está confirmado si es la misma herramienta que "la calculadora de suscripción
+   de tres escenarios" que pide `Oferta-Genesis.md` (sección 8, bloquea la venta) y que
+   `Personaje.md` describe como idea de Manu que "hoy no existe" — esa calculadora proyecta
+   conservador/realista/deseado y se usa en vivo en el diagnóstico. Puede que la hoja de Google
+   Sheet sea el motor de cálculo y falte la capa de presentación para el diagnóstico, o puede que
+   sean dos cosas distintas. [DIFERIDO 9-sep, decisión de Santi: por ahora no se resuelve. No
+   bloquea nada activo mientras tanto — sigue marcado como bloqueante de `Oferta-Genesis.md`
+   sección 8 para cuando se retome.]
+4. **Qué hace Manu para el 1,28% de churn.** [RESUELTO PARCIAL 9-sep, respuesta de Santi]: se
+   explica en la llamada 1 a 1 con cada cliente — es criterio de Manu en vivo, no un SOP
+   documentado ni un mecanismo escrito. Sigue siendo un hueco para CONTENIDO y para la página
+   de oferta (no se puede publicar un mecanismo que solo existe hablado), pero no bloquea la
+   Fase 3 del DFY: Manu lo resuelve 1 a 1, igual que la migración de plataforma (hueco 1).
+   [DIFERIDO 9-sep, decisión de Santi: documentarlo como pieza de contenido/SOP queda en pausa
+   por ahora.]
+5. [ACLARADO 9-sep, respuesta de Santi] **La variante paralela es la Etapa 1, no el estado
+   final.** El objetivo real es migrar la tienda completa a suscripción con el tiempo; cuándo
+   conviene pasar a full migración se define con Manu en llamada, caso por caso. Ver
+   `Metodo-Unico-Genesis.md`, pieza "Migración sin Frenar". Sigue sin confirmar el criterio
+   concreto de cuándo conviene el salto a full migración — eso todavía es de Manu.
 
 **Define el alcance del piloto**
-6. **Stock.** Ver hueco 3. Decidir si entra al roadmap o si se declara fuera de alcance,
-   como se hizo con la fabricación legal.
+6. [RESUELTO 9-sep, respuesta de Santi] **Stock: SÍ entra al roadmap**, confirmado — el manejo
+   de stock es parte del producto. Sigue faltando el dolor/obstáculo explícito que lo sostenga
+   (ver "PROBLEMAS QUE FALTAN EN EL MAPA", punto 3, arriba): hoy es un entregable sin un "O"
+   propio en `Metodo-Unico-Genesis.md`. Falta también el mecanismo — "proyecciones de stock" es
+   un renglón de la oferta, pero no está escrito CÓMO se proyecta.
 7. **Dónde termina la Fase 4.** El programa dura 3 meses. ¿La formalización se ejecuta, o
    se entrega la cuenta que dice cuándo hacerla? Cambia bastante la carga de entrega.
+   [DIFERIDO 9-sep, decisión de Santi: por ahora no se resuelve.]
 
 ---
 
