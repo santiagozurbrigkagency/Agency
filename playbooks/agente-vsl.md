@@ -45,6 +45,8 @@ Génesis ese bloque no se completa a mano: ya existe en `contexto/`.**
 - **Marco global / scarcity real.** El negocio está en **validación, no en lanzamiento**: hoy no
   hay fecha de cierre ni cupos. Si no hay nada real, se declara "no hay" y **el VSL no usa
   urgencia**.
+- **La duración.** Es decisión de negocio y no está en `contexto/`. **Se pregunta siempre.**
+  Cambia qué bloques entran y qué trabajo hace el video.
 - **Nivel de conciencia del tráfico** de la pieza puntual. Cambia todo. Se pregunta, no se supone.
 - **Tipo de VSL y lugar exacto en el funnel.** Se confirma antes de escribir una línea.
 - **Si Manu lee de teleprompter o improvisa** en esa pieza (ver sección 2).
@@ -96,8 +98,10 @@ están en `contexto/Personaje.md`:
 
 Falta su **OK para usar los números en público**. Si un VSL los usa, se marca en DATOS FALTANTES.
 
-**Ticket USD 4.000 con anclaje declarado a 6.000.** Riesgo percibido alto → duración larga, y los
-bloques de objeción y elegibilidad pesan más que en un ticket bajo.
+**Ticket USD 4.000 con anclaje declarado a 6.000.** Riesgo percibido alto: los bloques de objeción
+y elegibilidad pesan más que en un ticket bajo. **Pero eso NO decide la duración** — la duración se
+pide (VARIABLE C). Si el video es corto, el ticket alto se resuelve al revés: el VSL no cierra la
+venta, la hace querer, y el cierre queda en la llamada.
 
 ---
 
@@ -210,13 +214,42 @@ está en el carril auto/Dubái/cadenas, y el avatar de Nivel 3 ya se quemó con 
   urgencia.
 - **Listo para comprar** → VSL ultra-corto. Oferta + urgencia + CTA.
 
-**VARIABLE C — Ticket y nivel de miedo → duración.** El ticket es un proxy; el dato real es el
-miedo:
+**VARIABLE C — Duración.** **La duración se PREGUNTA, no se deriva.** Es una decisión de negocio:
+depende de qué formato se banca la audiencia y de qué está dispuesto a grabar el referente, y eso
+no está en `contexto/`. Si la celda está vacía, se pide antes de escribir.
 
-- Avatar lógico/analítico, decisor profesional → **8-12 min**, quiere método y métricas.
-- Avatar emocional con dolor profundo → **15-25 min**, necesita acompañamiento e identificación.
-- Avatar warm que ya te conoce → **5-8 min**, no hay que reestablecer autoridad.
-- Riesgo percibido alto (ticket alto + decisión difícil) → **hasta 30 min** para bajar fricción.
+La tabla de abajo sirve para **proponer** un número cuando no lo dan, nunca para fijarlo solo:
+
+- Avatar lógico/analítico, decisor profesional → 8-12 min, quiere método y métricas.
+- Avatar emocional con dolor profundo → 15-25 min, necesita acompañamiento e identificación.
+- Avatar warm que ya te conoce → 5-8 min, no hay que reestablecer autoridad.
+- Riesgo percibido alto (ticket alto + decisión difícil) → hasta 30 min para bajar fricción.
+
+### El VSL corto no es el largo recortado
+
+Si la duración es de 4 a 8 minutos con un ticket alto, **el video no cierra la venta: la hace
+querer.** El objetivo se reescribe —"que quiera la cuenta hecha con sus números"— y el cierre
+queda en la llamada. Con ese encuadre la compresión es coherente; sin él, queda un VSL mutilado.
+
+**Orden de sacrificio, en este orden:**
+
+1. ORIGIN STORY — la primera que sobra, sobre todo si el tráfico ya vio contenido del referente.
+2. La auditoría de intentos pasados — su único trabajo es llegar al insight; el insight se dice
+   directo.
+3. El detalle del stack de la oferta — en corto el stack no se lee, se nombra.
+4. Fusionar OBJECIÓN con ELEGIBILIDAD en un solo bloque.
+5. Comprimir el método de piezas a tiempos.
+
+**El mecanismo no se toca nunca.** En Génesis eso es el frame del CPA contra el CAC: sin él no hay
+VSL, cualquiera sea la duración.
+
+### Se cuentan las palabras, no se estiman los minutos
+
+Manu corre a **~160 palabras por minuto**. Estimar bloque por bloque se equivoca por decenas de
+segundos; contar no. Los segundos de cada `[INSERT TESTIMONIO]` **suman al total**.
+
+Si el guión queda en el techo del rango, se entrega **con orden de corte**: qué se saca primero,
+cuánto ahorra cada corte y qué cuesta cada uno.
 
 **VARIABLE D — Objetivo.** Cambia el CTA: agendar llamada / comprar directo / dejar el mail /
 registrarse a evento / reactivar / upsell.
@@ -432,8 +465,9 @@ el bloque OBJECIÓN o ELEGIBILIDAD — **ángulos distintos, no el mismo relato 
 | Nicho | |
 | Nivel de conciencia del avatar | |
 | Ticket | Low / Mid / High / Premium |
-| Nivel de miedo → duración | Bajo (8-12 min) / Medio (15-20) / Alto (20-30) |
+| **Duración** | **Se pide. No se deriva del ticket** |
 | Objetivo | Agendar / Comprar / Opt-in / Reactivar / Upsell |
+| Qué hace este VSL | Cierra la venta / hace que la quiera (si es corto, es lo segundo) |
 | Marco global | |
 | Big Idea | |
 | Big Problem | |
