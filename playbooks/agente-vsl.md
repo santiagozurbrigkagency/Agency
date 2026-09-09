@@ -246,11 +246,20 @@ VSL, cualquiera sea la duración.
 
 ### Se cuentan las palabras, no se estiman los minutos
 
-Manu corre a **~160 palabras por minuto**. Estimar bloque por bloque se equivoca por decenas de
-segundos; contar no. Los segundos de cada `[INSERT TESTIMONIO]` **suman al total**.
+Estimar bloque por bloque se equivoca por decenas de segundos; contar no. Los segundos de cada
+`[INSERT TESTIMONIO]` **suman al total**.
+
+**La constante de velocidad todavía no está medida.** El SOP declara **135-140 palabras por
+minuto** para un guión leído a cámara con las pausas marcadas. Nuestra estimación para Manu era
+160. Entre las dos hay **50 segundos de diferencia** en un guión de 900 palabras: es la diferencia
+entre entrar y no entrar en el rango.
+
+**Hasta que se mida, todo guión se entrega con la duración a las dos velocidades**, y se marca cuál
+es el gate: cronometrar al referente leyendo el bloque del mecanismo en voz alta. Dos minutos de
+trabajo, una sola vez, y queda fija para todos los VSL.
 
 Si el guión queda en el techo del rango, se entrega **con orden de corte**: qué se saca primero,
-cuánto ahorra cada corte y qué cuesta cada uno.
+cuántas palabras ahorra y qué cuesta cada uno.
 
 **VARIABLE D — Objetivo.** Cambia el CTA: agendar llamada / comprar directo / dejar el mail /
 registrarse a evento / reactivar / upsell.
@@ -307,6 +316,19 @@ Ej. de forma: *"El método que estás usando está estructuralmente roto."*
 mini resumen de qué se toca, autoridad del referente, intro al marco global, 2-3 dolores literales,
 identificación ("este video es para mí"). **Si falta uno, está incompleto.**
 
+**Y se abre con el DOLOR, en las palabras del avatar, en los primeros 5-10 segundos.** No con quién
+es el referente, no con una pregunta genérica, y **no con el mecanismo ni con una cuenta**, por
+buena que sea. El orden es **dolor → claim**, en ese orden y pegados: el claim no se guarda para
+más adelante porque la gente abandona.
+
+Lo que sí se puede hacer —y es lo que hace Génesis— es que **el claim sea la cuenta**: el dolor
+abre en la frase literal del avatar, y la cuenta entra inmediatamente después como la explicación
+de por qué le pasa. Eso satisface las dos reglas y aprovecha el activo más fuerte que hay.
+
+> ✘ "Hay una cuenta que seguramente nunca hiciste…" *(abre con la cuenta: el dolor llega tarde)*
+> ✔ "Cada venta te cuesta lo mismo que la anterior. Y te deja el mismo margen. / Hay una cuenta que
+> explica por qué…" *(dolor literal → claim)*
+
 **DOLOR:** apertura ("le quiero hablar a alguien muy específico") → descripción cotidiana del
 Avatar 2 → el entorno que lo mina, con frases textuales → el reveal del dolor profundo → el
 reframe que alivia ("el problema no es X, es Y") → el costo de seguir igual → cierre quotable.
@@ -327,11 +349,44 @@ cambio concreto → resultado cuantitativo → "y este caso no es la excepción"
 "pero eso solo no alcanza" → lo segundo → "y todavía hay más" → lo tercero y cuarto → la última
 pieza → estructura temporal por fases → promesa de salida.
 
+> **EN B2B EL STACK SE APILA EN RESULTADOS, NO EN ENTREGABLES NI EN DÓLARES.** Al dueño de negocio
+> no le vas a hacer creer los precios que le pongas, y además no le importan. Se apila **el valor
+> que le queda funcionando**, con la misma mecánica de pieza por pieza, pero la unidad es el
+> resultado medible.
+>
+> ✘ "Te instalamos la suscripción, convertimos la base y te dejamos el tablero." *(entregables)*
+> ✔ "Lo que queda andando cuando terminamos: una parte de tu facturación que se cobra sola cada
+> ciclo, un techo de pauta dos veces y media el de hoy, y un tablero donde ves cada semana cuántos
+> se quedan." *(resultados)*
+>
+> Y el remate del bloque: **"no te llevás una lista de entregables — te llevás eso funcionando
+> adentro de tu negocio."**
+
+**Advertencia sobre los valores en dólares** (cuando sí se usan, en B2C): tienen que ser reales.
+Nada de inflar un precio para después tacharlo. La audiencia lo huele y mata la confianza.
+
 **OBJECIÓN:** "antes de que pienses [objeción literal], escuchame" → costo del retraso → cierre con
 scarcity real.
 
-**ELEGIBILIDAD:** "[método] no es para cualquiera" → quién NO entra (3-4) → "es para otra persona"
-→ quién SÍ (3-4) → `[INSERT TESTIMONIO 3]` → "si ese sos vos, prestá atención a lo que sigue".
+**ELEGIBILIDAD — va TEMPRANO, no al final.** El lugar canónico es **la posición 3**, justo después
+del claim, alrededor del 20% del video. El qualifier no filtra al final: **engancha al principio**.
+Al 85% del video el que mira ya decidió, y el que no calificaba ya se fue solo.
+
+Estructura: "no es para cualquiera" → quién NO entra (2-4) → quién SÍ → "si ese sos vos, quedate".
+
+**Adentro del qualifier va la micro-historia de credibilidad:** 15-25 segundos de autoridad **por
+identificación, sin biografía** — "yo estuve exactamente ahí, y esto es lo que me pasó". Es lo que
+permite cortar la ORIGIN STORY entera en un VSL corto sin perder al referente como persona.
+
+**DOS CTAs, siempre.** Uno a **~40% del video** (mini CTA, apenas cae el mecanismo) y el principal
+al final. El mini CTA no corta el video para el resto: les da una razón explícita para seguir.
+
+> "Si con esto ya te hizo click, el formulario está abajo. Completalo.
+> Si querés ver la prueba antes de decidir, seguí mirando."
+
+**Por qué importa más de lo que parece:** con los benchmarks de retención, al primer CTA llega
+**10-20%** de los que empezaron y al último **5-10%**. El mini CTA se lo ve el doble de gente que
+el CTA final, y cuesta 30 palabras.
 
 **CTA:** comando claro + qué pasa cuando lo toca, paso a paso + callback al dolor + consecuencia de
 no hacerlo + reducción de fricción.
@@ -422,7 +477,11 @@ Columna vertebral del TIPO 1, con: más historia personal del referente, más de
     información interna del negocio, no argumento de venta. **No se escucha como transparencia:
     se escucha como "soy un experimento"** — y con un avatar que está evaluando si el que habla es
     el verdadero, resta autoridad en vez de sumar confianza.
-14. **La regla 4 de tono se ejecuta sobre los DATOS, no sobre la solidez del negocio.** "Si algo no
+14. **Dos CTAs siempre**, uno a ~40% y el principal al final. Al primero llega el doble de gente.
+15. **El qualifier va temprano** —posición 3, ~20% del video—, con la micro-historia de
+    credibilidad adentro. Filtra cuando el que no califica todavía puede irse.
+16. **En B2B el stack se apila en resultados, no en entregables ni en dólares.**
+17. **La regla 4 de tono se ejecuta sobre los DATOS, no sobre la solidez del negocio.** "Si algo no
     se sabe, se dice" aplica a lo que no está medido y a los gaps de prueba —el rango que un caso
     no cubre, un número que no existe—. **No aplica a la madurez de la oferta.** Confundir las dos
     cosas es lo que produjo el error del 9-sep (`feedback/2026-09-09-vsl-sin-precio-ni-piloto.md`).
@@ -519,11 +578,49 @@ Si hay gaps: se recomienda **la acción concreta** para cerrar cada uno.
 
 ---
 
+## 12 bis. Producción — la versión 1 se graba CRUDA
+
+**Regla:** nada demasiado producido en las primeras 3 versiones. Hacen falta **3 a 5 iteraciones
+del mensaje** antes de que sea bueno, y **nadie reescribe un video que ya salió con placas
+diseñadas y edición a dos cámaras.** Pulir antes de validar es sobre-inversión en un mensaje que
+nadie probó.
+
+**Lo único no negociable desde la v1 es el audio.** Un video granulado con buen audio funciona; uno
+en 4K con eco, no.
+
+**Cómo se resuelve en Génesis.** Manu ya paga el estudio de Mar del Plata, y el teleprompter es lo
+único que hace viable un guión palabra por palabra. Así que no es "estudio o crudo": es **usar el
+estudio y no producir adentro**.
+
+| | Versión 1 a 3 | Versión pulida |
+|---|---|---|
+| Cámaras | Una | Dos |
+| Edición | Solo jump cuts | Completa |
+| Placas de bloques que van en voz en off | **No se diseñan** — se dicen a cámara | Diseñadas |
+| Testimonios | Se insertan crudos | Con color y placa |
+
+**Y hay una razón de marca, no solo de proceso:** el avatar de Nivel 3 ya se quemó con el packaging
+del carril auto/Dubái. Un VSL sobre-producido empuja hacia ese carril; el referente en una pizarra
+haciendo la cuenta, con buen audio, **es** el carril analista. Lo crudo acá es congruente con el
+personaje, no una concesión al presupuesto.
+
+**Validación = aplicaciones que se convierten en llamadas que se convierten en clientes.** No
+views, no "quedó lindo". Recién con eso validado se hace la versión pulida.
+
+Todo guión se entrega con la tabla **QUÉ GRABAR partida en v1 cruda / versión pulida.**
+
+---
+
 ## 13. Formato del output
 
-- Markdown estructurado, **un bloque por sección del VSL**.
+- Markdown estructurado, **un bloque por sección del VSL**, cada uno con su **timecode**:
+  `## 1 · HOOK · [0:00 – 0:44]`.
 - **Header** con la tabla de calibración completa + lista de casos referenciados con sus fuentes.
 - Guión en **bloques de cita (`>`)** para leerlo o grabarlo directo.
+- **La dirección va ADENTRO del guión, no se improvisa el día de grabación:** `[pausa]` ≈ 1 s,
+  `[pausa larga]` ≈ 2 s, `[a cámara]` para la mirada directa al lente. Las pausas son sagradas —
+  crean autoridad, no la pierden — y van marcadas donde caen los remates secos del referente.
+- **La velocidad de lectura declarada** y la duración calculada a partir de ella.
 - Marcadores `[INSERT TESTIMONIO X]` donde van los clips, con nombre + fuente + frase exacta.
 - **Si el referente improvisa** en vez de leer teleprompter: se entrega **en beats** (bullets con
   la intención de cada momento), no palabra por palabra.
@@ -544,7 +641,10 @@ Si hay gaps: se recomienda **la acción concreta** para cerrar cada uno.
 - El **mecanismo aparece cuando hace falta**, no en el hook.
 - **Cada caso anclado a un testimonio real con fuente.** Cero quotes inventados.
 - Los casos **mapean los sub-segmentos** del avatar.
-- El **CTA tiene los 3 elementos**.
+- El **CTA tiene los 3 elementos**, y **hay dos CTAs**: el mini al ~40% y el principal al final.
+- **El qualifier está temprano**, no al final, y trae la micro-historia adentro.
+- **En B2B, el stack está en resultados**, no en entregables.
+- **Las pausas y las miradas están marcadas**, y cada bloque tiene su timecode.
 - **"Programa" no aparece antes de la oferta.**
 - **Específico siempre:** ningún día, persona o número genérico.
 - **Reglas de cadencia** aplicadas.
