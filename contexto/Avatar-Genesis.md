@@ -4,6 +4,10 @@ Cambia respecto de la anterior: rango de facturación (30–80M), LTV 3, enuncia
 ticket, la sección de cuáles dolores pesan (orden de Manu + mapa de conciencia), y la nota de la
 cadena. Todo sale de la call del 7 de septiembre, consolidada en Personaje.md.
 
+Actualización del mismo día (sesión posterior): se agrega un AVATAR SECUNDARIO (Nivel 2 de la
+escalera). Decisión tomada en sesión de trabajo, fuera del proceso del SOP — no salió de una
+call ni del formulario. Ver sección propia más abajo. No reemplaza al avatar principal.
+
 Método: SOP "Cómo definir tu avatar" (Programa Limitless), tres pasos — escalera de niveles, descripción general, mapa de dolores.
 Fuentes: Fathoms.md (4 reuniones, 2–4 sept) · Fathom call 7-sept · Personaje.md · Analisis-Competencia.md (9 cuentas relevadas) · Analisis-Research-05sept.md (huecos y contradicciones) · data de ventas declarada por Manuel.
 Documentos que dependen de este: Metodo-Unico-Genesis.md · Oferta-Genesis.md · Roadmap-MVP-Genesis.md · Entrega-DFY-Piloto.md · Formulario-Audiencia-Externa.md
@@ -52,7 +56,11 @@ La excepción del SOP no aplica: el 95% del mercado está en químicos, y una fr
 ------------------------------------------------------------
 POR QUÉ LA PROMESA DE "+$100M" APLICA A TODO EL RANGO
 ------------------------------------------------------------
-El filtro del piloto y el avatar ahora son lo mismo: 30 a 80 millones. No hay dos avatares.
+El filtro del piloto y el avatar principal ahora son lo mismo: 30 a 80 millones. No hay dos
+avatares DENTRO de ese rango (no se divide el Nivel 3 en mitad baja / mitad alta).
+[Actualización 8-sep, sesión posterior: sí se agregó un avatar secundario de otro nivel —
+Nivel 2, ver sección "AVATAR SECUNDARIO" más abajo. Este párrafo se refería solo a no
+fragmentar el Nivel 3.]
 
 La promesa "+$100M al mes" es la aritmética de LTV 3 aplicada al piso del rango:
 30M × 3 ≈ 90–100M. Para el de 80M es conservadora.
@@ -60,6 +68,204 @@ La promesa "+$100M al mes" es la aritmética de LTV 3 aplicada al piso del rango
 Con el rango viejo (hasta 150M) la promesa era redundante para la mitad alta y por eso
 había que filtrar el piloto. Con 30–80M nadie está arriba de 100M, así que la promesa
 quedó fundada en el mecanismo en todo el rango, no a pesar de él.
+
+============================================================
+AVATAR SECUNDARIO — NIVEL 2 (agregado 8-sep, sesión posterior)
+============================================================
+
+Decisión tomada fuera del proceso del SOP: no salió de una call ni del formulario, se definió
+en sesión de trabajo. Es el Nivel 2 de la escalera del Paso 1, hasta acá excluido a propósito
+(ver "Por qué el 3 y no el 2", arriba). Todavía no se corrió Paso 2 ni Paso 3 para este avatar
+— no tiene demográficos, psicográficos ni mapa de dolores propios. Lo único que hay es esto,
+tomado directo del Paso 1:
+
+Avatar secundario (actualizado 8-sep, ajuste de Santi sobre la versión anterior): Dueños de
+e-commerce sin marca propia estable facturando hasta $30M al mes, saltando de mentoría en
+mentoría y testeando productos, porque el 95% del mercado vende lo mismo con la misma landing
+y no logran diferenciarse.
+
+Versión anterior (mismo día): "Dueños de e-commerce de marca propia facturando hasta 10.000
+USD al mes..." — cambia el techo de facturación (de 10.000 USD a $30M ARS) y "marca propia"
+pasa a "sin marca propia estable". Esto corre el techo de este avatar hasta pegar contra el
+piso del avatar principal ($30M) y lo acerca más al Nivel 1/2 de la escalera (sin marca fija)
+que al Nivel 2 puro (que sí tiene marca propia, solo que sin sistema) — a validar si conviene
+reflejar esto en el Paso 1 cuando se corra el SOP completo para este avatar (ver pendiente 5).
+
+Fuente: descripción de Nivel 2 en la escalera (Paso 1), del onboarding con Manu — no de la
+call del 7-sep. El ajuste de "sin marca propia estable" y el techo de $30M es decisión de
+Santi en esta sesión, no está sourceado en la escalera original.
+
+Atención — esto contradice a propósito una de las razones por las que el avatar principal es
+el Nivel 3 y no el 2: "nadie le está hablando" (línea de arriba). Al Nivel 2 sí le hablan
+Tomás Mingo, Mateo Lezama, Duarte y Juanchy. El avatar secundario queda de menor prioridad,
+no reemplaza al principal, y no se usa todavía en Oferta, Roadmap ni Contenido — esos
+documentos siguen armados 100% para el avatar principal (Nivel 3).
+
+------------------------------------------------------------
+AVISO DE CONFIABILIDAD — leer antes de usar lo que sigue
+------------------------------------------------------------
+Lo que viene abajo es Paso 2 y Paso 3 del SOP corridos para este avatar, a pedido de Santi
+(8-sep, sesión posterior). A diferencia del avatar principal, **esto no tiene ninguna de las
+fuentes primarias que respaldan a Gonza**: no hay Fathom call sobre este segmento, no hay
+Analisis-Competencia.md ni Analisis-Research desglosados para Nivel 2, y no hay data de ventas
+propia — Génesis nunca le vendió a este avatar. Todo lo que no esté tomado literal de la
+definición o de la escalera del Paso 1 está marcado [HIP] sin excepción, y son hipótesis con
+menos respaldo que las [HIP] del avatar principal (esas al menos vienen de patrones observados
+en 9 cuentas de competencia). Tratar esto como primer borrador, no como verdad vigente.
+
+PASO 2 — DESCRIPCIÓN GENERAL (avatar secundario)
+
+DEMOGRÁFICOS
+  Edad: 20–28. [HIP] Un escalón por debajo del avatar principal (23–32); todavía no pasó los
+  años que le tomó a Gonza llegar al Nivel 3.
+  Género: mayoritariamente hombre. [HIP] Extrapolado del mismo patrón documentado para el
+  avatar principal, sin verificación propia para este nivel.
+  Estado civil / hijos: soltero, sin hijos. [HIP]
+  Nivel educativo: secundario completo, universitario incompleto o en curso. [HIP]
+  Ocupación: dueño-operador de una tienda de e-commerce sin marca fija — corre uno o varios
+  productos a la vez, o rota de producto cada pocos meses. [DATA parcial — es la definición
+  del avatar tal cual la ajustó Santi]
+  Industria: variable. Prueba consumibles trend (el mismo patrón que el Nivel 2 original) pero
+  sin quedarse fijo en un nicho — a diferencia del avatar principal, que ya consolidó rubro.
+  [HIP]
+  Facturación: hasta $30M ARS/mes (≈20K USD al FX de este documento). Margen incierto: a
+  diferencia del avatar principal, puede no estar ni en break-even — todavía está probando qué
+  producto sostiene el negocio. [decisión de Santi + HIP sobre el margen]
+  Fuente principal de ingresos: la tienda, pero menos consolidada como única fuente — puede
+  tener otro ingreso en paralelo mientras prueba. [HIP]
+  País: Argentina. [asumido por continuidad con el avatar principal, sin confirmar]
+  Capacidad de inversión: baja o incierta. No hay evidencia de que pueda pagar el ticket de
+  USD 2.100–6.000 del avatar principal — es justamente parte de por qué hoy no es el avatar
+  principal (ver "Por qué el 3 y no el 2", más arriba: "puede pagar más" es un punto a favor
+  del Nivel 3, no del 2). [HIP, con el respaldo negativo de esa sección]
+
+PSICOGRÁFICOS
+  Valores: busca "lo que funcione" antes que construir algo sostenido — todavía no armó su
+  versión del "hacer las cosas bien" que sí tiene el avatar principal. [HIP]
+  Creencias a romper: que el problema es no tener todavía el producto ganador. Es la creencia
+  inversa a la del avatar principal (ver Dolor 6 del mapa principal, que Manu bajó a "el menos
+  fuerte de todos" porque el avatar principal YA tiene producto) — acá podría ser la creencia
+  más fuerte, no la más débil. [HIP — hipótesis espejo, sin validar]
+  Mentalidad: entusiasta, tolera la incertidumbre de probar y probar porque todavía no tiene
+  tanto construido para perder. [HIP]
+  Motivaciones: encontrar el producto o nicho que le permita despegar; dejar de saltar de
+  mentoría en mentoría. [DATA — literal de la definición del avatar]
+  Metas: corto plazo — estabilizar un producto y una marca propia. Largo plazo — llegar al
+  nivel del avatar principal (30M+, con sistema). [HIP]
+  Miedos: gastar en otra mentoría que tampoco le sirva (ya le pasó); quedarse años en el mismo
+  lugar mientras otros escalan. [HIP]
+  Frustraciones: "pruebo producto tras producto y ninguno despega", "vendo lo mismo que todos
+  con la misma landing", "ya pagué cursos y sigo en el mismo lugar". [DATA parcial — la frase
+  de la landing es literal de la definición del avatar]
+  Actitud frente al dinero: gasta en cursos y mentorías de ticket bajo buscando la fórmula; no
+  sostiene pauta con confianza porque no tiene el margen para hacerlo. [HIP]
+  Autoconfianza: baja en operación y baja en dirección. Contrasta con el avatar principal, que
+  tiene alta confianza en operación (ya lo hizo) y solo baja en dirección. [HIP]
+
+PROFESIONALES
+  Experiencia: 0 a 2 años en e-commerce. [HIP]
+  Tipo de contrato: emprendedor informal; monotributo no siempre constituido. [HIP]
+  Horas: variable — puede compaginar con otro trabajo o estudio. [HIP]
+  Estabilidad: ninguna, ni siquiera la que da saber operar (el avatar principal, aunque
+  atrapado, "sabe operar"; este avatar todavía no lo resolvió). [HIP]
+  Capacidad de inversión: baja, consistente con tickets de entrada bajos. [HIP]
+
+COMPORTAMIENTO EN REDES
+  Redes: TikTok como principal, algo de Instagram. [HIP]
+  Contenido que consume: producto ganador, teardowns, pasos técnicos de campaña, promesas de
+  resultado rápido ("0 a 10K"). [DATA — son los ángulos ya documentados de quienes le hablan a
+  este nivel]
+  A quién sigue: Lauti Cardozo, Tomás Mingo, Mateo Lezama, Santi Duarte, Andrés Caminos,
+  Juanchy. [DATA — ya documentado en la escalera del Paso 1 como "le hablan" a Nivel 1 y 2]
+  Dispositivo: mayormente móvil. [HIP]
+
+COMPORTAMIENTO DE COMPRA
+  Por qué compra: para encontrar el producto o la técnica que lo destrabe. [HIP]
+  Ticket: bajo — consistente con la oferta de los competidores que le hablan (cursos y
+  comunidades, no una 1a1 de USD 2.100). No hay dato del ticket real de esos programas. [HIP]
+  Qué lo decide: la promesa de resultado rápido y concreto ("0 a 10K en 90 días"). [HIP]
+  Qué lo frena: ya se quemó con mentorías anteriores que no le sirvieron — es literal de la
+  definición del avatar ("saltando de mentoría en mentoría"). [DATA parcial]
+  Calidad vs precio: precio. Sin margen consolidado, no puede priorizar calidad sobre costo
+  como sí hace el avatar principal. [HIP]
+
+SÍNTESIS — ILUSTRATIVA, NO VALIDADA
+Un ejemplo armado para bajar el perfil a algo concreto, del mismo modo que "Gonza" para el
+avatar principal — pero sin el respaldo de ventas ni de calls que tiene esa síntesis. Tratar
+como boceto, no como caso confirmado.
+
+Fede tiene 24 años, vive en Rosario y hace ocho meses dejó un trabajo en relación de
+dependencia para meterse de lleno en e-commerce. Probó con un suplemento, no despegó; ahora
+está con un producto de skincare que le está yendo mejor, pero no sabe si quedarse con este o
+seguir probando. Factura entre 8 y 15 millones de pesos por mes, salteado. Ya pagó dos cursos
+—uno de "producto ganador" y otro de campañas— y siente que aprendió técnica pero no tiene un
+sistema. Mira TikTok todo el día, sigue a los que prometen resultados rápidos, y no tiene claro
+todavía si su negocio va a ser esto o va a probar otra cosa el año que viene.
+
+============================================================
+PASO 3 — MAPA DE DOLORES (avatar secundario)
+============================================================
+
+Mismo aviso que arriba: la relación dolor → "solución común" acá es INFERIDA de los ángulos ya
+documentados de estos creadores en la escalera del Paso 1, no de un relevamiento cuenta por
+cuenta como el que respalda el mapa del avatar principal (9 cuentas analizadas). Además, a
+diferencia del mapa principal, **no hay "nuestra solución" para completar**: Génesis no tiene
+hoy una oferta o mecanismo pensado para este avatar. Poner algo ahí sería inventar una
+decisión de producto que nadie tomó — no corresponde. Se deja el campo pendiente en cada dolor.
+
+DOLOR 1 (secundario): "Pruebo producto tras producto y ninguno despega."
+  Solución común: Juanchy → teardown del próximo producto ganador. Lezama → IA que valida
+  productos antes de meterle plata.
+  Nuestra solución: PENDIENTE — sin oferta definida para este avatar.
+
+DOLOR 2 (secundario): "Ya pagué mentorías que no me sirvieron y sigo en el mismo lugar."
+  Solución común: cada competidor vende la mentoría siguiente como la que sí funciona — no hay
+  un competidor que ataque esto directamente, es más una objeción de venta que un ángulo de
+  contenido de alguno de ellos. [HIP]
+  Nuestra solución: PENDIENTE.
+
+DOLOR 3 (secundario): "Vendo lo mismo que todos, con la misma landing — no me diferencio."
+  Solución común: ninguno de los competidores de este nivel lo resuelve de fondo; lo tratan con
+  "mejores creativos, mejores hooks" (mismo patrón que el Dolor 7 del avatar principal). [HIP]
+  Nuestra solución: PENDIENTE.
+
+DOLOR 4 (secundario): "No sé si quedarme con este producto o seguir probando."
+  Solución común: Lauti / Caminos / Duarte → más pauta, más volumen, sin resolver la duda de
+  fondo. Mingo → técnica de campaña puntual ("aplicá esto y hacé 20K"), tampoco resuelve la
+  decisión de fondo.
+  Nuestra solución: PENDIENTE.
+
+DOLOR 5 (secundario): "Gasto en pauta pero no me queda margen para sostenerla."
+  Solución común: Mingo → técnica de campaña para bajar costo. Nadie de este nivel toca el
+  margen como problema de modelo (mismo hueco que el Dolor 1 del avatar principal, un escalón
+  más abajo). [HIP]
+  Nuestra solución: PENDIENTE.
+
+DOLOR 6 (secundario): "No tengo sistema — cada mes es empezar de nuevo con otra cosa."
+  Solución común: nadie de este nivel lo ataca directamente; el mercado le vende técnica
+  (campañas, creativos, IA), no sistema. [HIP]
+  Nuestra solución: PENDIENTE.
+
+Chequeo del SOP: quedaron 6 dolores (dentro del rango 5–10), pero con menor confianza que el
+mapa del avatar principal — no hay verificación de que estén completos, ni de que estén en las
+palabras reales del avatar (nadie de este segmento fue entrevistado). No se completó "cuáles
+pesan más" ni mapa de conciencia por el mismo motivo: sin research, ordenarlos por fuerza sería
+inventar el orden.
+
+============================================================
+PENDIENTE PARA VALIDAR EL AVATAR SECUNDARIO
+============================================================
+
+  1. Todo lo de arriba es borrador [HIP] sin fuente primaria — no usar en Oferta, Roadmap ni
+     Contenido hasta validar.
+  2. No hay "nuestra solución" para ninguno de los 6 dolores porque Génesis no tiene oferta
+     para este avatar. Antes de escribir contenido o una oferta para este segmento, esa es una
+     decisión de negocio que tiene que tomar Manu — no se infiere del avatar principal.
+  3. Falta correr el mismo proceso que al avatar principal: entrevistas o formulario a gente
+     real de este segmento, y mirar qué de la competencia (Mingo, Lezama, Duarte, Caminos,
+     Juanchy) funciona y por qué, en vez de inferirlo desde la escalera.
+  4. Corrección de Manu en una pasada — igual que con el avatar principal, especialmente el
+     Paso 3, que acá es 100% inferencia.
 
 ============================================================
 PASO 2 — LA DESCRIPCIÓN GENERAL
@@ -273,3 +479,5 @@ PENDIENTE PARA CERRAR EL AVATAR
   2. Formulario de audiencia externa (Formulario-Audiencia-Externa.md, 7 preguntas): confirma cuántos Nivel 3 hay en la audiencia y si "el mes arranca cobrado" es el punto B que quieren.
   3. Últimos 10 que pagaron la 1a1: qué vendían, cuánto facturaban, canal de llegada, si siguen pagando. Confirma o corrige el rango de facturación y la industria.
   4. Corrección de Manu en una pasada. Especialmente: si los dolores están escritos con las palabras que él escucha en las llamadas, o si hay paráfrasis técnica que bajar.
+  5. El avatar secundario ya tiene Paso 2 y Paso 3 corridos (8-sep), pero es 100% borrador sin
+     fuente primaria — ver "PENDIENTE PARA VALIDAR EL AVATAR SECUNDARIO" al final de esa sección.
