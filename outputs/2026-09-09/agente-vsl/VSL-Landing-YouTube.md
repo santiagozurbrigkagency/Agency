@@ -1,5 +1,18 @@
 # VSL — LANDING · Génesis / Escalar Hacia Adentro
 
+> ## DADO DE BAJA — 10 de septiembre de 2026
+>
+> **Este guión no se usa.** Decision de Santi: el formato correcto es el del VSL de landing de
+> Nazareno Gamero — documento en pantalla, sin bloque de dolor, con mapa de etapas y escasez
+> deducida del modelo de entrega.
+>
+> **Reemplazado por:** `outputs/2026-09-10/agente-vsl/VSL-Landing-v2-Documento-Manu.md`
+> **El formato nuevo:** `outputs/2026-09-10/agente-vsl/Ingenieria-Inversa-VSL-Nazareno.md`
+>
+> Se conserva como registro de la corrida y porque tres decisiones que se tomaron acá siguen
+> vigentes y viajaron a la v2: el precio afuera del video, nada de "piloto" ni "validacion" en boca
+> del referente, y el cupo explicado por capacidad de atencion en vez de por validacion.
+
 Destino: landing linkeada desde la descripción de los videos de YouTube y desde la bio del canal.
 Producido por: agente-vsl · 9 de septiembre de 2026.
 Revisión 3 — incorpora las cuatro mejoras del cruce contra `templates/SOP VSL MASTERING LIMITLESS.md`.

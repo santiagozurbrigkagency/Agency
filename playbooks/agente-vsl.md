@@ -114,6 +114,56 @@ trabajo, otra duración y otro CTA.
 Convierte tráfico de una landing en lead calificado o compra. **5-25 min según nivel de
 conciencia.** Es el más completo: los otros cuatro son recortes o variantes de este.
 
+> ## ⚠ EN GÉNESIS EL TIPO 1 SE ESCRIBE EN EL FORMATO DOCUMENTO
+> **Decisión de Santi, 10 de septiembre de 2026.** El VSL de landing de Génesis **no se escribe con
+> la Fórmula del Sales Letter.** Se escribe con el formato del VSL de Nazareno Gamero: un documento
+> que se muestra en pantalla y se va leyendo.
+>
+> **La diferencia de fondo: ese formato NO TIENE BLOQUE DE DOLOR.** Es una presentación de oferta,
+> no un video de dolor. Asume que el espectador ya lo tiene y está evaluando si comprar. La tensión
+> no la genera la agitación: la genera **la selectividad** — el riesgo de quedar afuera, repetido en
+> todos los bloques.
+>
+> **Requisito:** solo funciona con tráfico que ya consumió contenido. Con el funnel actual
+> —YouTube largo → landing— se cumple. **Con tráfico frío de ads, no.**
+>
+> **Los 11 bloques del formato:**
+> ```
+> 0 · Portada — la frase de la oferta con sus "sin". Es el claim, y va primero.
+> 1 · Quién soy — rol + años. Dos líneas, sin biografía.
+> 2 · Mi objetivo — la ambición propia declarada. Abre el loop que cierra en el precio.
+> 3 · Por qué escucharme — 3 resultados con números, cada uno etiquetado con CÓMO se produjo.
+> 4 · La distinción — qué modelo se vende acá y qué no.
+> 5 · Para quién es — los perfiles, todos con el MISMO piso, cada uno con su definición.
+> 6 · Para quién NO es — 3-4 exclusiones. Una de tamaño, una de expectativa, una de actitud.
+> 7 · El mapa — etapas con nombre de VERBO y objetivo numérico, cada una con roadmap y to-do.
+>     Cierra con "acá es donde entramos nosotros".
+> 8 · La entrega — cronológica, en 3 pasos. Cada paso: qué pasa por área, las herramientas
+>     nombradas una por una, "Resultado:" explícito, y una regla en MAYÚSCULAS que mata la
+>     objeción de ese paso. El último paso devuelve a la última etapa del mapa.
+> 9 · Escasez — se DEDUCE del modelo de entrega, no se afirma. "Por qué esto" (el cupo como
+>     aritmética de capacidad) + "por qué ahora" (la ventana atada a un hito operativo).
+> 10 · Precio — se enmarca SIN decir el número: filtro · incentivos alineados · reframe de la
+>     unidad de valor · filtro final.
+> 11 · CTA — formulario, con el filtro adentro del CTA ("si calificás").
+> ```
+>
+> **Regla de producción:** los encabezados del documento son los beats del guión. **Nada que el
+> referente diga puede faltar en pantalla** — por eso el formato no necesita edición: el valor
+> visual lo aporta el documento.
+>
+> **El mapa de Génesis ya existe y no se inventa:** es la escalera del ecommerce argentino de
+> `contexto/Avatar-Genesis.md`, que ya dice *"a qué nivel le hablamos: del 3 al 4"*. Adentro va el
+> roadmap de las 3 fases.
+>
+> **Qué NO se copia de Nazareno:** "la oferta más cara del mercado" —falso para Génesis, que está
+> por debajo del mercado—, los tres perfiles con el mismo piso —Génesis tiene un solo avatar— y el
+> muro de ~80 testimonios, que no existe todavía.
+>
+> Ingeniería inversa completa: `outputs/2026-09-10/agente-vsl/Ingenieria-Inversa-VSL-Nazareno.md`
+> Fuente: `templates/Limitless Offert - VSL Nazareno Gamero.docx`
+> Ejemplo aplicado: `outputs/2026-09-10/agente-vsl/VSL-Landing-v2-Documento-Manu.md`
+
 ### TIPO 2 — RESOLUCIÓN DE OBJECIONES
 Desarma **UNA** objeción específica antes de la próxima fase del funnel. Típico: thank-you page
 post-agendamiento. **3:30-4:00 min.**
