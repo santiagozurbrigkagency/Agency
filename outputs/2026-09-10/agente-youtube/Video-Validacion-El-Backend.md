@@ -141,7 +141,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada d
 
 > Te hablo a vos: vendés un consumible —químicos, suplementos, cosmética, algo que se termina y se vuelve a comprar—, facturás entre treinta y ochenta millones por mes, y sabés operar.
 >
-> No te falta saber vender. Ya lo sabés hacer. Y aun así abrís el Excel y no cierra.
+> No te falta saber vender. Ya lo sabés hacer. Y aun así abrís el Excel (chequear) y no cierra.
 
 → Identificación **directa**, y de acá en adelante la identificación es **indirecta**: se lo
 reconoce por los problemas.
@@ -156,7 +156,7 @@ reconoce por los problemas.
 >
 > Eso quiere decir que de cada cien que entran, más de noventa y ocho siguen ahí el mes que viene.
 >
-> `[a cámara]` No te muestro cuánto facturo. Te muestro cuántos se quedan. Es el único número que no se puede inflar.
+> `[a cámara]` No te muestro cuánto facturo. Te muestro cuántos se quedan. Es el único número que no se puede exagerar.
 
 → Autoridad visual y concreta. Y es la **regla 1 de tono** de Manu: se prueba con retención.
 
@@ -166,11 +166,11 @@ reconoce por los problemas.
 
 > **Beat:** 15 segundos, un solo camino, sin pitch ni urgencia. Se siembra y se sigue.
 
-> Antes de arrancar con el primero, una sola cosa.
+> Antes de arrancar con lo primero, una sola cosa.
 >
-> Si ya sabés que esto es exactamente lo que te falta, no hace falta que veas los veinte minutos. Andá al link de la descripción, mandame tu situación y hablamos.
+> Si ya sabés que esto es exactamente lo que te falta, no hace falta que veas los veinte minutos. Andá al link de la descripción, mandame tu situación y te contesto yo personalmente, para poder darte una mano en lo que necesites o pasarte algun recurso que te pueda llegar a servir.
 >
-> Para el resto, vamos al primer punto.
+> Ahora si, para el resto, vamos al primer punto.
 
 → Por la **audiencia reprimida** y por la **curva de retención**: el que ya está listo no espera al
 minuto 19, y la mayoría nunca llega al final.
@@ -211,9 +211,9 @@ minuto 19, y la mayoría nunca llega al final.
 >
 > Hoy hay muy pocos productos innovadores, todos compiten por los mismos productos. Y la manera de competir sobre productos quemados no es diferenciarte por precio ni por ángulos, porque ya todo el mundo corre ofertas agresivas y es muy difícil ser rentable bajando el precio.
 >
-> El CPM no lo decidís vos. Lo decide la subasta.
+> El CPM no lo decidís vos. Lo decide Meta.
 >
-> **Y la subasta no la gana el que tiene el mejor creativo. La gana el que puede pagar más.**
+> **Y la subasta de Meta no la gana el que tiene el mejor creativo. La gana el que puede pagar más.**
 
 ### La solución única, con lógica
 
@@ -227,7 +227,7 @@ minuto 19, y la mayoría nunca llega al final.
 >
 > `[pausa]` Aunque tengas margen cero en la primera venta, después hacés muchísima plata.
 >
-> Hagamos la cuenta con números. `[EN PANTALLA: Manu escribe en la pizarra]`
+> Vamos a hacer la cuenta con números. `[EN PANTALLA: Manu escribe en la pizarra]`
 >
 > Digamos que tu margen de contribución por pedido es de treinta mil pesos.
 >
@@ -247,7 +247,7 @@ minuto 19, y la mayoría nunca llega al final.
 
 ### Anticipación de objeción
 
-> Y sé lo que estás pensando: "¿y si el cliente no me compra tres veces?".
+> Y si, ya sé lo que estás pensando: "¿Qué pasa si el cliente no me compra tres veces?".
 >
 > Por eso el primer paso no es tocar la pauta. Es hacer que el producto se cobre solo. Eso lo vemos en el punto dos.
 >
@@ -259,7 +259,7 @@ minuto 19, y la mayoría nunca llega al final.
 >
 > Esta es la calculadora que uso con mis clientes para sacar ese número. Metés tu margen, tu CPA de hoy y tu recompra, y te devuelve los tres escenarios.
 >
-> Si la querés, mandame **TECHO** al WhatsApp del link de la descripción y te la paso.
+> Si la querés, me podes mandar mensaje al WhatsApp del link de la descripción y te la paso, no tengo problema.
 
 `[BLOQUEADO — la calculadora de tres escenarios no existe todavía. Si se graba antes de que exista,
 este mini CTA se saltea completo y no se reemplaza.]`
@@ -288,7 +288,7 @@ este mini CTA se saltea completo y no se reemplaza.]`
 >
 > No podés proyectar. No sabés con cuánto vas a cerrar. No podés comprometer stock con confianza, ni contratar a alguien, ni firmar nada a doce meses. Cada decisión de tu negocio la tomás sin piso.
 >
-> `[a cámara]` Y trabajás con una presión que no es de facturación. Es de incertidumbre.
+> `[a cámara]` Y trabajás con una presión que no es de facturación. Es de incertidumbre, de no saber que va a pasar.
 
 ### Cambio de paradigma
 
@@ -326,15 +326,15 @@ este mini CTA se saltea completo y no se reemplaza.]`
 
 ### Anticipación de objeción
 
-> Y antes de que lo pienses: esto no te rompe lo que hoy factura.
+> Y antes de que lo pienses: esto no te rompe lo que hoy facturas.
 >
 > La suscripción se instala **al lado** de tu compra única, no encima. El día uno seguís vendiendo exactamente como vendés hoy. Lo que cambia es que además empezás a acumular.
 
 ### Mini CTA de recurso — PISO
 
-> Este es el reporte que miro cada semana: activos, churn y recompra en una sola pantalla.
+> Este es el reporte que miro todos los lunes: activos, churn y recompra en una sola pantalla.
 >
-> Si querés la plantilla, mandame **PISO** al WhatsApp y te la mando armada.
+> Lo mismo que dije hoy, si queres que te pase la plantilla, mandame mensaje al WhatsApp y te la mando armada.
 
 `[Requiere armar la plantilla del reporte antes de grabar. El tablero existe; la plantilla
 entregable, no.]`
@@ -349,7 +349,7 @@ entregable, no.]`
 
 ### Dolor, con los costos ocultos
 
-> Punto tres, y este es el que menos se habla.
+> Este es el que menos se habla.
 >
 > Facturás bien y no podés blanquear.
 >
@@ -397,9 +397,9 @@ entregable, no.]`
 
 ### Mini CTA de recurso — BLANCO
 
-> Esta es la hoja de costeo con la que sacamos ese punto de corte, con IVA y ganancias como RI ya cargados.
+> Esta es la hoja de costeo con la que sacamos ese punto de corte, con IVA y ganancias como responsable inscripto ya cargados.
 >
-> Mandame **BLANCO** al WhatsApp y te la paso.
+> Repito, me podes mandar mensaje a whatsapp, me decis que venis de este video y te la paso al toque.
 
 `[Confirmar si existe como plantilla. Está listada como entregable DFY en la oferta.]`
 
@@ -422,13 +422,12 @@ entregable, no.]`
 >
 > Y el costo de esto no es el día que pasa. Es todos los días que no pasa.
 >
-> Es que dormís mal. Es que revisás la cuenta un sábado. Es que tenés un negocio que factura ochenta millones por mes y que **no controlás**, porque lo que lo sostiene es una plataforma que no es tuya y que no te debe nada.
+> Es que dormís mal. Es que revisás la cuenta todos los dias. Es que tenés un negocio que factura ochenta millones por mes y que **no controlás**, porque lo que lo sostiene es una plataforma que no es tuya y que no te debe nada.
 >
-> `[a cámara]` No sos dueño de tu facturación. Sos inquilino.
 
 ### Cambio de paradigma
 
-> Y lo que te enseñaron acá es a preparar el desastre. Tené tres cuentas. Armá un BM de respaldo. Comprá cuentas.
+> Y lo que te enseñaron acá es a preparar el desastre. Tené tres cuentas. Armá un Bussines Manager de respaldo. Comprá cuentas.
 >
 > Todo eso es lo mismo: **maneras distintas de seguir dependiendo de Meta.**
 >
@@ -436,7 +435,7 @@ entregable, no.]`
 
 ### La solución única, con lógica
 
-> La cuarta pieza es **Facturación a Prueba de Meta.** Y no es un módulo nuevo: es la misma base de suscriptores, leída desde el riesgo.
+> La cuarta pieza es **Facturación a Prueba de Meta.** Y no es un modelo nuevo: es la misma base de suscriptores, leída desde el riesgo.
 >
 > Cuando tenés una base recurrente, la pauta cambia de función. **La pauta pasa a ser para sumar suscriptores, no para sostener la facturación.**
 >
@@ -452,7 +451,7 @@ entregable, no.]`
 >
 > Y el problema es este: **tu unidad de venta es la compra, no el cliente.**
 >
-> De ahí cuelga que cada venta te cueste lo mismo. De ahí cuelga que el 1 arranques en cero. De ahí cuelga que no puedas blanquear, y de ahí cuelga que Meta te tenga la vida en la mano.
+> De ahí cuelga que cada venta te cueste lo mismo. De ahí cuelga que el 1 arranques en cero. De ahí cuelga que no puedas blanquear, y de ahí cuelga que Meta te tenga con los huevos en la mano.
 >
 > Y todo eso se suelta con una sola palanca: **que el cliente valga tres compras en vez de una.**
 >
@@ -472,19 +471,17 @@ entregable, no.]`
 
 ### Ultra específico y accionable
 
-> Y llegamos al final, así que te digo exactamente qué hacer.
+> Bueno llegamos al final del video, así que te digo exactamente qué hacer.
 >
 > Andá al link que está en la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
 >
-> Lo leo yo. No hay un vendedor atrás de esto.
+> Lo leo yo. No hay un setter atrás de esto.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y **te hago la misma auditoría que le hago a un cliente cuando entra.** En pantalla, con tus números: tu margen real por pedido, tu CPA de hoy, tu recompra, y cuál es tu techo con LTV tres.
+> Y si tu marca entra en el rango, hacemos una llamada y **te hago la misma auditoría que le hago a un cliente cuando entra.** En pantalla, con tus números: tu margen real por pedido, tu CPA de hoy, tu recompra, y cuál es tu techo con LTV de 3 que es lo mas conservador del mundo.
 >
 > `[pausa]`
 >
-> Al final de eso te digo cuál es tu cuello de botella y qué orden tendría que seguir tu backend. Y si tiene sentido trabajar juntos, te lo cuento.
->
-> **Si no, te llevaste la auditoría y la cuenta hecha.** Entres o no entres.
+> Al final de eso te digo cuál es tu cuello de botella y qué orden tendría que seguir tu backend.
 
 ### Acercar al deseo
 
@@ -492,7 +489,7 @@ entregable, no.]`
 >
 > Es el primero del mes, nueve de la mañana. Abrís el tablero **antes** de abrir el administrador de anuncios.
 >
-> Y ya hay facturación. No porque vendiste hoy: porque a la gente que se suscribió hace tres meses se le cobró sola esta madrugada.
+> Y ya hay facturación. No porque vendiste hoy: porque a la gente que se suscribió hace tres meses se le cobró sola hoy.
 >
 > Recién ahí abrís Meta. Y lo que ves ahí ya no define tu mes: define cuánto vas a crecer.
 
@@ -502,15 +499,14 @@ entregable, no.]`
 >
 > Cada mes que pasa entran más competidores a tu producto, sube el CPM, y ese techo de treinta mil que tenés hoy vale menos que el mes pasado.
 >
-> Empezar dentro de seis meses no es empezar igual seis meses después. **Es empezar peor.**
+> Empezar dentro de seis meses no es empezar igual seis meses después. Es perderte la oportunidad que tenes hoy, que este modelo esta recontra verde en Latam en general.
 >
 > `[pausa]`
 >
 > Y del otro lado: esto en Argentina no lo está haciendo casi nadie en consumibles. Ese es el único motivo por el que un negocio de cuarenta millones puede hoy pagar más por cliente que uno de doscientos. Esa ventana se cierra cuando el resto se entera.
 >
-> `[a cámara]` El link está en la descripción.
->
-> Esto es escalar hacia adentro.
+> Si llegaste hasta este punto del video, gracias por escucharme y por tomarte el tiempo de ver este video. Voy a estar tirando mucha data como esta en los proximos dias por aca asi que estate atento, y repito por ultima vez, te dejo mi whatsapp en la descripción, me podes contar tu situación, te doy una mano en lo que pueda, y si te puedo pasar algun recurso te lo paso sin drama.
+> Abrazo!
 
 ---
 
