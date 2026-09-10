@@ -9,9 +9,15 @@ Archivos canónicos:
 
 | Archivo | Qué contiene |
 |---|---|
-| `Avatar-Genesis.md` | Quién es el cliente, específico. Escalera de niveles, descripción general, mapa de dolores. |
+| `Avatar-Genesis.md` | Quién es el cliente, específico. Escalera de niveles, descripción general, mapa de dolores y la cadena. |
 | `Oferta-Genesis.md` | La oferta cerrada, sus componentes, el precio y su validación. |
 | `Metodo-Unico-Genesis.md` | Escalar Hacia Adentro: transformación, obstáculos, las siete piezas, el nombre. |
+| `Personaje.md` | Manu en cámara: vestimenta, escenarios, arquetipo, historia, reglas de tono, la cuenta canónica y la cadena de dolores. |
+| `Voz-Genesis.md` | Cómo suena Manu: patrones de frase, palabras que usa y que nunca diría, sus opiniones literales. |
+
+**Lo que NO va acá:** los frameworks van a `playbooks/` (los propios) o a `templates/`
+(los de terceros que usamos como fuente, como el SOP de VSL o el de videos de YouTube).
+Los briefs de una pieza puntual viajan con su corrida, en `outputs/<fecha>/<agente>/`.
 
 ## La regla
 **Una sola fuente de verdad.** Todos los agentes leen de acá. Ningún agente guarda su
