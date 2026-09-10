@@ -1,5 +1,5 @@
 PERSONAJE — Génesis (Manuel Dominguez)
-Versión consolidada al 9 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu), las correcciones de Santi del 8 y la decisión sobre José del 9.
+Versión consolidada al 9 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu), las correcciones de Santi del 8, la decisión sobre José del 9 y la corrección del diagrama de la cadena del 9 (el CPA es el padre de dos eslabones, no su hermano — ver sección 6).
 
 Manu — "el que muestra el tablero"
 
@@ -370,6 +370,53 @@ El problema es que LA UNIDAD DE VENTA ES LA COMPRA Y NO EL CLIENTE.
        │     └→ el mercado se termina ................. techo de mercado
        ├→ toda la facturación cuelga de Meta ........... metadependencia
        └→ sin base recurrente no hay activo vendible ... exit  [diferido]
+
+------------------------------------------------------------
+CORRECCIÓN AL DIAGRAMA — el CPA no es un hermano, es el padre
+------------------------------------------------------------
+[CORREGIDO POR SANTI 9-SEP]
+
+El diagrama de arriba dibuja las seis ramas EN PARALELO colgando de la raíz. Causalmente eso está
+aplanado: "el 1 arranco en cero" y "no podés blanquear" NO son hermanos del CPA — cuelgan DE él.
+
+  La raíz explica por qué cada venta cuesta lo mismo.
+  El CPA explica por qué el mes arranca en cero y por qué el margen no aguanta el blanco.
+
+Y se ve mejor partiendo el enunciado del CPA en sus dos mitades, porque cada mitad detona uno:
+
+  "cada venta me cuesta lo mismo que la anterior"   → EL COSTO NO BAJA NUNCA
+        └→ ninguna venta que hiciste deja facturación para el mes que viene. No compraste un
+           cliente: compraste una transacción, y se terminó cuando se entregó.
+           → EL 1 DEL MES ARRANCO EN CERO
+                 └→ y si esa facturación hay que volver a comprarla todos los meses en un solo
+                    lugar, ese lugar te tiene la vida en la mano → METADEPENDENCIA
+
+  "y me deja el mismo margen"                        → EL MARGEN NO SUBE NUNCA
+        └→ el margen por cliente es un número fijo y bajo, y en un número fijo y bajo no entran
+           IVA ni ganancias. El contador no puede arreglarlo: no es un problema de estructura.
+           → NO PUEDO BLANQUEAR
+
+CÓMO SE CONECTAN LOS DOS HIJOS ENTRE SÍ
+  Son el mismo hecho leído en dos ejes. El CPA dice que nada se acumula; "el 1 arranco en cero" es
+  esa no-acumulación leída en el CALENDARIO, y "no puedo blanquear" es la misma leída en el P&L.
+  Uno es tiempo, el otro es plata, el hecho de fondo es idéntico.
+
+  Y se alimentan en loop:
+    el mes arranca en cero → hay que comprar la facturación con pauta ESTE mes → esa pauta se come
+    el margen → no hay excedente para blanquear → te quedás informal, con techo de escala y sin
+    estructura financiable → no podés construir nada que no sea volver a comprar la facturación
+    mes a mes.
+
+  Las dos puntas se sueltan con la MISMA palanca: que el cliente valga tres compras en vez de una.
+  Ahí el mes arranca con la base ya cobrada y el margen por cliente se multiplica hasta que el
+  blanco cierra.
+
+CONSECUENCIA DE CONTENIDO
+  Si fueran hermanos, cada uno iría en su pieza. Como el CPA es el padre, una pieza que abre con el
+  CPA puede bajar a cualquiera de los dos SIN cambiar de tema. Es exactamente lo que dijo Manu:
+  "en un video hablás por cadena de cuatro al mismo tiempo".
+  Ojo con el formato: los dos hijos están en el mismo grupo del mapa de conciencia y ninguno sirve
+  de hook corto — "el 1 arranco en cero" hay que enseñarlo y blanqueo necesita la cuenta.
 
 ------------------------------------------------------------
 LOS ESLABONES, CON LO QUE MANU DIJO DE CADA UNO

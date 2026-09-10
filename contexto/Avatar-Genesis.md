@@ -343,6 +343,13 @@ Consecuencia de formato: en pieza corta va UN eslabón; en video largo y webinar
 juntos, en orden, y la cadena entera ES el argumento. El diagrama de la cadena está en
 Personaje.md, sección 6.
 
+[CORREGIDO 9-SEP] El diagrama dibuja las ramas en paralelo, pero causalmente el DOLOR 1 (CPA) es
+el padre de dos de ellas, no su hermano: su primera mitad ("cada venta me cuesta lo mismo")
+detona el DOLOR 3 (el 1 arranco en cero) y de ahí el DOLOR 4 (metadependencia); su segunda mitad
+("y me deja el mismo margen") detona el DOLOR 5 (no puedo blanquear). Los dos hijos son el mismo
+hecho leído en dos ejes — calendario y P&L — y se alimentan en loop. El desarrollo completo está
+en Personaje.md, sección 6, "Corrección al diagrama".
+
 ------------------------------------------------------------
 DOLOR 1: "Cada venta me cuesta lo mismo que la anterior y me deja el mismo margen."
 ------------------------------------------------------------
