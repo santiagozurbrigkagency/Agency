@@ -39,9 +39,10 @@ Génesis ese bloque no se completa a mano: ya existe en `contexto/`.**
 
 **Lo que NO está y hay que pedir antes de escribir:**
 
-- **Testimonios reales, con link al video o audio.** **José es el caso principal y se explota en
-  todo el contenido** (ver sección 2). Lo que falta son casos que cubran el resto de los
-  sub-segmentos: esos se piden, y si no están se marca `[FALTA CASO REAL]`. **Nunca se inventa.**
+- **La captura del caso de Manu.** El caso es su marca propia y **todos los testimonios giran en
+  torno a él** (ver sección 2). Lo que hay que pedir es la captura del reporte —sin captura el
+  número no se dice— y el período entre los 60M y los 156.798.062. Si hace falta un caso de
+  transferencia y no está, se marca `[FALTA CASO REAL]`. **Nunca se inventa.**
 - **Marco global / scarcity real.** Hoy no hay fecha de cierre. Lo que sí hay es el **cupo de 5
   marcas**, y es real: se usa explicado por capacidad de atención, nunca por validación (ver
   sección 6). Si no hay nada real, se declara "no hay" y **el VSL no usa urgencia**.
@@ -83,20 +84,30 @@ webinar sale después de cerrar 3. Un VSL con urgencia de lanzamiento **contradi
 **La pieza que convierte es la cuenta del otro en pantalla**, no la de Manu. El tablero (2.200
 activos, 1,28% de churn) es la prueba de fondo.
 
-**José es el caso principal de todo VSL.** Fue caso de éxito primero y socio después: migró como
-cliente, le funcionó, y recién entonces pasó a ayudar a Manu a entregar el servicio. **El doble rol
-no lo invalida como testimonio — se declara, y en ese orden.** Es el único caso fuerte que hay, así
-que no se esquiva ni se relega: es el que va en el bloque PRUEBA. Las cuatro reglas para usarlo
-están en `contexto/Personaje.md`:
+**EL CASO ES LA MARCA PROPIA DE MANU** [CORREGIDO 10-SEP]. Todos los testimonios giran en torno a
+él: de **60.000.000 a 156.798.062 ARS/mes**, con **2.200 activos y 1,28% de churn**.
 
-1. Prueba el **mecanismo**, no el resultado del avatar — está muy por encima del rango 30-80M.
-   Nunca se presenta como "esto te va a pasar a vos".
-2. **Retención adelante** (activos, churn, LTV real medido), **profit atrás** como contexto.
-3. **El doble rol se declara** en orden: primero cliente, después socio. Escondido queda peor.
-4. **Un ángulo distinto por pieza**, no el relato entero cada vez. Repetir el mismo nombre con
-   ángulos distintos lo construye; repetir el mismo relato lo quema.
+**Y cubre lo que antes faltaba:** Manu arrancó en 60M, **dentro del rango 30-80M del avatar**. El
+caso prueba el mecanismo Y el resultado del avatar con una sola pieza. El gap de prueba que el VSL
+tenía que declarar en cámara **ya no existe**.
 
-Falta su **OK para usar los números en público**. Si un VSL los usa, se marca en DATOS FALTANTES.
+Cuatro reglas, de `contexto/Personaje.md`:
+
+1. **Retención adelante, facturación atrás.** Activos y churn primero; los 60M → 156M como
+   contexto. Regla 1 de tono, y no cambia porque el caso sea propio.
+2. **Se muestra, no se dice.** Tablero en pantalla y reporte de facturación. Sin captura, el
+   número no se dice.
+3. **Un ángulo distinto por pieza.** Es un solo caso para todo el contenido: quemarlo por
+   repetición es el riesgo real.
+4. **El punto A se dice con el número.** "Facturaba 60 millones" es el ancla que hace que el de
+   40M se reconozca. Sin punto A, el caso se lee como inalcanzable.
+
+**José queda como caso 2, subordinado:** prueba que el mecanismo **transfiere** a alguien que no es
+Manu, y su lugar es cerrar la objeción "claro, lo hiciste en tu propia marca". Va **después** del
+caso de Manu, nunca antes y nunca solo.
+
+Falta la **captura del reporte de 156.798.062** y **el período** en que pasó de 60M a ese número.
+Sin captura el número no se dice; el plazo no se afirma hasta confirmarlo.
 
 **Ticket USD 4.000 con anclaje declarado a 6.000.** Riesgo percibido alto: los bloques de objeción
 y elegibilidad pesan más que en un ticket bajo. **Pero eso NO decide la duración** — la duración se
@@ -199,9 +210,9 @@ voz del referente. Si falta algo clave se dice de frente:
 > "Antes de escribir un VSL que convierta necesito [X]. Sin esto el VSL va a ser genérico o la
 > prueba va a ser floja. ¿Lo tenés o lo trabajamos primero?"
 
-**José siempre está disponible como caso principal**, así que el bloque PRUEBA nunca arranca
-vacío. Lo que se chequea es si hay casos para los **otros** sub-segmentos. Si no los hay, se avisa
-qué sub-segmento queda descubierto y se sugiere grabarlo — no se frena el VSL por eso.
+**El caso de Manu siempre está disponible**, así que el bloque PRUEBA nunca arranca vacío, y
+además **cubre el rango del avatar**. Lo que se chequea es si hay casos que prueben la
+transferencia a alguien que no es Manu. Si no los hay, se avisa y se sigue — no se frena el VSL.
 
 ### FASE 1 — Lectura y validación de inputs
 Se lee todo `contexto/` y el material cargado, y se devuelve este resumen para validar:
@@ -573,15 +584,17 @@ también.**
 sugiere grabar. Si aun así se pide avanzar, se usan patrones generales **declarados como tales**
 ("esto es un patrón que veo todo el tiempo"), nunca frases atribuidas a personas falsas.
 
-El orden de prueba de Génesis (de `playbooks/agente-copy.md`): **José, el caso principal** → caso
-real pasado explícitamente → el tablero de Manu (2.200 activos, 1,28% de churn) → prueba de mercado
-o competencia → `[FALTA CASO REAL]`.
+El orden de prueba de Génesis (de `playbooks/agente-copy.md`): **la marca propia de Manu, el
+caso** → **José, la transferencia** → caso real pasado explícitamente → prueba de mercado o
+competencia → `[FALTA CASO REAL]`.
 
-**Cómo se mapea José hoy.** Cubre el sub-segmento del que ya migró y sostiene el modelo, y prueba
-el mecanismo completo. **No cubre el rango 30-80M**: ese es el gap real, y es el que van a cerrar
-las 3 validaciones. Se declara así en el header del VSL, no se disimula. En un VSL largo, José
-puede ocupar el caso profundo del bloque PRUEBA con un ángulo, y otro ángulo suyo puede volver en
-el bloque OBJECIÓN o ELEGIBILIDAD — **ángulos distintos, no el mismo relato dos veces**.
+**Cómo se mapea el caso de Manu.** Cubre dos sub-segmentos con una sola pieza: el que está en el
+rango 30-80M (el punto A, 60M) y el que ya migró y sostiene el modelo (el punto B, con la base
+medida). **Por eso el VSL ya no tiene que declarar un gap de rango en cámara.**
+
+**Lo que sigue sin cubrir es la transferencia con el tamaño correcto:** alguien que no sea Manu,
+dentro del rango. José prueba la transferencia pero está arriba de 80M. Si el VSL lo necesita, se
+declara — no se disimula.
 
 ---
 
@@ -738,12 +751,12 @@ Además de los 11 de `playbooks/agente-copy.md`:
 
 ## 16. Pendientes
 
-- **El OK de José** para usar sus números en público. Es el caso principal de todo el contenido:
-  es el bloqueo más barato de levantar y el que más desbloquea.
-- **Los ángulos de José por pieza del método** (`[CONFIRMAR MANU]` en `contexto/Personaje.md`).
-  Sin el dato real de cada frente, el ángulo no se escribe.
-- **Casos dentro del rango 30-80M.** Es lo único que José no cubre. Cuando lleguen las 3
-  validaciones, **suman** a José en el montaje de sub-segmentos; no lo reemplazan.
+- **La captura del reporte de 156.798.062** y **el período** en que la marca de Manu pasó de 60M a
+  ese número. Sin captura el número no se dice; el plazo no se afirma hasta confirmarlo.
+- **Los ángulos del caso de Manu por pieza del método.** Es un solo caso para todo el contenido:
+  falta definir qué ángulo le toca a cada pieza para no quemarlo.
+- **Un caso de transferencia dentro del rango.** José prueba la transferencia pero está arriba de
+  80M. Las 3 validaciones lo cubren.
 - **La regla de la objeción.** El TIPO 2 choca con el anti-patrón 10 del Agente Copy y el 14 del
   Agente Historias. Falta definir cuál manda. `[RESOLVER CON SANTI]`
 - **La calculadora de tres escenarios.** Es lo que se ve en pantalla y lo que hace la venta en el

@@ -659,13 +659,18 @@ discute por video:
 
 Orden de prueba, de `playbooks/agente-copy.md`:
 
-1. **José — el caso principal.** Fue caso de éxito primero y socio después; el doble rol se declara
-   en ese orden, retención adelante y profit atrás. **Un ángulo distinto por pieza.**
-2. Caso real adaptable que Santi haya pasado explícitamente.
-3. **El tablero de Manu** — 2.200 activos, 1,28% de churn. Es el proof stack visual por defecto: va
-   en pantalla, no dicho.
+1. **LA MARCA PROPIA DE MANU — el caso** [CORREGIDO 10-SEP]. De 60.000.000 a 156.798.062 ARS/mes,
+   con 2.200 activos y 1,28% de churn. **Todos los testimonios giran en torno a él.** Retención
+   adelante, facturación atrás · se muestra en pantalla, no se dice · un ángulo distinto por pieza ·
+   el punto A se dice con el número.
+2. **José — caso 2, subordinado.** Prueba que el mecanismo transfiere a alguien que no es Manu.
+   Va después, nunca antes y nunca solo.
+3. Caso real adaptable que Santi haya pasado explícitamente.
 4. Prueba de mercado o datos de competencia.
 5. Si no hay ninguna → `[FALTA CASO REAL]`. **Nunca se inventa.**
+
+**El tablero de Scalify** (2.200 activos, 1,28% de churn) es el proof stack visual por defecto de
+todo video: **va en pantalla, no dicho.**
 
 **Regla 1 de tono:** se prueba con **métricas de retención**, no con facturación en pesos. Aplica al
 proof stack de cada punto.

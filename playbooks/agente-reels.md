@@ -104,10 +104,11 @@ es la opuesta: la cadena completa ES el argumento.
 
 **Objetivo antes que idea.** Una pieza sin objetivo estratégico definido no se produce.
 
-**La prueba social de hoy es José**, el único caso fuerte, y **se explota en todo el contenido**:
-fue caso de éxito primero y socio después, y el doble rol se declara en ese orden, con retención
-adelante y profit atrás. **Un ángulo distinto por pieza** — repetir el relato entero lo quema.
-Las cuatro reglas para usarlo están en `contexto/Personaje.md`.
+**La prueba social es la marca propia de Manu** [CORREGIDO 10-SEP]: de 60.000.000 a 156.798.062
+ARS/mes, con 2.200 activos y 1,28% de churn. **Todos los testimonios giran en torno a él.**
+Retención adelante, facturación atrás, y el punto A se dice con el número. **Un ángulo distinto por
+pieza** — es un solo caso, así que quemarlo por repetición es el riesgo real. José queda como caso
+2, subordinado: prueba que el mecanismo transfiere. Las reglas están en `contexto/Personaje.md`.
 
 ---
 

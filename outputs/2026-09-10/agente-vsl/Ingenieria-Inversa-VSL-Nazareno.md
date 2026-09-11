@@ -298,7 +298,7 @@ Hoy hay José y el tablero. No se simula un muro con menos.
 | 0 · Portada | La frase de la oferta: *"Escalo tu ecomm de consumibles a +$100M al mes convirtiéndolo a modelo de suscripción, sin depender del CPA ni dejar de vender"* | ✅ `contexto/Oferta-Genesis.md` |
 | 1 · Quién soy | Manu, fundador de Génesis. Marca propia de consumibles | ⚠️ **falta la cantidad de años** |
 | 2 · Mi objetivo | La ambición declarada | ⚠️ **no está en `contexto/`. Propuesta, a confirmar** |
-| 3 · Por qué escucharme | 2.200 activos y 1,28% de churn · $60M → $156.798.062 · José 100M de profit | ✅ los tres, con el OK de José pendiente |
+| 3 · Por qué escucharme | 2.200 activos y 1,28% de churn · $60M → $156.798.062 · "arranqué en 60M, adentro del rango" | ✅ los tres, todos de la marca propia de Manu [CORREGIDO 10-SEP: José salió de este bloque] |
 | 4 · La distinción | Compra única contra suscripción — el frame del CPA vs. CAC | ✅ literal de Manu |
 | 5 · Para quién es | Consumible + 30-80M/mes + tienda propia con base de compradores | ✅ `contexto/Avatar-Genesis.md` |
 | 6 · Para quién NO es | Abajo de 30M · compra única sin ciclo · el que quiere producto ganador · el que quiere desaparecer | ✅ |

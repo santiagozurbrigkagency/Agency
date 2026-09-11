@@ -627,7 +627,12 @@ dueños de marca de ecommerce, subscription ecommerce, DTC subscription
 **El proof stack va conectado al punto, no suelto ni al final:** el tablero aparece en la apertura
 (autoridad) y otra vez en el punto 2 (piso), la cuenta en el punto 1, la hoja de costeo en el
 punto 3. **José no aparece en este video** — la prueba de esta pieza es la marca propia de Manu, que
-es lo que el título promete. José queda para el video de caso.
+es lo que el título promete.
+
+**[CONFIRMADO 10-SEP]** Esa decisión, que acá se había tomado por el título, pasó a ser la regla de
+todo el sistema: **todos los testimonios giran en torno a Manu.** José queda como caso 2,
+subordinado, y su lugar es cerrar la objeción "claro, lo hiciste en tu propia marca" — nunca antes
+del caso de Manu y nunca solo. Ver `contexto/Personaje.md`, sección 4.
 
 ---
 

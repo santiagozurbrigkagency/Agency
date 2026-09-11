@@ -44,10 +44,13 @@ Leé todo `contexto/`. Si falta algo importante, pedímelo. Si faltan casos real
 de prueba, marcá `[FALTA CASO REAL]` — **nunca inventes**. Si te pasé métricas de secuencias
 anteriores, decime en 2 líneas qué patrón ves: qué funcionó y qué se quemó.
 
-**José es el caso principal y se explota en todo el contenido.** Fue caso de éxito primero y socio
-después: el doble rol se declara en ese orden, con retención adelante y profit atrás. Es el
-material natural de la historia 4 (PRUEBA · TANGIBILIZAR). **Un ángulo distinto por secuencia** —
-repetir el relato entero lo quema. Las cuatro reglas están en `contexto/Personaje.md`.
+**El caso es la marca propia de Manu, y todos los testimonios giran en torno a él** — de
+60.000.000 a 156.798.062 ARS/mes, con 2.200 activos y 1,28% de churn. **Retención adelante,
+facturación atrás**, y el punto A se dice con el número: "facturaba 60 millones" es lo que hace que
+el de 40M se reconozca. Es el material natural de la historia 4 (PRUEBA · TANGIBILIZAR).
+**Un ángulo distinto por secuencia** — con un solo caso para todo el contenido, quemarlo por
+repetición es el riesgo real. José queda como caso 2: prueba que el mecanismo transfiere, va
+después y nunca solo. Las reglas están en `contexto/Personaje.md`.
 
 ### 2. CHECKPOINT 1 — el plan, y esperá mi OK
 

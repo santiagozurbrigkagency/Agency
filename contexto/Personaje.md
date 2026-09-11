@@ -1,5 +1,5 @@
 PERSONAJE — Génesis (Manuel Dominguez)
-Versión consolidada al 9 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu), las correcciones de Santi del 8, la decisión sobre José del 9 y la corrección del diagrama de la cadena del 9 (el CPA es el padre de dos eslabones, no su hermano — ver sección 6).
+Versión consolidada al 10 de septiembre de 2026. Incorpora la call del 7 de septiembre (Fathom, 50 min · Santi + Mati + Manu), las correcciones de Santi del 8, la corrección del diagrama de la cadena del 9 (el CPA es el padre de dos eslabones, no su hermano — ver sección 6) y el cambio de caso principal del 10: todos los testimonios giran en torno a Manu y su propia marca; José pasa a secundario (ver sección 4).
 
 Manu — "el que muestra el tablero"
 
@@ -24,8 +24,14 @@ NO se habló de vestimenta, arquetipo ni historia personal. Esas tres secciones 
   Precio        USD 4.000, con anclaje declarado a 6.000. CERRADO.
   LTV           3 pedidos. CERRADO. (Reemplaza el 2,5 de todos los documentos.)
   Facturación   Avatar de 30 a 80 millones ARS/mes. CERRADO. (Reemplaza el rango 30–150M.)
-  Caso          José. Único cliente en el modelo de suscripción. 100M ARS de profit/mes.
-                Además es quien ayuda a Manu a entregar el servicio.
+  CASO PRINCIPAL  La marca propia de Manu. De 60.000.000 a 156.798.062 ARS/mes, con 2.200
+                suscriptores activos y 1,28% de churn. CERRADO el 10-sep: todos los testimonios
+                giran en torno a Manu. Reemplaza a José como caso principal — ver sección 4.
+                [CONFIRMAR: en qué período pasó de 60M a 156.798.062. Los dos números están
+                 verificados por Santi el 10-sep; el plazo entre uno y otro, no.]
+  Caso 2        José. Único cliente en el modelo de suscripción. 100M ARS de profit/mes.
+                Además es quien ayuda a Manu a entregar el servicio. Queda SUBORDINADO al caso
+                de Manu: prueba que el mecanismo transfiere.
 
 ------------------------------------------------------------
 CAMBIO DE FASE — leer antes que todo lo demás
@@ -95,13 +101,22 @@ ESCENARIO 3 — Pantalla compartida, haciendo la cuenta de un negocio real   ←
   que es la primer llamada, eso tiene que salir a YouTube sí o sí."
 
   Esto reemplaza la versión anterior de "Escenario 2 = el escritorio con el tablero de suscriptores".
-  El tablero de 2.200 activos y 1,28% de churn sigue siendo la prueba de fondo, pero la pieza
-  que convierte es la cuenta del OTRO en pantalla, no la de Manu.
 
-  Qué se puede grabar YA: Manu y José haciendo la cuenta de la marca de José. Es la pieza
-  disponible hoy y se graba, no se espera.
-  Qué sigue pendiente: la auditoría a un alumno NUEVO, que depende de la validación #1.
-  No reemplaza a José: lo acompaña. La etiqueta tiene que ser honesta en cada caso.
+  [CORREGIDO 10-SEP] La versión del 7-sep decía "la pieza que convierte es la cuenta del OTRO en
+  pantalla, no la de Manu". Con el caso principal cambiado, hay que separar dos cosas que estaban
+  mezcladas:
+    LA PRUEBA  = la cuenta de la marca de MANU. El antes y el después: 60M → 156.798.062, con el
+                 tablero de 2.200 activos y 1,28% de churn al lado. Es lo que prueba el mecanismo.
+    LA VENTA   = la cuenta del PROSPECTO, hecha en la llamada. Es lo que se lleva puesto el lead,
+                 y es la oferta del CTA ("te vas con la cuenta hecha, entres o no entres").
+  Las dos van en Escenario 3. La primera se graba y se publica; la segunda pasa en la call.
+
+  Qué se puede grabar YA, sin pedirle permiso a nadie: Manu haciendo la cuenta de SU PROPIA marca
+  en pantalla, el antes y el después. Es la pieza disponible hoy y se graba, no se espera.
+  Esto destraba el Escenario 3, que antes dependía de conseguir el negocio de otro.
+  Qué sigue pendiente: la auditoría a un alumno NUEVO, que depende de la validación #1. Ya no
+  cierra un gap de prueba —Manu lo cerró— sino que muestra el mecanismo en manos de otro.
+  La etiqueta tiene que ser honesta en cada caso.
 
   HERRAMIENTA QUE FALTA — la calculadora de suscripción  [CALL 7-SEP @39:00, idea de Manu]
   Toma los números reales del negocio (margen por pedido, CPA actual, ticket, recompra) y proyecta
@@ -187,36 +202,64 @@ DÓNDE ESTOY HOY
   hace que sea más uno a uno todavía; no diversifica la atención, la potencia."
   Acuerdo de la call: en la oferta nueva, el onboarding lo toma Manu y el acompañamiento sigue con José.
 
-  EL ORDEN CRONOLÓGICO — no se invierte  [CORREGIDO POR SANTI 9-SEP]
+  EL ORDEN CRONOLÓGICO DE JOSÉ — no se invierte  [CORREGIDO POR SANTI 9-SEP]
   José fue CASO DE ÉXITO primero y socio después. Migró como cliente, le funcionó, y recién
   entonces pasó a ayudar a Manu a entregar el servicio. El doble rol es la CONSECUENCIA del
   resultado, no un asterisco que lo invalida.
-  Por eso José ES un testimonio, y hoy es el único fuerte que tiene el negocio.
+  Por eso José ES un testimonio válido. Lo que cambió el 10-sep es que ya no es EL caso: es el
+  secundario. Ver la decisión de abajo.
 
-  DECISIÓN: JOSÉ SE EXPLOTA EN TODO EL CONTENIDO  [CORREGIDO POR SANTI 9-SEP]
-  Deja de tratarse como prueba de segunda a la espera de las 3 validaciones. Es el caso principal
-  de TikTok, historias, YouTube, VSLs y webinar. Ningún agente lo degrada ni lo esquiva por el
-  doble rol: lo usa con las cuatro reglas de abajo.
-  Cuando entren las 3 validaciones, se SUMAN a José —cubren el rango del avatar, que es lo que él
-  no cubre—. No lo reemplazan.
+  DECISIÓN: EL CASO ES MANU  [CORREGIDO POR SANTI 10-SEP]
+  REEMPLAZA la decisión del 9-sep ("José se explota en todo el contenido").
+  TODOS los testimonios giran en torno a Manu. El caso que se muestra es SU PROPIA MARCA.
 
-  CÓMO SE USA JOSÉ — cuatro reglas, porque es fácil quemarlo
-    1. Prueba el MECANISMO, no el resultado del avatar. José está muy por encima del rango 30–80M.
-       Presentarlo como "esto te va a pasar a vos" hace que el de 40M se vea chico y no se reconozca.
-       La prueba del tamaño del avatar la van a dar las 3 validaciones.
-    2. Sale con números de RETENCIÓN adelante (activos, churn, LTV real medido) y el profit como contexto.
-       Sacarlo con "100 palos de profit" adelante es exactamente el movimiento que le prohibimos
-       al resto del mercado en la regla 1 de tono.
+  POR QUÉ ES MÁS FUERTE QUE JOSÉ
+    1. Es el recorrido EXACTO del avatar. Arrancó en 60 millones/mes —DENTRO del rango 30–80M— y
+       llegó a 156.798.062. José siempre estuvo arriba de 80M, así que probaba el mecanismo pero
+       no el resultado del avatar. Manu prueba las dos cosas con un solo caso.
+    2. Mismo rubro: consumibles.
+    3. No depende del permiso de nadie. El OK de José bloqueaba tres piezas.
+    4. Tiene retención medida y mostrable: 2.200 activos, 1,28% de churn.
+
+    CONSECUENCIA: EL GAP DE PRUEBA DEL RANGO 30–80M QUEDA CERRADO. Era el gap abierto más caro del
+    sistema, y se cierra sin esperar las 3 validaciones.
+
+  CÓMO SE USA EL CASO DE MANU — cuatro reglas
+    1. RETENCIÓN ADELANTE, FACTURACIÓN ATRÁS. Primero 2.200 activos y 1,28% de churn; los
+       60M → 156.798.062 como contexto. Es la regla 1 de tono y no cambia porque el caso sea propio.
+    2. SE MUESTRA, NO SE DICE. El tablero de Scalify en vivo y el reporte de facturación en
+       pantalla. Sin captura, el número no se dice.
+    3. UN ÁNGULO DISTINTO POR PIEZA. Es un solo caso: el riesgo de quemarlo por repetición es más
+       alto que antes, no más bajo. Los ángulos salen de las piezas del método.
+    4. EL PUNTO A SE DICE CON EL NÚMERO. "Facturaba 60 millones" es el ancla que hace que el de
+       40M se reconozca. Sin el punto A, el caso se lee como inalcanzable.
+
+  DÓNDE QUEDA JOSÉ
+    Sigue siendo verdad y sigue sirviendo, pero SUBORDINADO al caso de Manu: es la prueba de que
+    el mecanismo TRANSFIERE a alguien que no es él. Aparece después del caso de Manu, nunca antes
+    y nunca solo. Le siguen valiendo el orden cronológico (cliente primero, socio después) y
+    retención adelante.
+    [CONFIRMAR SANTI: si José sale del contenido por completo, o se queda como prueba de
+     transferencia.]
+
+  Las 3 validaciones siguen importando, pero por otro motivo: ya no cierran el gap del rango
+  —Manu lo cierra— sino que prueban que el mecanismo funciona en manos de otro.
+
+  CÓMO SE USA JOSÉ, AHORA QUE ES EL SECUNDARIO — las reglas que le siguen valiendo
+    1. Prueba que el mecanismo TRANSFIERE, no el resultado del avatar. José está muy por encima
+       del rango 30–80M. Presentarlo como "esto te va a pasar a vos" hace que el de 40M se vea
+       chico y no se reconozca. El resultado del avatar ahora lo prueba Manu, que arrancó en 60M.
+    2. Sale con números de RETENCIÓN adelante (activos, churn, LTV real medido) y el profit como
+       contexto. Sacarlo con "100 palos de profit" adelante es exactamente el movimiento que le
+       prohibimos al resto del mercado en la regla 1 de tono.
     3. El doble rol se declara, en ese orden: primero cliente, después socio. José migró,
        le funcionó, y ahora ayuda a entregarlo.
        Es la estructura Sabio + Explorador ejecutada por dos personas: el que trajo el modelo
        y el primero que lo adoptó, enseñándolo juntos. Escondido queda peor de lo que es.
-    4. No se agota en una sola pieza. Es el único caso fuerte, así que se corta en ángulos,
-       uno por pieza, siguiendo las piezas del método: la migración a variante paralela,
-       la cuenta del CPA, el piso de facturación, la lectura de riesgo frente a Meta.
-       Repetir el relato entero en cada pieza lo quema; repetir el mismo NOMBRE con ángulos
-       distintos lo construye.
-       [CONFIRMAR MANU: qué pasó concretamente en cada uno de esos frentes en la marca de José.
+    4. Va DESPUÉS del caso de Manu, nunca antes y nunca solo. Su función es cerrar la objeción
+       "claro, lo hiciste en tu propia marca" — y esa objeción solo existe después de que el caso
+       de Manu se contó.
+       [CONFIRMAR MANU: qué pasó concretamente en la marca de José en cada frente del método.
        El ángulo se escribe con el dato real o no se escribe.]
 
   CONTACTO REAL CON CLIENTES  [CALL 7-SEP @15:46]
@@ -241,7 +284,8 @@ LAS CINCO REGLAS
 
   1. Se prueba con MÉTRICAS DE RETENCIÓN, no con facturación en pesos.
      "2.200 activos, 1,28% de churn, acá está el tablero" reemplaza a "mis alumnos facturan 100M".
-     Aplica también a José: retención adelante, profit atrás.
+     Aplica también al caso propio de Manu: retención adelante, los 60M → 156.798.062 como
+     contexto. Y a José: retención adelante, profit atrás.
 
   2. Se habla de plata como COSTO Y MARGEN, no como lifestyle.
      Nunca "hacé 20K". Siempre "cuánto podés pagar por cliente sin perder".

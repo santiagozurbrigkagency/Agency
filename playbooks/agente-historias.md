@@ -48,15 +48,18 @@ link en bio → formulario → video largo de YouTube → WhatsApp de Manu.
 está lanzando: está auditando negocios uno por uno. Las historias en esta ventana sostienen ese
 personaje, no un lanzamiento.
 
-**Prueba disponible hoy:** **José es el caso principal y se explota en todo el contenido** — fue
-caso de éxito primero y socio después, y el doble rol se declara en ese orden, con retención
-adelante y profit atrás (falta su OK para usar los números en público). Detrás, el tablero de Manu
-(2.200 activos, 1,28% de churn). Casos de alumnos dentro del rango del avatar todavía no hay: eso
-es lo que José no cubre, no un motivo para no usarlo.
+**Prueba disponible hoy** [CORREGIDO 10-SEP]: **el caso es la marca propia de Manu, y todos los
+testimonios giran en torno a él** — de 60.000.000 a 156.798.062 ARS/mes, con 2.200 activos y 1,28%
+de churn. Retención adelante, facturación atrás. **Y cubre el rango del avatar: Manu arrancó en
+60M, adentro de los 30-80M.**
 
-En la estructura de 5 historias, José es el material natural de la historia 4 (PRUEBA ·
+José queda como **caso 2, subordinado**: prueba que el mecanismo transfiere a alguien que no es
+Manu. Va después, nunca antes y nunca solo.
+
+En la estructura de 5 historias, el caso de Manu es el material natural de la historia 4 (PRUEBA ·
 TANGIBILIZAR). **Un ángulo distinto por secuencia** —la migración, la cuenta del CPA, el piso de
 facturación, la lectura de riesgo frente a Meta— para no quemarlo repitiendo el relato entero.
+Con un solo caso para todo el contenido, ese riesgo es más alto que antes.
 
 ---
 
@@ -287,7 +290,9 @@ original no aplica acá.
   lanzamiento hace falta una palabra distinta por CTA.
 - **Métricas de secuencias anteriores.** Sin ellas el chequeo anti-quemado es a ojo y no se
   puede construir la bóveda de lo que funciona.
-- **Casos dentro del rango del avatar.** José prueba el mecanismo, no el resultado del avatar.
-  Los casos del rango **suman** a José cuando lleguen; mientras tanto él es el caso principal.
-- **El OK de José** para usar sus números en público, y sus ángulos por pieza del método
-  (`[CONFIRMAR MANU]` en `contexto/Personaje.md`).
+- **La captura del reporte de 156.798.062 y el período** en que la marca de Manu pasó de 60M a
+  ese número. Sin captura el número no se dice, y el plazo no se afirma hasta confirmarlo.
+- **Los ángulos del caso de Manu por secuencia.** Es un solo caso para todo el contenido: hay que
+  definir qué ángulo le toca a cada pieza para no quemarlo.
+- **Casos dentro del rango que no sean Manu.** Ya no cierran un gap —Manu arrancó en 60M y lo
+  cerró— pero suman la transferencia con el tamaño correcto.

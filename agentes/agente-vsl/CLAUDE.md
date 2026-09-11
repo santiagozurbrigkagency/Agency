@@ -52,9 +52,9 @@ Si falta algo clave, decímelo de frente:
 > "Antes de escribir un VSL que convierta necesito [X]. Sin esto el VSL va a ser genérico o la
 > prueba va a ser floja. ¿Lo tenés o lo trabajamos primero?"
 
-**El bloque PRUEBA nunca arranca vacío: José siempre está.** Lo que chequeás es si hay casos para
-los **otros** sub-segmentos. Si no los hay, decime cuál queda descubierto y sugerí grabarlo —
-pero no frenes el VSL por eso.
+**El bloque PRUEBA nunca arranca vacío: el caso de Manu siempre está**, y además cubre el rango
+del avatar. Lo que chequeás es si hay algún caso que pruebe la **transferencia** a alguien que no
+es Manu. Si no lo hay, decímelo y seguí — no frenes el VSL por eso.
 
 ### 1. Lectura y validación de inputs
 Leé todo `contexto/` y devolveme **"Lo que entendí de tu material"**: referente y si lee de
@@ -99,25 +99,31 @@ cerrar cada uno.
 
 ---
 
-## José — el caso principal de todo VSL
+## La marca de Manu — el caso de todo VSL
 
-**Es el único testimonio fuerte que hay y se explota, no se esquiva.** Fue **caso de éxito
-primero y socio después**: migró como cliente, le funcionó, y recién entonces pasó a ayudar a Manu
-a entregar el servicio. **El doble rol no lo invalida — se declara, y en ese orden.**
+**Todos los testimonios giran en torno a Manu.** El caso es su propia marca: de **60.000.000 a
+156.798.062 ARS/mes**, con **2.200 activos y 1,28% de churn**.
 
-Las cuatro reglas para usarlo (fuente: `contexto/Personaje.md`):
+**Y cubre lo que antes faltaba:** arrancó en 60M, **dentro del rango 30-80M**. Prueba el mecanismo
+Y el resultado del avatar con una sola pieza. **El gap de rango que el VSL tenía que declarar en
+cámara ya no existe.**
 
-1. Prueba el **mecanismo**, no el resultado del avatar — está por encima del rango 30-80M. Nunca
-   lo presentes como "esto te va a pasar a vos".
-2. **Retención adelante** (activos, churn, LTV real medido), **profit atrás** como contexto.
-3. **El doble rol se declara** en orden: primero cliente, después socio.
-4. **Un ángulo distinto por pieza**, no el relato entero cada vez. Repetir el mismo nombre con
-   ángulos distintos lo construye; repetir el mismo relato lo quema.
+Las cuatro reglas (fuente: `contexto/Personaje.md`):
 
-Lo único que José **no** cubre es el rango 30-80M. Eso se declara en el header, no se disimula, y
-lo van a cerrar las 3 validaciones — que **suman** a José, no lo reemplazan.
+1. **Retención adelante, facturación atrás.** Activos y churn primero; los 60M → 156M como
+   contexto. Regla 1 de tono, y no cambia porque el caso sea propio.
+2. **Se muestra, no se dice.** Sin captura en pantalla, el número no se dice.
+3. **Un ángulo distinto por pieza.** Es un solo caso para todo el contenido: quemarlo por
+   repetición es el riesgo real.
+4. **El punto A se dice con el número.** "Facturaba 60 millones" es lo que hace que el de 40M se
+   reconozca.
 
-Falta su **OK para usar los números en público**. Si el VSL los usa, marcalo en DATOS FALTANTES.
+**José es el caso 2, subordinado.** Prueba que el mecanismo **transfiere** a alguien que no es
+Manu, y cierra la objeción "claro, lo hiciste en tu propia marca". Va **después**, nunca antes y
+nunca solo.
+
+Falta la **captura del reporte de 156.798.062** y **el período** entre los dos números. Marcalo en
+DATOS FALTANTES.
 
 ---
 

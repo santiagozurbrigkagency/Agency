@@ -77,17 +77,22 @@ hay que cambiar las dos.]`
 
 - **2.200 suscriptores activos · 1,28% de churn** *(marca propia)*
 - **De $60M a $156.798.062 por mes** *(marca propia, sin sumar pauta)*
-- **100M de profit en un mes** *(cliente — José, único en el modelo de suscripción)*
+- **Y arranqué en 60 millones: adentro del rango del que te estoy hablando** *(marca propia)*
 
 `[EN PANTALLA: el tablero de suscriptores de Scalify, en vivo, con los 2.200 y el churn. Después el
 reporte de facturación de los $156.798.062.]`
 
 `[DICE: "No te muestro cuánto facturo y listo. Te muestro cuántos se quedan, que es el único
-número que no se puede inflar. Y te aclaro cuál es mío y cuál es de un cliente, porque no es lo
-mismo."]`
+número que no se puede inflar. Y te muestro de dónde arranqué, porque ahí es donde estás vos
+ahora."]`
 
-`[FALTA — el OK de José para usar sus números en público. Y sus activos y churn, que van adelante
-del profit por la regla 1 de tono y hoy no están documentados.]`
+`[CORREGIDO 10-SEP — los tres renglones son ahora de la marca propia de Manu. José salió de este
+bloque: todos los testimonios giran en torno a Manu. Y el tercer renglón hace un trabajo que antes
+no hacía nadie — ancla el punto A adentro del rango del avatar, que es lo que hace que el de 40M se
+reconozca en vez de verse chico.]`
+
+`[Si en algún momento se quiere meter a José, su lugar NO es acá: es después, como respuesta a la
+objeción "claro, lo hiciste en tu propia marca". Nunca antes del caso de Manu y nunca solo.]`
 
 ---
 
@@ -322,8 +327,8 @@ tu CPA de hoy, tu recompra y tu techo con LTV 3, en pantalla, con tus números.
 | CTA | El formulario |
 
 **Lo que le falta a Génesis y a Nazareno le sobra:** el **muro de prueba** — su imagen con ~80
-capturas de testimonios etiquetadas con su resultado. Hoy hay José y el tablero. **No se simula un
-muro con menos**, y cuando entren las 3 validaciones ese muro se empieza a construir.
+capturas de testimonios etiquetadas con su resultado. Hoy hay un caso: la marca de Manu. **No se
+simula un muro con menos**, y cuando entren las 3 validaciones ese muro se empieza a construir.
 
 ---
 
@@ -332,9 +337,10 @@ muro con menos**, y cuando entren las 3 validaciones ese muro se empieza a const
 1. **Los años de Manu en ecommerce.** Va en "quién soy" y hoy no está en `contexto/`.
 2. **El objetivo declarado.** Está propuesto y **necesita el OK de Manu**. Abre el loop que cierra
    en el bloque de precio: si cambia uno, cambian los dos.
-3. **El OK de José** para sus números, y **sus activos y churn**, que van adelante del profit.
+3. **El período** en que la marca de Manu pasó de $60M a $156.798.062. Los dos números están
+   verificados por Santi; el plazo entre uno y otro, no. **No se afirma hasta confirmarlo.**
 4. **La captura del reporte de $156.798.062.** El número está confirmado por Santi; el bloque de
-   autoridad se apoya en que se vea.
+   autoridad se apoya en que se vea. **Sin captura, el número no se dice.**
 5. **La recompra real de la marca de Manu**, si se va a decir. El documento usa LTV 3, que es el
    número canónico, y no afirma la recompra puntual.
 6. **Tiendanube.** El renglón de "Tienda" nombra la herramienta, que es lo que le da fuerza al

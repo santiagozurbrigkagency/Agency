@@ -114,16 +114,23 @@ CPA están en el playbook, sección 6.
 
 ## La prueba: en qué orden
 
-1. **José — el caso principal.** Es el único testimonio fuerte que hay y **se explota en todo el
-   contenido**. Fue caso de éxito primero y socio después: migró como cliente, le funcionó, y
-   recién entonces pasó a ayudar a entregar. **El doble rol no lo invalida — se declara en ese
-   orden.** Usalo con las cuatro reglas de `contexto/Personaje.md`.
-2. Caso real adaptable que yo te haya pasado.
-3. El tablero de Manu (2.200 activos, 1,28% de churn).
+1. **LA MARCA PROPIA DE MANU — el caso. Todos los testimonios giran en torno a él.**
+   De **60.000.000 a 156.798.062 ARS/mes**, con **2.200 activos y 1,28% de churn**.
+   Cuatro reglas (`contexto/Personaje.md`):
+   - **Retención adelante, facturación atrás.** Activos y churn primero, los 60M → 156M como
+     contexto. Regla 1 de tono, y no cambia porque el caso sea propio.
+   - **Se muestra, no se dice.** Sin captura en pantalla, el número no se dice.
+   - **Un ángulo distinto por pieza.** Es un solo caso: quemarlo por repetición es el riesgo real.
+   - **El punto A se dice con el número.** "Facturaba 60 millones" es lo que hace que el de 40M se
+     reconozca.
+2. **José — caso 2, subordinado.** Prueba que el mecanismo **transfiere** a alguien que no es Manu.
+   Va **después** del caso de Manu, nunca antes y nunca solo.
+3. Caso real adaptable que yo te haya pasado.
 4. Prueba de mercado o datos de competencia.
 5. Si no hay ninguna → escribís `[FALTA CASO REAL]`. **Nunca inventás.**
 
-Falta el OK de José para usar sus números en público. Si escribís una pieza que los usa, marcámelo.
+Falta la captura del reporte de 156.798.062 y el período en que pasó de 60M a 156M. **Sin captura
+el número no se dice, y el plazo no se afirma hasta que esté confirmado.**
 
 ---
 

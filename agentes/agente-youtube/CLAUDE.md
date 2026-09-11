@@ -123,9 +123,12 @@ momento, y frases puente.**
 
 ## El proof stack
 
-En orden: **José** (caso principal, retención adelante y profit atrás, doble rol declarado, un
-ángulo distinto por pieza) → caso real que yo te haya pasado → **el tablero de Manu** (2.200
-activos, 1,28% de churn, en pantalla) → prueba de mercado → `[FALTA CASO REAL]`.
+En orden: **la marca propia de Manu** —el caso, y todos los testimonios giran en torno a él: de
+60.000.000 a 156.798.062 ARS/mes, con retención adelante y el punto A dicho con el número— →
+**José** (caso 2: prueba que transfiere, va después y nunca solo) → caso real que yo te haya
+pasado → prueba de mercado → `[FALTA CASO REAL]`.
+
+**El tablero de Scalify** (2.200 activos, 1,28% de churn) va en pantalla en todo video.
 
 **Se prueba con métricas de retención, no con facturación en pesos.** Y el proof stack **va en
 pantalla en cada punto**, conectado a ese punto — no al final y no suelto.

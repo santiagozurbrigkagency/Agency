@@ -361,14 +361,16 @@ Regla operativa del SOP: cada 2 o 3 meses se reconstruye la oferta de cero y se 
   7. Que Manu diga "Escalar Hacia Adentro" en voz alta antes de que vaya a la bio. Si no le sale natural, cambia el nombre y cambia la bio.
 
   DATA QUE MEJORA LA OFERTA
-  8. Casos de alumnos con números de suscripción. PARCIAL, ya no vacío: existe José —único cliente
-     en el modelo de suscripción, 100M ARS de profit/mes—. Fue caso de éxito PRIMERO y socio
-     DESPUÉS: migró como cliente, le funcionó, y recién entonces pasó a ayudar a Manu a entregar
-     el servicio. El doble rol no lo invalida como testimonio: se declara en ese orden.
-     Lo que sí sigue siendo cierto es que está fuera del rango del avatar, así que prueba el
-     MECANISMO, no el RESULTADO del avatar. Falta el caso de un Nivel 3 dentro del rango, que
-     SUMA a José en vez de reemplazarlo. La diferencia contra la lista declarada está diseñada
-     para comprarlo.
+  8. Casos con números de suscripción. RESUELTO en lo principal [CORREGIDO 10-SEP]: el caso es la
+     MARCA PROPIA DE MANU — de 60.000.000 a 156.798.062 ARS/mes, con 2.200 activos y 1,28% de
+     churn. Todos los testimonios giran en torno a él.
+     Y cubre lo que faltaba: Manu arrancó en 60M, DENTRO del rango 30–80M del avatar. El caso
+     prueba el mecanismo Y el resultado del avatar, que era el hueco abierto.
+     José queda como caso 2, subordinado: único cliente en el modelo de suscripción, 100M ARS de
+     profit/mes, fue caso de éxito PRIMERO y socio DESPUÉS. Está fuera del rango, así que su
+     función es probar que el mecanismo TRANSFIERE a alguien que no es Manu.
+     Lo que sigue faltando: un Nivel 3 dentro del rango que no sea Manu. Ya no cierra un gap de
+     prueba, pero suma la transferencia con el tamaño correcto.
      Antes de usar los números de José en público hay que confirmarlo con él. Regla acordada:
      retención adelante, profit atrás, doble rol declarado.
   9. Últimos 10 que pagaron la 1a1: confirma el rango de facturación del avatar y de ahí pueden salir los primeros candidatos del piloto.
