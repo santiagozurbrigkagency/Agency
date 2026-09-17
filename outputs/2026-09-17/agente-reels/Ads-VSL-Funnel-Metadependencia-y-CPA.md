@@ -42,18 +42,18 @@ Manu ordenó la fuerza de los dolores en la call del 7-sep: *"Más fuertes: CPA 
 > Cero.
 >
 > **CONTEXTO:**
-> Y no es porque hagas algo mal. Es porque toda tu facturación depende de una plataforma que no controlás vos.
+> Y no es porque estés haciendo algo mal. Es porque toda tu facturación depende de Meta, y eso es algo que vos no podés controlar.
 >
-> Te tiran el ban, te tiran cualquier cosa de Meta, y ya está: no vendés.
+> Te tiran el ban, o te tiran cualquier cosa de Meta, y ya está: no vendés.
 >
 > Hoy tenés un BM de respaldo. Tres cuentas por las dudas. Un grupo de WhatsApp para avisar si te banean la principal.
 >
 > `[pausa]`
 >
-> Todo eso te prepara para el golpe. Ninguno te saca la dependencia. El día que te bajen la cuenta principal, igual factura cero.
+> Todo eso te prepara para el golpe. Ninguno te saca la dependencia. El día que te bajen la cuenta principal, termina tu facturación en cero.
 >
 > **VALOR (paso 1 / paso 2 / paso 3):**
-> El problema no es Meta. El problema es que vos vendés compras, no clientes. Cada venta que hacés hoy, la volvés a comprar el mes que viene, con el mismo costo.
+> Y el problema no es Meta. El problema es que vos buscás la compra, no los clientes. Cada venta que hacés hoy, la volvés a pautar el mes que viene, con el mismo costo o mayor.
 >
 > `[overlay: CPA vs CAC]`
 >
@@ -67,16 +67,14 @@ Manu ordenó la fuerza de los dolores en la call del 7-sep: *"Más fuertes: CPA 
 >
 > `[overlay: 2.200 suscriptores activos · 1,28% de churn]`
 >
-> Yo tengo 2.200 suscriptores activos y un churn de uno coma veintiocho por ciento. Si mañana me bajan la cuenta, no consigo clientes nuevos — pero sigo cobrando exactamente igual.
+> Actualmente tengo 2.200 suscriptores activos y un churn de uno coma veintiocho por ciento. Si mañana me bajan la cuenta, no consigo clientes nuevos — pero sigo cobrando exactamente igual que como lo venía haciendo.
 >
 > La pauta suma clientes. No sostiene la facturación.
 >
 > **CTA:**
-> Tocá "Más información" ahí arriba. Te muestro mi propia cuenta: cómo sigo facturando aunque Meta me baje la cuenta mañana, y cómo se arma esto en tu marca sin tocar lo que hoy vendés.
->
-> `[pausa]`
->
-> Esto es escalar hacia adentro.
+> Y para esto te preparé un video explicando cómo sigo facturando aunque Meta me baje la cuenta mañana, y cómo se arma esto en tu marca sin tocar lo que hoy vendés.
+
+**Nota de producción:** el botón nativo del anuncio ("Más información") sigue siendo el destino técnico a la VSL landing, pero Manu no lo referencia en voz — la referencia al botón queda fuera del guión hablado, es solo un dato de configuración de campaña.
 
 **Plan del abanico:** el hook abre 100% mainstream — cualquiera que corre pauta en Meta le tiene miedo a que le bajen la cuenta, no hace falta ser Nivel 3 para sentirlo. El cuerpo cierra en nicho: CPA vs CAC, suscriptores activos, churn exacto. El CTA filtra: solo lo toca quien ya está pensando en el mecanismo, no en "cómo evito el ban".
 
@@ -115,50 +113,50 @@ Manu ordenó la fuerza de los dolores en la call del 7-sep: *"Más fuertes: CPA 
 **Guión palabra por palabra:**
 
 > **HOOK (0-3 seg):**
-> Cada venta te cuesta lo mismo que la anterior, y te deja el mismo margen que la anterior.
+> Tu competencia no te está ganando por mejores creativos. Te gana porque puede pagar el doble que vos por el mismo cliente.
 >
 > `[pausa]`
 >
-> Y vos ya sabés por qué: escalaste, te salieron cinco competidores más, te subió el CPM, y ahora pagás el doble por el mismo cliente.
+> Y no es una opinión. Es una cuenta, y la podés hacer ahora.
 >
 > **CONTEXTO:**
-> Ahí empezás a buscar la fuga. Cambiás el creativo. Cambiás el ángulo. Bajás el precio.
+> Vos ya lo estás viviendo. Cada venta te cuesta lo mismo que la anterior, y te deja el mismo margen que la anterior.
+>
+> Escalaste, te salieron cinco competidores, te subió el CPM, y hoy pagás el doble por el mismo cliente que hace seis meses.
 >
 > `[pausa]`
 >
-> Nada de eso te lo arregla. Porque el problema no es el anuncio. Es cuánto podés pagar por ese cliente antes de perder plata.
+> Y ahí empezás a buscar el problema. Cambiás el creativo. Cambiás el ángulo. Bajás el precio.
+>
+> Pero la realidad es que nada de eso te lo arregla. Porque el problema no es el anuncio. Es cuánto podés pagar por ese cliente antes de perder plata.
 >
 > **VALOR (paso 1 / paso 2 / paso 3):**
-> Hoy tu techo de pauta es tu margen por pedido. Nada más.
+> Hoy tu breakeven es tu margen por pedido. Nada más.
 >
-> `[overlay: margen 30.000 → techo 30.000]`
+> `[overlay: margen 30.000 → breakeven 30.000]`
 >
-> Si ese pedido te deja treinta mil pesos de margen, ese es tu techo: si gastás más que eso para conseguir al cliente, perdés. Break-even en la primera venta, y ahí se termina.
+> Si ese pedido te deja treinta mil pesos de margen, ese es tu techo: si gastás más que eso para conseguir al cliente, perdés. Breakeven en la primera venta, y ahí se termina.
 >
 > Ahora mirá qué pasa si ese mismo cliente te compra tres veces en vez de una.
 >
 > `[overlay: 30.000 → 90.000]`
 >
-> Tu margen por cliente pasa a noventa mil. Ese es tu techo nuevo.
+> Tu margen por cliente pasa a noventa mil. Ese es tu nuevo breakeven.
 >
 > `[pausa]`
 >
-> Y no te conviene ir al techo, porque al techo no gana nadie.
+> Y no te conviene ir al techo, porque en el techo no gana nadie.
 >
 > `[overlay: punto operativo 75.000]`
 >
 > Operás en setenta y cinco mil, y te quedan quince mil de margen vivo por cliente.
 >
-> Esa diferencia entre treinta mil y setenta y cinco mil no es un ahorro. Es cuánto más podés pagar por el mismo cliente que tu competencia.
->
-> Si ellos pueden gastar 50 dólares para conseguir un cliente, vos podés gastar 75. Y listo: dejaste de competir por el CPM más bajo.
+> Esa diferencia entre treinta mil y setenta y cinco mil no es un ahorro. Es cuánto más podés pagar por el mismo cliente que tu competencia. Y con ese número dejás de competir por el CPM más bajo.
 >
 > **CTA:**
-> Tocá "Más información" ahí arriba. Te muestro la cuenta completa: de treinta mil a setenta y cinco mil de margen por cliente, con mi propia marca en pantalla — y cómo se recalcula la tuya sin tocar lo que hoy vendés.
->
-> `[pausa]`
->
-> Esto es escalar hacia adentro.
+> Te hice un video donde te muestro la cuenta completa de cómo pasar de pagar treinta mil a setenta y cinco mil de margen por cliente, y cómo se recalcula la tuya sin tocar lo que hoy vendés.
+
+**Nota de producción:** igual que en la Pieza 1, sin referencia verbal al botón — el destino técnico ("Más información" → VSL landing) es dato de campaña, no línea de guión.
 
 **Plan del abanico:** el hook abre 100% mainstream — "cada venta te cuesta lo mismo" es reconocible para cualquiera que escala por pauta, sin necesidad de vocabulario técnico. El cuerpo cierra en nicho con la cuenta exacta (30.000 / 90.000 / 75.000). El CTA filtra: solo entra quien quiere ver la cuenta recalculada con sus propios números.
 

@@ -1,5 +1,7 @@
 VOZ — Génesis (Manuel Dominguez)
-Versión 1, al 8 de septiembre de 2026.
+Versión 2, al 17 de septiembre de 2026.
+Actualizada con los 3 guiones de ads (Metadependencia, CPA, Testimonio) escritos por Manu mismo —
+ver sección 9.
 
 Qué es: cómo suena Manu cuando escribe y cuando habla. Es el documento que usa el Agente Copy
 para que una pieza no salga genérica.
@@ -68,9 +70,12 @@ PATRÓN 5 — LA CONCESIÓN QUE TERMINA EN CALMA  [LITERAL]
 ============================================================
 
 TÉCNICAS — son su vocabulario diario, no jerga que haya que explicar  [LITERAL]
-  CPA · CAC · CPM · LTV · margen de contribución · break-even · techo de pauta · churn ·
-  suscriptores activos · recurrencia · monotributo · RI (responsable inscripto) · subasta ·
-  unidad de venta · ciclo de reposición · retención
+  CPA · CAC · CPM · LTV · margen de contribución · break-even · breakeven (anglicismo pegado,
+  sin guión — lo usa en vez de "techo de pauta" cuando habla en sus propios términos, ver
+  sección 9) · techo de pauta · churn · suscriptores activos · recurrencia · monotributo ·
+  RI (responsable inscripto) · subasta · unidad de venta · ciclo de reposición · retención ·
+  pautar (verbo — "volver a pautar" es su forma de decir "volver a gastar en Meta para la misma
+  venta", más preciso que "volver a comprar")
 
 CONECTORES QUE APARECEN EN SUS FRASES  [LITERAL]
   "por ende" · "y ya está" · "y listo" · "básicamente" · "literalmente" · "tal cual" ·
@@ -126,6 +131,15 @@ CÓMO CIERRA
     "Manu. Escalo hacia adentro: 2.200 suscriptores activos, 1,28% de churn.
      Enseño el modelo en Génesis."
   Cierre de reel y de video largo  [LITERAL]: "Esto es escalar hacia adentro."
+
+  [DERIVADO de sección 9] En sus 3 guiones de ads (17-sep) NO usa la tagline "Esto es escalar
+  hacia adentro" ni referencia el botón nativo del anuncio ("tocá 'Más información'"). En su
+  lugar cierra con una consecuencia concreta atada al argumento de esa pieza puntual —
+  "el CPA te va a terminar matando el negocio", "cómo se arma esto en tu marca sin tocar lo que
+  hoy vendés". [PENDIENTE] confirmar con Manu si la tagline fija es solo para reel orgánico/
+  caption y el ad paga usa remate específico, o si históricamente la omitió por apuro al escribir.
+  Hasta confirmarlo: en ads de venta directa (CTA a botón, no a comentario), preferir un remate
+  específico de la pieza por sobre la tagline fija.
 
   [PENDIENTE] Sus aperturas y cierres HABLADOS —lo que dice al empezar y al terminar un video—
   no están documentados. Hoy solo existen los cierres escritos de arriba.
@@ -188,10 +202,86 @@ REGLA MADRE
      sección 3 se extrajeron de una sola call: alcanzan para no sonar a manual, no alcanzan para
      sonar exactamente a él. Se cierra escuchando 3 o 4 grabaciones más y anotando lo que repite.
   2. APERTURAS Y CIERRES HABLADOS. Cómo arranca y cómo termina un video cuando graba solo.
-  3. EL REFRAME DEL CPA ESCRITO POR ÉL. Se ofreció en la call ("¿esto, si querés, te lo adapto?").
-     Es el único entregable de comunicación que se comprometió a producir, y su versión manda
-     sobre la que está en la sección 6.
-  4. EL PUNTO A LITERAL. Dónde estaba antes de la suscripción, en sus palabras. Es la pieza más
-     floja del personaje y sin ella la historia se cuenta en tercera persona.
+  3. [RESUELTO PARCIAL, 17-sep] EL REFRAME DEL CPA ESCRITO POR ÉL. Se ofreció en la call
+     ("¿esto, si querés, te lo adapto?"). Manu entregó su propia versión del frame del CPA
+     dentro del guión de la Pieza 1 (ver sección 9) — el texto de la sección 6 sigue siendo la
+     cita original de la call, pero para copy nuevo el frame vigente es el de sección 9, Pieza 1.
+  4. [RESUELTO PARCIAL, 17-sep] EL PUNTO A LITERAL. Dónde estaba antes de la suscripción, en sus
+     palabras. Manu lo escribió él mismo en el hook de la Pieza 3 (sección 9): "Cada venta me
+     costaba lo mismo que la anterior... facturaba sesenta millones de pesos por mes. Con un
+     consumible de compra única." Sigue faltando el resto del arco (cómo llegó a la suscripción,
+     en sus palabras) — esto solo cubre el punto de partida.
   5. PALABRAS QUE ÉL SABE QUE NO USA. La sección 4 está construida por contraste con el mercado y
      con las reglas de tono, no por lista propia. Falta preguntarle qué le suena mal a él.
+
+============================================================
+9. LOS 3 GUIONES DE ADS ESCRITOS POR MANU (17-sep-2026)
+============================================================
+
+Fuente: `contexto/AD 1 - metadependencia -.md`, `AD 2 - CPA -.md`, `AD 3 - testimonio.md`.
+A diferencia de las secciones 1-8 (derivadas de una call), esto es texto que Manu escribió él
+mismo para reemplazar guiones que había producido el Agente Reels — es la comparación más directa
+que existe hoy entre "cómo lo escribe un agente" y "cómo lo escribe Manu". Corrida completa:
+`outputs/2026-09-17/agente-reels/` · versión final: `templates/Ads-VSL-Funnel-Metadependencia-y-CPA.md`
+y `templates/Ad-VSL-Funnel-Caso-Manu.md`.
+
+QUÉ CAMBIÓ RESPECTO DE LO QUE EL AGENTE HABÍA ESCRITO — patrones a aplicar de acá en adelante:
+
+  1. "PAUTAR", NO "COMPRAR", PARA VOLVER A GASTAR EN META  [LITERAL]
+     Agente: "la volvés a comprar el mes que viene". Manu: "la volvés a pautar el mes que viene,
+     con el mismo costo o mayor". "Pautar" es más preciso — no es el cliente el que vuelve a
+     comprar, es la marca la que vuelve a pagar por conseguirlo. Además agrega "o mayor": no dice
+     que el costo se mantiene, dice que tiende a subir.
+
+  2. "BUSCÁS LA COMPRA, NO LOS CLIENTES" — no "vendés compras, no clientes"  [LITERAL]
+     El verbo que elige es "buscar", no "vender": la marca persigue la venta puntual en vez de
+     construir el cliente. Mantiene el ritmo de contraste (X, no Y) pero con el verbo que él usa.
+
+  3. USA "BREAKEVEN" (pegado, sin guión) EN VEZ DE "TECHO DE PAUTA" cuando habla en sus términos
+     [LITERAL]. El agente había generalizado a "techo de pauta" (más fácil de entender);
+     Manu vuelve al término financiero real que usa a diario. No lo traduce para el avatar —
+     confía en que su avatar, que ya opera con márgenes y CPA, entiende "breakeven" sin explicación.
+
+  4. EL HOOK PUEDE REEMPLAZARSE ENTERO SI HAY UN ÁNGULO MÁS FUERTE, no solo puliese  [LITERAL]
+     En la Pieza 2 el agente había abierto con el dolor genérico ("cada venta te cuesta lo mismo
+     que la anterior"). Manu lo movió al CONTEXTO y abrió con un ángulo competitivo nuevo:
+     "Tu competencia no te está ganando por mejores creativos. Te gana porque puede pagar el doble
+     que vos por el mismo cliente." Mismo dolor, hook completamente reescrito — más personal
+     (mete al competidor) y con más tensión (ganás o perdés contra alguien, no contra una cifra
+     abstracta). Lección: cuando se edita un guión de Manu, no asumir que el hook es intocable
+     solo porque ya cumple la función; si hay un ángulo con más carga, se reemplaza entero.
+
+  5. THROUGHLINE ENTRE PIEZAS DE UN MISMO SET, A PROPÓSITO  [DERIVADO]
+     El hook de la Pieza 3 ("Cada venta me costaba lo mismo que la anterior") retoma casi textual
+     el contexto de la Pieza 2. El agente había mantenido las tres piezas independientes entre sí.
+     Cuando varias piezas salen del mismo lanzamiento, Manu prefiere que se toquen con una frase
+     repetida, no que cada una abra de cero — refuerza el mensaje entre piezas que va a ver la
+     misma audiencia.
+
+  6. EL CTA DE UN AD NO NOMBRA EL BOTÓN DE LA PLATAFORMA  [LITERAL]
+     El agente había escrito "Tocá 'Más información' ahí arriba" como parte del guión hablado.
+     Manu nunca lo dice — el CTA habla del contenido del video de destino ("te preparé un video
+     explicando...", "te hice un video donde te muestro..."), nunca de la mecánica de la interfaz.
+     El botón nativo sigue siendo el destino técnico (dato de configuración de campaña), pero no
+     es una línea que él pronuncie.
+
+  7. EL CIERRE ES UNA CONSECUENCIA ESPECÍFICA DE LA PIEZA, NO LA TAGLINE FIJA — en ads  [LITERAL]
+     Ninguna de las tres piezas cierra con "Esto es escalar hacia adentro". La Pieza 3 cierra con
+     una amenaza económica concreta atada a lo que se acaba de argumentar: "Porque si seguís por
+     ese lado, el CPA te va a terminar matando el negocio." Ver nota [PENDIENTE] en sección 5 —
+     falta confirmar si esto es regla para todo ad de venta directa o particular de este set.
+
+  8. REDUNDANCIA CONVERSACIONAL DELIBERADA, no error a limpiar  [DERIVADO]
+     Frases como "sigo cobrando exactamente igual que como lo venía haciendo" (Pieza 1) repiten
+     una idea ya dicha en la misma oración. Un editor las recortaría; Manu las deja. Es consistente
+     con que su voz está construida desde transcripciones habladas (ver header del documento) —
+     escribe como habla, no como se edita un texto. No limpiar esta redundancia al modelar su voz;
+     sí corregir errores de tipeo puro (acentos faltantes, palabras cortadas) que no son parte del
+     patrón de habla.
+
+CÓMO SE APLICA
+  Estos 8 patrones pesan más que cualquier generalización de las secciones 1-8 cuando entren en
+  conflicto, porque son texto de Manu, no derivado de una call. Usarlos primero al escribir un ad
+  de venta directa (dolor → mecanismo → CTA a botón). Para reel orgánico o historia (CTA a
+  comentario o bio), seguir usando las secciones 1-8 hasta que haya ejemplos propios de esos
+  formatos también.

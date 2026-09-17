@@ -77,44 +77,46 @@ real en vez de fingir que no existe.
 **Guión palabra por palabra:**
 
 > **HOOK (0-3 seg):**
-> Yo facturaba sesenta millones de pesos por mes.
+> Cada venta me costaba lo mismo que la anterior.
 >
 > `[pausa]`
 >
-> Un consumible, compra única. El mismo que vendés vos hoy.
+> Y no es que vendiera poco: facturaba sesenta millones de pesos por mes. Con un consumible de compra única. El mismo modelo que tenés vos hoy.
 >
 > **CONTEXTO:**
-> Meta Ads, margen justo, sabía operar — creativos, campañas, proveedor, logística. Y aun así, el 1 del mes arrancaba en cero. Cada venta me dejaba lo mismo que me había costado conseguirla.
+> Meta Ads, margen justo, y sabía operar: creativos, campañas, proveedor, logística.
+>
+> Y aun así, cada venta me dejaba lo mismo que me había costado conseguirla.
 >
 > `[pausa]`
 >
 > No tenía un problema de creativos. Tenía un problema de modelo.
 >
 > **VALOR (la prueba, no el mecanismo):**
-> Hoy no te voy a explicar cómo se arma esto — eso te lo muestro en el video de al lado.
+> No te voy a explicar cómo se arma esto — para eso te armé un video donde explico más a detalle cómo funciona.
 >
 > Te quiero mostrar el resultado.
 >
 > `[overlay: 2.200 suscriptores activos · 1,28% de churn]`
 >
-> Esto es mi tablero, hoy. Dos mil doscientos suscriptores activos. Un churn de uno coma veintiocho por ciento.
+> Estas son mis métricas, hoy. Dos mil doscientos suscriptores activos, con un churn de uno coma veintiocho por ciento.
 >
 > `[pausa]`
 >
-> Y no te abro la facturación primero, a propósito. Te abro la retención. La facturación buena la muestra cualquiera un mes. Que la gente se quede, no.
+> Y no te muestro la facturación primero, a propósito. Te abro la retención. La facturación buena la muestra cualquiera un mes. Que los clientes no se vayan, no te lo muestra nadie.
 >
 > `[overlay: 60.000.000 → 156.798.062]`
 >
 > Esta es la misma marca: de sesenta millones de pesos por mes a ciento cincuenta y seis millones setecientos noventa y ocho mil.
 >
-> Sin cambiar de producto. Sin dejar de vender lo que ya vendía.
+> Sin cambiar de producto, sin dejar de vender lo que ya vendía, y con una base de clientes que van a comprar en el siguiente mes.
 >
 > **CTA:**
-> Tocá "Más información" ahí arriba. Ahí te muestro exactamente cómo se arma esto: el mecanismo completo, con la cuenta hecha.
+> Y para eso te armé un video donde te explico por qué el foco tiene que estar en el modelo y no en mejorar lo que ya tenés.
 >
-> `[pausa]`
->
-> Esto es escalar hacia adentro.
+> Porque si seguís por ese lado, el CPA te va a terminar matando el negocio.
+
+**Nota de producción:** sin referencia verbal al botón, mismo criterio que las otras dos piezas del set. El hook retoma literalmente la apertura de la Pieza 2 ("cada venta te cuesta/costaba lo mismo que la anterior") — es intencional: crea throughline entre las tres piezas del lanzamiento en vez de abrir cada una desde cero.
 
 **Plan del abanico:** el hook abre 100% mainstream — un número grande y una identificación directa ("el mismo que vendés vos hoy"), sin nombrar suscripción ni ningún término técnico. El cuerpo cierra en nicho recién con el tablero y los dos números de facturación. El CTA filtra: solo lo toca quien quiere ver el mecanismo completo, no solo el resultado.
 
