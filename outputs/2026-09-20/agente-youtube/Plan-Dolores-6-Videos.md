@@ -1,9 +1,12 @@
 # Plan de dolores — 6 videos de YouTube (2 semanas)
 
 Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (metadependencia y CPA pasan a la semana 1)
-Estado: **guiones escritos** (`V1` a `V6` en esta misma carpeta), con checkpoint arriba de cada uno.
+Estado: **guiones escritos** (`V1` a `V5` en esta misma carpeta), con checkpoint arriba de cada uno.
+**Duraciones pedidas por Santi (20-sep):** MOFU 25-30 min · mentalidad menos de 15 · TOFU menos de 20 ·
+BOFU = llamadas con clientes resubidas, sin guion (ver `V6-BOFU-Llamadas-con-Clientes.md`).
+**CTA en todos:** hablarme directo por WhatsApp, o agendar una llamada en la página.
 Decisiones tomadas por defecto en los guiones, sin respuesta tuya todavía: Video 3 = (a) competir por el
-modelo · Video 4 = blanqueo · Video 6 = migración sin frenar. El mercado finito quedó en el Video 5.
+modelo · Video 4 = blanqueo. El mercado finito quedó en el Video 5.
 Los títulos son PROVISORIOS: falta el research de outliers por views.
 Fuentes: `contexto/Avatar-Genesis.md` (siete dolores, cadena, mapa de conciencia) ·
 `contexto/Personaje.md` (secciones 4 y 6) · `contexto/Oferta-Genesis.md` · `contexto/Metodo-Unico-Genesis.md` ·
@@ -115,6 +118,9 @@ Alternativas:
 - **Ojo:** el mercado finito queda para la opción (b) del Video 3, para que no se pisen.
 
 ### Video 6 — "¿Y si me rompe lo que hoy vende?" (BOFU)
+**Actualización 20-sep:** el BOFU va a ser una llamada con un cliente resubida a YouTube. No se guiona;
+queda anotado en `V6-BOFU-Llamadas-con-Clientes.md`. Lo de abajo es el análisis original del slot.
+
 - **Por qué:** es el segundo "sin" de la oferta ("ni dejar de vender") y el miedo específico del
   Nivel 3. El BOFU es que el lead vea qué pasa adentro: variante en paralelo, primera call, primer
   cobro al cumplirse el ciclo de reposición.

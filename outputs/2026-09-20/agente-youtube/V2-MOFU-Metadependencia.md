@@ -4,9 +4,9 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: {{DUR}}** — {{WORDS}} palabras habladas contadas, a 150 ppm. **CTA temprano en el {{EARLY}}%
+**Duración: 25:44** — 3.860 palabras habladas contadas, a 150 ppm. **CTA temprano en el 12,6%
 del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-{{RET}}. CTR objetivo: 5-10%.
+15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
 
 ---
 
@@ -64,7 +64,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [T]
+## 1 · APERTURA · [0:00 – 3:15]
 
 **Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
 
@@ -135,17 +135,17 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 2 · CTA TEMPRANO · [T]
+## 2 · CTA TEMPRANO · [3:15 – 3:38]
 
 > Antes de seguir, una sola cosa.
 >
-> Si ya sabés que esto es lo que te falta y no querés esperar al final, andá al link de la descripción y contame tu situación por WhatsApp. Te leo yo personalmente.
+> Si ya sabés que esto es lo que te pasa, no hace falta que esperes al final. Podés hablarme directo por WhatsApp, o agendar una llamada en la página. Los dos links están en la descripción. Si me escribís, te leo yo personalmente.
 >
-> Para el resto, arrancamos con el primer punto.
+> Para el resto, seguimos con el primer punto.
 
 ---
 
-## 3 · PUNTO 1 — MÁS CUENTAS NO SACAN LA DEPENDENCIA · [T]
+## 3 · PUNTO 1 — MÁS CUENTAS NO SACAN LA DEPENDENCIA · [3:38 – 8:00]
 
 ### Dolor, con los costos ocultos
 
@@ -231,7 +231,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 4 · PUNTO 2 — QUÉ SIGUE COBRANDO CUANDO CAE LA CUENTA · [T]
+## 4 · PUNTO 2 — QUÉ SIGUE COBRANDO CUANDO CAE LA CUENTA · [8:00 – 12:34]
 
 ### Dolor, con los costos ocultos
 
@@ -307,7 +307,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 5 · PUNTO 3 — EL EMAIL Y LA COMUNIDAD NO ES LO MISMO · [T]
+## 5 · PUNTO 3 — EL EMAIL Y LA COMUNIDAD NO ES LO MISMO · [12:34 – 15:40]
 
 ### Dolor, con los costos ocultos
 
@@ -365,7 +365,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 6 · PUNTO 4 — UN NÚMERO SANO, Y CÓMO SE MUEVE · [T]
+## 6 · PUNTO 4 — UN NÚMERO SANO, Y CÓMO SE MUEVE · [15:40 – 19:40]
 
 ### Dolor, con los costos ocultos
 
@@ -439,7 +439,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 7 · PUNTO 5 — EL DÍA DESPUÉS · [T]
+## 7 · PUNTO 5 — EL DÍA DESPUÉS · [19:40 – 23:11]
 
 ### Dolor, con los costos ocultos
 
@@ -497,7 +497,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 8 · CTA FINAL · [T]
+## 8 · CTA FINAL · [23:11 – 25:44]
 
 ### Recap y tu ejercicio
 
@@ -529,11 +529,11 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 > Llegamos al final, así que te digo exactamente qué hacer.
 >
-> Andá al link de la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
+> Tenés dos caminos, y los dos están en el link de la descripción. Podés hablarme directo por WhatsApp, o agendar una llamada en la página.
 >
-> Lo leo yo. No hay un setter atrás.
+> Si me escribís, mandame tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar. Lo leo yo. No hay un setter atrás.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: qué parte de tu facturación depende hoy de una sola cuenta, y qué base de suscriptores necesitarías para que el día que la bajen sigas cobrando.
+> Y si tu marca entra en el rango, en la llamada te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: qué parte de tu facturación depende hoy de una sola cuenta, y qué base de suscriptores necesitarías para que el día que la bajen sigas cobrando.
 >
 > `[pausa]`
 >
@@ -594,14 +594,14 @@ cuenta y qué base de suscriptores necesitarías para seguir cobrando si la baja
 Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el video ya editado.**
 
 ```
-{{C1}}  Si Meta te baja la cuenta mañana
-{{C2}}  Antes de seguir
-{{C3}}  1 · Por qué tener tres cuentas no te salva
-{{C4}}  2 · Qué sigue cobrando cuando cae la cuenta
-{{C5}}  3 · El email no es lo mismo
-{{C6}}  4 · El número sano y cómo se mueve
-{{C7}}  5 · El día después
-{{C8}}  Tu ejercicio y cómo hacemos tu cuenta
+0:00  Si Meta te baja la cuenta mañana
+3:15  Antes de seguir
+3:38  1 · Por qué tener tres cuentas no te salva
+8:00  2 · Qué sigue cobrando cuando cae la cuenta
+12:34  3 · El email no es lo mismo
+15:40  4 · El número sano y cómo se mueve
+19:40  5 · El día después
+23:11  Tu ejercicio y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres

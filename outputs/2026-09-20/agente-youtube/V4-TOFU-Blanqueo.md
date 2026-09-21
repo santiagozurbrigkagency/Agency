@@ -4,9 +4,8 @@ Producido por: agente-youtube · 20 de septiembre de 2026
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 8:08** — 1.221 palabras habladas contadas, a 150 ppm. **CTA temprano en el 18,7%
-del video (el framework pide ~10%: acá cae apenas cierra la apertura).** Objetivo de retención para esta duración: 40-50%. CTR objetivo: 5-10%.
-`[DURACIÓN — sale del guión tal como quedó. La duración de una pieza es una decisión de negocio y no está escrita en contexto/: se confirma antes de grabar. Si se quiere más largo, se amplía.]`
+**Duración: 14:21** — 2.152 palabras habladas contadas, a 150 ppm. **CTA temprano en el 14,0%
+del video.** Duración pedida por Santi: TOFU, menos de 20 min. Objetivo de retención para esta duración: 30-40%. CTR objetivo: 5-10%.
 
 **Decisión por defecto:** el plan dejaba blanqueo o Dolor 2 como TOFU. Se guionó blanqueo (el recomendado).
 
@@ -45,6 +44,7 @@ Complementa el título: el título dice quién y qué, la miniatura muestra el s
 | 1 | "Vendo con 15 o 20% de margen. Como monotributista, va. Como RI, no me queda nada" | Quedarse en monotributo es lo seguro | **Margen Formalizable**: por qué el margen fijo y bajo no aguanta IVA y ganancias |
 | 2 | "Mi contador me dijo que no cierra" | Es un problema fiscal: lo arregla la estructura o un buen contador | **Primero el modelo, después el contador**: una estructura legal sin margen es una estructura para fundirte en blanco |
 | 3 | "No sé en qué punto me cierra" | Formalizarse se decide por fecha o por tope | **La cuenta del punto de corte**: cuántos pedidos por cliente necesitás para que el blanco cierre |
+| 4 | "No sé qué me toca a mí, qué a mi contador y qué a quien me vende esto" | Un solo especialista arregla todo el blanqueo | **Cada cosa con su especialista**: el margen, Génesis; la estructura, tu contador; lo legal de fabricar, tuyo |
 
 **Creencia vieja madre:** blanquear es un trámite fiscal. **La nueva:** blanquear es una consecuencia del
 margen.
@@ -71,7 +71,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 1 · APERTURA · [0:00 – 1:31]
+## 1 · APERTURA · [0:00 – 2:00]
 
 **Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
 
@@ -88,6 +88,10 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 > `[a cámara]` Y te comés un monotributo sin ser rentable, que es al pedo.
 >
 > Lo que nadie te dice es que esto no es un problema de tu contador. Y tampoco es un problema fiscal.
+>
+> Es una conversación que muchos dueños de marca tienen alguna vez: el contador hace la cuenta, la cuenta no cierra, y salen de esa reunión sin saber qué hacer.
+>
+> Y lo que pasa después es lo peor: decidís no decidir. Te quedás como estás, esperando que el margen mejore solo. Y no mejora solo.
 
 ### Promesa y expectativa
 
@@ -99,13 +103,15 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 > `[EN PANTALLA: los tres puntos como bullets, apareciendo de a uno]`
 >
-> Son tres cosas.
+> Son cuatro cosas.
 >
 > Uno: por qué vender con quince o veinte por ciento de margen es una trampa que solo funciona en monotributo.
 >
 > Dos: por qué la estructura legal no te lo arregla.
 >
-> Y tres: la cuenta que te dice en qué punto el blanco cierra.
+> Tres: la cuenta que te dice en qué punto el blanco cierra.
+>
+> Y cuatro: qué parte del problema resolvés vos, qué parte tu contador, y qué parte no me corresponde a mí.
 
 ### Identificación y autoridad
 
@@ -119,17 +125,17 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 2 · CTA TEMPRANO · [1:31 – 1:49]
+## 2 · CTA TEMPRANO · [2:00 – 2:23]
 
-> Antes de arrancar, una sola cosa.
+> Antes de seguir, una sola cosa.
 >
-> Si ya sabés que este es tu problema, andá al link de la descripción y mandame tu situación por WhatsApp. Te leo yo, y te doy una mano en lo que pueda.
+> Si ya sabés que esto es lo que te pasa, no hace falta que esperes al final. Podés hablarme directo por WhatsApp, o agendar una llamada en la página. Los dos links están en la descripción. Si me escribís, te leo yo personalmente.
 >
-> Para el resto, vamos al primero.
+> Para el resto, seguimos con el primer punto.
 
 ---
 
-## 3 · PUNTO 1 — LA TRAMPA DEL 15 O 20% · [1:49 – 3:36]
+## 3 · PUNTO 1 — LA TRAMPA DEL 15 O 20% · [2:23 – 5:38]
 
 ### Dolor, con los costos ocultos
 
@@ -144,6 +150,14 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 > Y fijate lo que te cuesta quedarte donde estás. Te quedás en negro o en monotributo con un techo de escala. Sin estructura para financiarte. Con el miedo a una multa, a ANMAT, a que Mercado Pago te retenga.
 >
 > `[a cámara]` Facturás bien, pero no tenés un negocio que se pueda formalizar. Y eso pesa más que cualquier mes flojo.
+>
+> Y fijate cada una de esas cosas, una por una.
+>
+> El techo de escala: no importa cuánto mejore tu producto o tu marca, hay un techo, y lo sabés.
+>
+> La falta de estructura formal: sin ella, hay caminos para crecer, como ciertas formas de financiamiento, que no tenés.
+>
+> Y el miedo: no es un miedo a algo que pasó. Es un miedo a algo que puede pasar, y que está siempre de fondo.
 
 ### Cambio de paradigma
 
@@ -170,10 +184,20 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 > Ahí el margen por cliente se multiplica. Y con ese margen, IVA y ganancias entran.
 >
 > A esto le puse Margen Formalizable.
+>
+> Mirá la lógica con un ejemplo inventado. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+>
+> Ponele que un pedido te deja quince pesos de margen por cada cien que vendés. Como monotributista, ese quince es tuyo.
+>
+> Como responsable inscripto, a ese quince hay que descontarle lo que te corresponda pagar. **[CIFRA VALIDADA — la carga como RI, con tu contador]** Y ahí lo que queda es muy poco, o nada.
+>
+> Ahora pensá en el cliente completo. Si ese cliente te compra tres veces y la adquisición se pagó una sola vez, el margen de las otras dos compras es más grande. Y sobre ese margen más grande, después de descontar lo que corresponda, todavía queda algo.
 
 ### Anticipación de objeción
 
 > "Pero yo ya lo estoy pensando, mi contador me arma la sociedad." Perfecto. Eso te lo tiene que armar él. Pero es el punto dos.
+>
+> Y otra: "mi contador me dice que me quede en monotributo". No te digo que tu contador esté equivocado. Con ese margen, puede ser el mejor consejo para hoy. Lo que te digo es que no estás eligiendo: estás encerrado, porque el margen no te deja otra opción.
 
 ### Puente
 
@@ -181,7 +205,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 4 · PUNTO 2 — LA ESTRUCTURA NO ARREGLA EL MARGEN · [3:36 – 5:07]
+## 4 · PUNTO 2 — LA ESTRUCTURA NO ARREGLA EL MARGEN · [5:38 – 7:48]
 
 ### Dolor, con los costos ocultos
 
@@ -190,6 +214,12 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 > Sociedad, facturación, régimen. Todo eso hace falta.
 >
 > Pero fijate qué pasa después. Pagás para armar la estructura, y la cuenta sigue sin cerrar. Porque la estructura no crea margen. Solo lo reparte.
+>
+> Fijate qué hace un contador y qué no. Un contador ordena: arma la estructura, liquida, cumple con lo que hay que cumplir. Y lo hace muy bien. Pero no crea margen. Con el margen que le traés, hace lo que se puede.
+>
+> Es como pedirle a un arquitecto que te haga una casa más grande sin darle más terreno. Te puede diseñar lo mejor posible, pero el terreno es el que es.
+>
+> Por eso el margen viene antes que la estructura. No porque la estructura no importe, sino porque sin margen no hay con qué llenarla.
 
 ### Cambio de paradigma
 
@@ -221,7 +251,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 5 · PUNTO 3 — EL PUNTO DE CORTE · [5:07 – 6:44]
+## 5 · PUNTO 3 — EL PUNTO DE CORTE · [7:48 – 10:31]
 
 ### Dolor, con los costos ocultos
 
@@ -252,6 +282,24 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 > Ese tres es el punto de corte. Es el punto de la base donde el blanco cierra.
 >
 > **[CIFRA VALIDADA — el caso de la marca de Manu, en pantalla]**
+>
+> Un ejemplo inventado, para ver cómo se lee. Ponele que, con tu contador, viste que necesitás un margen mínimo por cliente para que el blanco cierre. **[CIFRA VALIDADA]**
+>
+> Con un pedido por cliente, tu margen no llega. Con dos, se acerca. Con tres, lo pasa.
+>
+> Ese tres es tu punto de corte. Y te dice algo concreto: no necesitás que tu cliente compre diez veces. Necesitás que compre las suficientes para que la cuenta cierre.
+>
+> Y cuando vayas con tu contador, llevá tres preguntas. `[EN PANTALLA: tres renglones, de a uno]`
+>
+> Una: con mi margen y mis ventas de hoy, ¿cuánto me llevaría como responsable inscripto?
+>
+> Dos: ¿qué margen mínimo necesito para que me quede algo después de eso?
+>
+> Tres: si mi cliente comprara más veces por cada vez que pago para conseguirlo, ¿cómo se vería esa cuenta?
+>
+> Con esas tres tenés lo que necesitás para decidir con números, y no con miedo.
+>
+> Y un detalle: no le preguntes solo si te conviene blanquear. Preguntale con qué margen. Es una pregunta mejor, y tiene respuesta.
 
 ### Mini CTA de recurso — BLANCO
 
@@ -268,17 +316,77 @@ reemplaza por otro.]`
 
 ---
 
-## 6 · CTA FINAL · [6:44 – 8:08]
+## 6 · PUNTO 4 — CADA COSA CON SU ESPECIALISTA · [10:31 – 12:11]
+
+### Dolor, con los costos ocultos
+
+> Punto cuatro. Cuando alguien te habla de blanquear, lo normal es que esperes que un solo lugar te resuelva todo.
+>
+> Y eso genera dos problemas. O te prometen más de lo que pueden cumplir, o vos esperás más de lo que te corresponde.
+>
+> El costo es que ponés todo en una sola persona, y cuando algo no cierra, no sabés de quién era esa parte.
+
+### Cambio de paradigma
+
+> Se cree que hay un solo especialista que arregla el blanqueo.
+>
+> No hay uno. Hay tres cosas distintas, y cada una tiene su lugar.
+
+### La solución única, con lógica
+
+> `[EN PANTALLA: la pizarra, tres columnas — "modelo", "estructura fiscal", "fabricación y legales"]`
+>
+> El modelo, que es el margen por cliente: eso lo trabajo yo.
+>
+> La estructura fiscal, que es cómo se arma tu formalización: eso es de tu contador.
+>
+> Y lo legal de fabricar, con todo lo que implica un producto de consumo, es cosa tuya y de quien te asesore en eso.
+>
+> Yo no hago fabricación legal ni laboratorio propio. Lo mío es que el margen aguante la formalización. El contador y lo que tenga que ver con ANMAT los ponés vos.
+>
+> `[a cámara]` Decirte esto no me achica. Es lo que te permite saber a quién preguntarle qué, y no esperar de mí algo que no hago.
+>
+> Y el orden importa: primero el margen, después la estructura. Por eso arrancamos por acá.
+
+### Anticipación de objeción
+
+> "Entonces, ¿qué hacés vos por mi blanqueo?" Que el margen por cliente aguante. Es una parte, no todo. Pero es la que hace que las otras dos valgan la pena.
+
+### Puente
+
+> Y con eso claro, te digo qué hacer con todo esto.
+
+---
+
+## 7 · CTA FINAL · [12:11 – 14:21]
+
+### Recap y tu ejercicio
+
+> `[EN PANTALLA: la pizarra con todo lo escrito hasta acá]`
+>
+> Juntemos todo.
+>
+> Un margen de quince o veinte por ciento funciona en monotributo y no alcanza como responsable inscripto.
+>
+> La estructura fiscal reparte el margen, no lo crea. Por eso el margen viene primero.
+>
+> El punto de corte se calcula, con tu margen y con lo que te diga tu contador.
+>
+> Y cada parte tiene su especialista: el margen, yo; la estructura, tu contador.
+>
+> `[pausa]`
+>
+> Ahora, tu ejercicio. Uno: anotá tu margen de contribución real por pedido. Dos: pedile a tu contador cuánto te llevaría como responsable inscripto. Tres: mirá cuántos pedidos por cliente necesitarías para que te sobre.
 
 ### Ultra específico y accionable
 
 > Llegamos al final, así que te digo exactamente qué hacer.
 >
-> Andá al link de la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
+> Tenés dos caminos, y los dos están en el link de la descripción. Podés hablarme directo por WhatsApp, o agendar una llamada en la página.
 >
-> Lo leo yo. No hay un setter atrás.
+> Si me escribís, mandame tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar. Lo leo yo. No hay un setter atrás.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: tu margen real, y en qué punto de tu base el blanco te cierra.
+> Y si tu marca entra en el rango, en la llamada te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: tu margen real, y en qué punto de tu base el blanco te cierra.
 >
 > `[pausa]`
 >
@@ -340,11 +448,12 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  Facturás bien y no podés blanquear
-1:31  Antes de seguir
-1:49  1 · La trampa del 15 o 20% de margen
-3:36  2 · Por qué tu contador no lo arregla
-5:07  3 · El punto de corte
-6:44  Cómo hacemos tu cuenta
+2:00  Antes de seguir
+2:23  1 · La trampa del 15 o 20% de margen
+5:38  2 · Por qué tu contador no lo arregla
+7:48  3 · El punto de corte
+10:31  4 · Cada cosa con su especialista
+12:11  Tu ejercicio y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres

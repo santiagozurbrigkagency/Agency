@@ -4,9 +4,9 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: {{DUR}}** — {{WORDS}} palabras habladas contadas, a 150 ppm. **CTA temprano en el {{EARLY}}%
+**Duración: 25:44** — 3.861 palabras habladas contadas, a 150 ppm. **CTA temprano en el 10,6%
 del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-{{RET}}. CTR objetivo: 5-10%.
+15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
 
 ---
 
@@ -65,7 +65,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [T]
+## 1 · APERTURA · [0:00 – 2:44]
 
 **Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
 
@@ -84,6 +84,12 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa]`
 >
 > Y lo más raro es que muchos de los que están en esta situación no lo ven como un problema. Lo ven como "así funciona esto". Como si arrancar cada mes de cero fuera parte del ecommerce.
+>
+> Y por eso este dolor dura tanto: no se ve como una falla, se ve como el clima. Uno se adapta y sigue.
+>
+> Hacete una pregunta, ahora. Si tuvieras que decirme cuánto vas a facturar el mes que viene, con un margen de error chico, ¿podrías? ¿O dependés de cómo salga la pauta de las próximas tres semanas?
+>
+> Si la respuesta es la segunda, este video es para vos.
 
 ### Promesa y expectativa
 
@@ -123,17 +129,17 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 2 · CTA TEMPRANO · [T]
+## 2 · CTA TEMPRANO · [2:44 – 3:06]
 
 > Antes de seguir, una sola cosa.
 >
-> Si ya sabés que esto es lo que te pasa, andá al link de la descripción y contame tu situación por WhatsApp. Te leo yo personalmente.
+> Si ya sabés que esto es lo que te pasa, no hace falta que esperes al final. Podés hablarme directo por WhatsApp, o agendar una llamada en la página. Los dos links están en la descripción. Si me escribís, te leo yo personalmente.
 >
 > Para el resto, seguimos con el primer punto.
 
 ---
 
-## 3 · PUNTO 1 — NO COMPRASTE UN CLIENTE, COMPRASTE UNA TRANSACCIÓN · [T]
+## 3 · PUNTO 1 — NO COMPRASTE UN CLIENTE, COMPRASTE UNA TRANSACCIÓN · [3:06 – 7:08]
 
 ### Dolor, con los costos ocultos
 
@@ -150,6 +156,18 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[a cámara]` No es que trabajes poco. Es que lo que hacés no se acumula. Cada mes es el primero.
 >
 > Y hay un costo que casi nadie se dice en voz alta: la sensación de que por más que crezcas, no avanzás. Facturás más, y aun así el 1 sentís lo mismo.
+>
+> Mirá dos marcas, en un ejemplo inventado para ver la diferencia. `[EN PANTALLA: dos columnas — "Marca A" y "Marca B"]`
+>
+> Las dos vendieron lo mismo el mes pasado. La marca A vendió todo en compra única. La B, una parte en compra única y otra en suscripción.
+>
+> El primero del mes, la A abre el panel y tiene cero. Tiene que ir a buscar todo. La B abre el panel y ya tiene una parte de su mes comprometida, y solo tiene que ir a buscar el resto.
+>
+> `[pausa]`
+>
+> Mismo mes pasado. Mismo esfuerzo. Y dos primeros de mes completamente distintos.
+>
+> Y hay una diferencia que no se ve en la plata: la B duerme distinto. Sabe que aunque el mes venga flojo, algo entra.
 
 ### Cambio de paradigma
 
@@ -186,6 +204,8 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > "Pero yo no puedo dejar de vender hoy para armar esto." No hace falta. La suscripción se instala al lado de tu compra única, no encima. El día uno seguís vendiendo igual que hoy.
 >
 > Y otra: "¿esto es cobrar todo el primer día del mes?" No. Cada suscriptor se cobra en su propio ciclo. Lo que tenés el día uno no es todo cobrado: es todo comprometido. Sabés qué va a entrar.
+>
+> Y una tercera: "¿y las ventas nuevas?" Siguen. La pauta sigue trayendo clientes, y cada uno que entra puede sumarse a la base. El piso no reemplaza a lo que ya hacés: le da algo donde apoyarse.
 
 ### Puente
 
@@ -193,7 +213,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 4 · PUNTO 2 — TODO MERCADO ES FINITO · [T]
+## 4 · PUNTO 2 — TODO MERCADO ES FINITO · [7:08 – 11:04]
 
 ### Dolor, con los costos ocultos
 
@@ -208,6 +228,10 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Y no sos el único que le vende a esa gente. Están todos tus competidores, con el mismo producto, apuntándole al mismo grupo.
 >
 > `[a cámara]` Cada mes peleás por un grupo que se achica, contra más gente que quiere lo mismo.
+>
+> Es como un embudo con un agujero. Ponés gente por arriba, y lo que sale por abajo compra una vez y desaparece. El embudo no se llena nunca, porque lo que sale no vuelve.
+>
+> Y mientras tanto, esos que salieron son las personas que más saben de tu marca. Ya te compraron. Ya te conocen. Y están afuera del embudo, sin que nadie les hable.
 
 ### Cambio de paradigma
 
@@ -238,12 +262,18 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Primera: una variación del producto que ya vendés. Formato, dosis, tamaño, ciclo de reposición.
 >
 > Segunda: se la ofrecés a los que ya te compraron. Esa gente ya está paga, y ya te conoce.
+>
+> Y fijate por qué es distinto venderle a alguien que ya te compró. Ya vio tu producto. Ya lo usó. Ya sabe si le sirve. No hay que convencerlo de qué sos: solo hay que ofrecerle una forma más cómoda de seguir.
 
 ### Anticipación de objeción
 
 > "¿Y si mi producto no se termina?" Si no se termina y no se vuelve a comprar, este modelo no es para vos, y te lo digo de frente. Este modelo es para consumibles. Si no hay reposición, no hay ciclo.
 >
 > Y otra: "mi mercado es enorme, no se termina". Puede ser. No te digo cuándo. Te digo que la parte del mercado que ya te compró es la única que no tenés que volver a conquistar. Y esa es la que se acumula.
+>
+> Y te propongo algo antes de seguir. Agarrá los clientes que te compraron durante el último año y contá cuántos te volvieron a comprar, aunque sea una vez. `[EN PANTALLA: la pregunta escrita en la pizarra]`
+>
+> Ese número te dice cuánto del mercado que ya conquistaste está trabajando para vos. Y cuánto, después de haberte comprado, se fue sin que nadie le vuelva a hablar.
 
 ### Puente
 
@@ -251,7 +281,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 5 · PUNTO 3 — EL CICLO DE REPOSICIÓN MANDA · [T]
+## 5 · PUNTO 3 — EL CICLO DE REPOSICIÓN MANDA · [11:04 – 15:12]
 
 ### Dolor, con los costos ocultos
 
@@ -264,6 +294,16 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Si le cobrás después de que se le terminó, se quedó sin producto en el medio. Se fue a comprar a otro lado.
 >
 > `[a cámara]` En los dos casos, la suscripción no falla por el precio. Falla por el ritmo.
+>
+> Y hay tres señales de que tu ritmo está mal. `[EN PANTALLA: tres renglones, de a uno]`
+>
+> Una: se dan de baja en el primer ciclo. Si el que se suscribe se va enseguida, muchas veces es que el cobro no cayó cuando lo necesitaba.
+>
+> Dos: te escriben diciendo que todavía tienen producto. Te lo están diciendo con todas las letras: el cobro cayó antes.
+>
+> Tres: te escriben porque se quedaron sin producto. El cobro cayó tarde.
+>
+> Son señales que ya tenés a mano. Solo hay que leerlas como lo que son: información sobre el ciclo.
 
 ### Cambio de paradigma
 
@@ -292,6 +332,14 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa]`
 >
 > Y te digo algo que no me gusta que se diga distinto: no hay un ciclo típico. Varía mucho de un cliente a otro, y de una marca a otra. Por eso se define caso por caso, no con un número por defecto.
+>
+> Un ejemplo inventado, para ver cómo se mueve la variante. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+>
+> Ponele que tu producto viene en un formato que dura treinta días. Si ofrecés un formato el doble de grande, el ciclo pasa a sesenta. Mismo producto, otro ritmo.
+>
+> Y a la inversa: si el cliente lo consume más rápido de lo que pensabas, un formato más chico que se cobre más seguido puede calzar mejor.
+>
+> No es una receta. Es la manera de pensarlo: la variante se ajusta al ciclo del cliente, no el cliente a tu catálogo.
 
 ### Anticipación de objeción
 
@@ -305,7 +353,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 6 · PUNTO 4 — EL TABLERO DEL PISO · [T]
+## 6 · PUNTO 4 — EL TABLERO DEL PISO · [15:12 – 19:16]
 
 ### Dolor, con los costos ocultos
 
@@ -344,6 +392,26 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa]`
 >
 > Y por eso es semanal. Si esperás a fin de mes, el mes ya se fue. Con el churn semanal, lo ves cuando todavía podés hacer algo.
+>
+> Y una pregunta que te tenés que hacer cuando el churn sube: ¿cuándo se van? Si se van en el primer ciclo, mirá el ritmo, que es el punto tres. Si se van más adelante, es otra pregunta, y el tablero te la va a mostrar. Lo importante es que la pregunta aparece a tiempo.
+>
+> Y para que quede claro cómo se lee un lunes, un ejemplo inventado. `[EN PANTALLA: tres líneas, con la aclaración "ejemplo"]`
+>
+> Lunes uno: suben los activos, el churn queda igual. La base crece.
+>
+> Lunes dos: los activos quedan iguales, el churn sube. Algo se está yendo. Hay que mirar por qué.
+>
+> Lunes tres: los activos suben y el churn baja. Todo trabaja a favor.
+>
+> No hay números en ese ejemplo, a propósito. Lo que importa es la lectura: en qué dirección se mueve cada uno.
+>
+> Y así se ve un piso frágil comparado con uno sólido. `[EN PANTALLA: dos columnas]`
+>
+> El frágil: pocos activos, churn alto, recompra baja. Se cobra, pero se va casi todo lo que entra.
+>
+> El sólido: activos que crecen, churn bajo, recompra que se sostiene. La base se acumula.
+>
+> Los tres números juntos te dicen en cuál de los dos estás. Cada uno por separado te puede engañar.
 
 ### Mini CTA de recurso — PISO
 
@@ -366,7 +434,7 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 ---
 
-## 7 · PUNTO 5 — LAS DECISIONES QUE SE DESTRABAN · [T]
+## 7 · PUNTO 5 — LAS DECISIONES QUE SE DESTRABAN · [19:16 – 23:00]
 
 ### Dolor, con los costos ocultos
 
@@ -398,6 +466,14 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 >
 > Eso son tus proyecciones de stock y de reposición, calculadas sobre la base. Ya no adivinás cuánto pedirle a tu proveedor: lo calculás.
 >
+> Un ejemplo inventado, para ver la lógica. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+>
+> Ponele que tenés doscientos suscriptores, y que cada uno recibe una unidad por ciclo. Sabés que en el próximo ciclo necesitás doscientas unidades, más lo que esperes vender fuera de la suscripción.
+>
+> Esas doscientas no las adivinaste: las contaste. Y sobre esas podés pedirle a tu proveedor con más confianza.
+>
+> Fijate que lo que se proyecta es la parte recurrente. La otra parte sigue siendo un cálculo tuyo, como hoy.
+>
 > Y con el equipo y los contratos pasa parecido. Si sabés cuánto te entra de forma recurrente, sabés qué gastos fijos podés sostener sin depender de cómo ande el mes.
 >
 > `[pausa]`
@@ -405,16 +481,24 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 > Y te aclaro algo importante: el piso no es todo tu ingreso. Es la parte que podés proyectar. Las ventas nuevas siguen siendo variables, y así se tratan.
 >
 > La ganancia no es que puedas predecirlo todo. Es que ya no lo adivinás todo.
+>
+> Y hay un orden para usar esto. Primero, lo que ya podés leer: el stock de la parte recurrente. Es la decisión con más certeza y menos riesgo.
+>
+> Después, los gastos fijos que querés sostener con esa parte. Y recién ahí, las decisiones más grandes, como sumar a alguien o firmar algo a más largo plazo, a medida que la base se demuestre estable.
+>
+> `[a cámara]` No es apostar hoy a lo que la base va a ser. Es ir moviendo cada decisión a medida que la base te da con qué apoyarla.
 
 ### Anticipación de objeción
 
 > "¿Y si el piso baja?" Para eso está el churn semanal del punto cuatro. Lo ves cuando empieza a moverse, no cuando ya se movió.
 >
 > Y otra: "mis suscriptores son pocos". Entonces tu parte proyectable es más chica. Pero es mayor que cero, y cada suscriptor que sumás agranda la parte donde dejás de adivinar.
+>
+> Y una última: "mi proveedor me pide compromisos grandes de compra". Con la parte recurrente calculada, tenés con qué apoyar una parte de ese compromiso. La otra parte la seguís decidiendo con tu criterio de siempre, pero ya no con toda la incertidumbre encima.
 
 ---
 
-## 8 · CTA FINAL · [T]
+## 8 · CTA FINAL · [23:00 – 25:44]
 
 ### Recap y tu ejercicio
 
@@ -446,11 +530,11 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 > Llegamos al final, así que te digo exactamente qué hacer.
 >
-> Andá al link de la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
+> Tenés dos caminos, y los dos están en el link de la descripción. Podés hablarme directo por WhatsApp, o agendar una llamada en la página.
 >
-> Lo leo yo. No hay un setter atrás.
+> Si me escribís, mandame tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar. Lo leo yo. No hay un setter atrás.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: cuál es tu ciclo de reposición y cómo se vería el piso de tu marca.
+> Y si tu marca entra en el rango, en la llamada te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: cuál es tu ciclo de reposición y cómo se vería el piso de tu marca.
 >
 > `[pausa]`
 >
@@ -461,6 +545,8 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 > Imaginate un lunes. Abrís una pantalla y ves cuántos suscriptores siguen, cuántos se sumaron, cuántos se fueron.
 >
 > Y sabés, antes de abrir cualquier otra cosa, con cuánto arranca el mes.
+>
+> No es ganar más de un día para el otro. Es dejar de empezar siempre desde el principio. Y ver cómo el tablero se va llenando semana a semana, sin haber tenido que salir a buscar todo otra vez.
 
 ### Cierre con consecuencia
 
@@ -510,14 +596,14 @@ de facturación de tu marca.
 Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el video ya editado.**
 
 ```
-{{C1}}  El primero del mes, ¿con cuánto arrancás?
-{{C2}}  Antes de seguir
-{{C3}}  1 · No compraste un cliente, compraste una transacción
-{{C4}}  2 · Todo mercado es finito
-{{C5}}  3 · El ciclo de reposición manda
-{{C6}}  4 · El tablero del piso
-{{C7}}  5 · Las decisiones que se destraban
-{{C8}}  Tu ejercicio y cómo hacemos tu cuenta
+0:00  El primero del mes, ¿con cuánto arrancás?
+2:44  Antes de seguir
+3:06  1 · No compraste un cliente, compraste una transacción
+7:08  2 · Todo mercado es finito
+11:04  3 · El ciclo de reposición manda
+15:12  4 · El tablero del piso
+19:16  5 · Las decisiones que se destraban
+23:00  Tu ejercicio y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres

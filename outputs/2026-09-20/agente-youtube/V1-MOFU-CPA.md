@@ -4,9 +4,9 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: {{DUR}}** — {{WORDS}} palabras habladas contadas, a 150 ppm. **CTA temprano en el {{EARLY}}%
+**Duración: 25:15** — 3.788 palabras habladas contadas, a 150 ppm. **CTA temprano en el 11,7%
 del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-{{RET}}. CTR objetivo: 5-10%.
+15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
 
 ---
 
@@ -64,7 +64,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [T]
+## 1 · APERTURA · [0:00 – 2:58]
 
 **Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
 
@@ -130,17 +130,17 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 2 · CTA TEMPRANO · [T]
+## 2 · CTA TEMPRANO · [2:58 – 3:21]
 
-> Una sola cosa antes de arrancar.
+> Antes de seguir, una sola cosa.
 >
-> Si ya sabés que tu problema es este y no querés esperar al final, andá al link de la descripción y mandame tu situación por WhatsApp. Te leo yo, y te doy una mano en lo que pueda.
+> Si ya sabés que esto es lo que te pasa, no hace falta que esperes al final. Podés hablarme directo por WhatsApp, o agendar una llamada en la página. Los dos links están en la descripción. Si me escribís, te leo yo personalmente.
 >
-> Si no, seguimos. Vamos con el primero.
+> Para el resto, seguimos con el primer punto.
 
 ---
 
-## 3 · PUNTO 1 — POR QUÉ CADA VENTA TE CUESTA LO MISMO · [T]
+## 3 · PUNTO 1 — POR QUÉ CADA VENTA TE CUESTA LO MISMO · [3:21 – 7:46]
 
 ### Dolor, con los costos ocultos
 
@@ -224,7 +224,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 4 · PUNTO 2 — EL ROAS CONTESTA LA PREGUNTA EQUIVOCADA · [T]
+## 4 · PUNTO 2 — EL ROAS CONTESTA LA PREGUNTA EQUIVOCADA · [7:46 – 11:17]
 
 ### Dolor, con los costos ocultos
 
@@ -296,7 +296,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 5 · PUNTO 3 — LA SUBASTA Y LA CUENTA DEL CPA · [T]
+## 5 · PUNTO 3 — LA SUBASTA Y LA CUENTA DEL CPA · [11:17 – 15:18]
 
 ### Dolor, con los costos ocultos
 
@@ -387,7 +387,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 6 · PUNTO 4 — EL LTV SE MIDE, NO SE SUPONE · [T]
+## 6 · PUNTO 4 — EL LTV SE MIDE, NO SE SUPONE · [15:18 – 18:32]
 
 ### Dolor, con los costos ocultos
 
@@ -455,7 +455,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 7 · PUNTO 5 — LOS PRIMEROS CLIENTES, Y TUS CAMPAÑAS AL CPA NUEVO · [T]
+## 7 · PUNTO 5 — LOS PRIMEROS CLIENTES, Y TUS CAMPAÑAS AL CPA NUEVO · [18:32 – 22:13]
 
 ### Dolor, con los costos ocultos
 
@@ -519,7 +519,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 8 · CTA FINAL · [T]
+## 8 · CTA FINAL · [22:13 – 25:15]
 
 ### Recap y tu ejercicio
 
@@ -553,11 +553,11 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 > Llegamos al final, así que te digo exactamente qué hacer.
 >
-> Andá al link de la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
+> Tenés dos caminos, y los dos están en el link de la descripción. Podés hablarme directo por WhatsApp, o agendar una llamada en la página.
 >
-> Lo leo yo. No hay un setter atrás de esto.
+> Si me escribís, mandame tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar. Lo leo yo. No hay un setter atrás.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y te hago la misma cuenta que le hago a un cliente cuando entra. En pantalla, con tus números: tu margen real por pedido, tu CPA de hoy, tu recompra, y tu techo con LTV de tres, que es lo más conservador que hay.
+> Y si tu marca entra en el rango, en la llamada te hago la misma cuenta que le hago a un cliente cuando entra. En pantalla, con tus números: tu margen real por pedido, tu CPA de hoy, tu recompra, y tu techo con LTV de tres, que es lo más conservador que hay.
 >
 > `[pausa]`
 >
@@ -618,14 +618,14 @@ techo con LTV 3.
 Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el video ya editado.**
 
 ```
-{{C1}}  Tu competencia no te gana por creativos
-{{C2}}  Antes de seguir
-{{C3}}  1 · Por qué cada venta te cuesta lo mismo
-{{C4}}  2 · El ROAS contesta la pregunta equivocada
-{{C5}}  3 · La subasta y la cuenta del CPA
-{{C6}}  4 · El LTV se mide, no se supone
-{{C7}}  5 · Los primeros clientes y tus campañas al CPA nuevo
-{{C8}}  Cómo hacemos tu cuenta
+0:00  Tu competencia no te gana por creativos
+2:58  Antes de seguir
+3:21  1 · Por qué cada venta te cuesta lo mismo
+7:46  2 · El ROAS contesta la pregunta equivocada
+11:17  3 · La subasta y la cuenta del CPA
+15:18  4 · El LTV se mide, no se supone
+18:32  5 · Los primeros clientes y tus campañas al CPA nuevo
+22:13  Cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres

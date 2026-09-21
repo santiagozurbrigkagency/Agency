@@ -4,9 +4,8 @@ Producido por: agente-youtube · 20 de septiembre de 2026
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 8:06** — 1.216 palabras habladas contadas, a 150 ppm. **CTA temprano en el 19,0%
-del video (el framework pide ~10%: acá cae apenas cierra la apertura).** Objetivo de retención para esta duración: 40-50%. CTR objetivo: 5-10%.
-`[DURACIÓN — sale del guión tal como quedó. La duración de una pieza es una decisión de negocio y no está escrita en contexto/: se confirma antes de grabar. Si se quiere más largo, se amplía.]`
+**Duración: 11:48** — 1.771 palabras habladas contadas, a 150 ppm. **CTA temprano en el 15,0%
+del video.** Duración pedida por Santi: mentalidad, menos de 15 min. Objetivo de retención para esta duración: 30-40%. CTR objetivo: 5-10%.
 
 **Decisión por defecto:** el plan dejaba tres opciones para este video. Se guionó la (a), la recomendada:
 Dolor 7 + la tesis del personaje. Si preferís la (b) o la (c), se rehace.
@@ -63,7 +62,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [0:00 – 1:32]
+## 1 · APERTURA · [0:00 – 1:46]
 
 **Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
 
@@ -78,6 +77,8 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa]`
 >
 > Y ninguno hizo nada raro. Copiaron lo que se ve.
+>
+> Y mientras tanto vos gastaste plata y tiempo en algo que tiene fecha de vencimiento. Y lo vas a volver a gastar la próxima vez, porque la próxima también te lo van a copiar.
 >
 > `[a cámara]` Hoy te muestro lo único que no se ve. Y por eso, lo único que no te pueden copiar.
 
@@ -109,17 +110,17 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 2 · CTA TEMPRANO · [1:32 – 1:50]
+## 2 · CTA TEMPRANO · [1:46 – 2:09]
 
-> Antes de arrancar, una sola cosa.
+> Antes de seguir, una sola cosa.
 >
-> Si ya sabés que tu problema es este, andá al link de la descripción y mandame tu situación por WhatsApp. Te leo yo, y te ayudo en lo que pueda.
+> Si ya sabés que esto es lo que te pasa, no hace falta que esperes al final. Podés hablarme directo por WhatsApp, o agendar una llamada en la página. Los dos links están en la descripción. Si me escribís, te leo yo personalmente.
 >
 > Para el resto, seguimos con el primer punto.
 
 ---
 
-## 3 · PUNTO 1 — TODO LO VISIBLE SE COPIA · [1:50 – 3:30]
+## 3 · PUNTO 1 — TODO LO VISIBLE SE COPIA · [2:09 – 4:30]
 
 ### Dolor, con los costos ocultos
 
@@ -136,6 +137,8 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Fijate lo que eso te cuesta. Lo que invertís en diferenciarte tiene fecha de vencimiento: lo amortizás en semanas, y después lo tenés que hacer de nuevo. Cada mejora que lanzás dura hasta que el otro la ve.
 >
 > `[a cámara]` Es un trabajo que no se acumula. Empezás de cero cada vez que te copian.
+>
+> Y cada vez pensás que ahora sí: que esta landing, este ángulo, esta oferta, es la que no te van a poder copiar. Y cada vez pasa lo mismo.
 
 ### Cambio de paradigma
 
@@ -160,6 +163,14 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa]`
 >
 > Si las dos respuestas son que sí, eso no es una ventaja. Es un préstamo. Tu competencia lo va a usar en cuarenta y ocho horas.
+>
+> Y hacé un ejercicio ahora, que te va a incomodar. Entrá a la biblioteca de anuncios de tu competidor más directo.
+>
+> Mirá cuánto te podés llevar en diez minutos: sus creativos, sus ángulos, lo que dicen, cómo lo dicen. Y pensá que él puede hacer exactamente lo mismo con vos.
+>
+> `[pausa]`
+>
+> Todo lo que encontraste, tu competencia lo puede encontrar de vos. No hay secretos en lo visible. Solo hay tiempo hasta que lo usen.
 
 ### Anticipación de objeción
 
@@ -171,7 +182,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 4 · PUNTO 2 — COMPETIR EN OTRA DIMENSIÓN · [3:30 – 5:08]
+## 4 · PUNTO 2 — COMPETIR EN OTRA DIMENSIÓN · [4:30 – 7:08]
 
 ### Dolor, con los costos ocultos
 
@@ -192,6 +203,12 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[pausa larga]`
 >
 > Ese "un poco mejor" también se copia. Es una carrera donde todos corren en la misma pista, y el que gana es el que tiene más margen para aguantar.
+>
+> Y no pasa solo en ecommerce. En cualquier mercado donde muchos hacen lo mismo, compiten todos por ángulos.
+>
+> Fijate la lógica. Si todos bajan el precio, el que gana no es el que tiene el mejor producto: es el que puede aguantar más tiempo perdiendo margen. Y en un mercado donde muchos ya están en breakeven, casi nadie aguanta.
+>
+> Cada mejora nueva te cuesta trabajo, y se copia igual de rápido que la anterior. Entonces pagás cada vez, por algo que dura cada vez menos.
 
 ### La solución única, con lógica
 
@@ -206,6 +223,10 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Y ahí dejamos de competir por lo mismo. Si ellos pueden gastar cincuenta dólares para adquirir un cliente, nosotros podemos gastar setenta y cinco, y listo: ya no tenés competencia.
 >
 > No es un ángulo nuevo. Es otro juego.
+>
+> Y quiero que veas por qué esto es una cuestión de modelo y no de creatividad. Tu competencia puede ver tu producto, tu precio, tu anuncio. Lo que no puede ver es cuánto podés pagar por un cliente, ni cuánto tiempo se queda con vos después.
+>
+> Esa diferencia no aparece en ninguna captura de pantalla. Y es la que decide quién aguanta cuando los costos suben.
 
 ### Anticipación de objeción
 
@@ -217,7 +238,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 5 · PUNTO 3 — LO ÚNICO QUE NO SE VE DESDE AFUERA · [5:08 – 6:39]
+## 5 · PUNTO 3 — LO ÚNICO QUE NO SE VE DESDE AFUERA · [7:08 – 9:34]
 
 ### Dolor, con los costos ocultos
 
@@ -250,6 +271,12 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > `[a cámara]` Es la única ventaja que la competencia no puede scrapear.
 >
 > Y no se copia porque no es una cosa: es tiempo acumulado. A esto le puse Ventaja Invisible.
+>
+> Y ahora hacé el ejercicio al revés. Si vos quisieras copiar a tu competidor mañana, ¿qué podrías ver? Sus anuncios, su tienda, sus precios. ¿Y qué no podrías ver? Cuántos clientes recurrentes tiene, cuánto tarda cada uno en irse, cuánto vale cada uno.
+>
+> Eso que no podés ver de él es lo que él no puede ver de vos. Y es ahí donde se decide la diferencia.
+>
+> Por eso no alcanza con decir "suscripción". La palabra la puede decir cualquiera. Lo que no se puede decir de un día para el otro es dos mil doscientos suscriptores con un churn de uno veintiocho.
 
 ### Anticipación de objeción
 
@@ -258,20 +285,36 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 > Puede pasar. De hecho alguno ya empezó a decir la palabra. Decirla es fácil.
 >
 > Lo que no pueden copiar es la base. Si arrancan hoy, arrancan de cero. Y mientras arrancan, yo sigo acumulando. La palabra se copia. Los suscriptores, no.
+>
+> Y otra: "yo todavía no tengo suscripción". Entonces hoy tu ventaja invisible es cero, y eso también es un dato. Es mejor saberlo ahora que descubrirlo cuando ya te copiaron todo lo visible.
 
 ---
 
-## 6 · CTA FINAL · [6:39 – 8:06]
+## 6 · CTA FINAL · [9:34 – 11:48]
+
+### Recap y tu ejercicio
+
+> `[EN PANTALLA: la pizarra con todo lo escrito hasta acá]`
+>
+> Juntemos todo.
+>
+> Lo que se ve, se copia. Cualquier ventaja que tu competencia pueda ver desde afuera tiene fecha de vencimiento.
+>
+> Si todos hacen lo mismo un poco mejor, gana el que más aguanta. Es una carrera que no conviene correr.
+>
+> Lo que no se puede copiar es lo que no se ve y se acumula con el tiempo: una base propia.
+>
+> Ahora, tu ejercicio. Anotá cinco cosas que hoy usás para diferenciarte. Aplicales las dos preguntas: ¿se ve desde afuera? ¿Se copia en menos de un mes? Y contá cuántas quedaron sin cruz. Ese número es tu ventaja invisible de hoy.
 
 ### Ultra específico y accionable
 
 > Llegamos al final, así que te digo exactamente qué hacer.
 >
-> Andá al link de la descripción y mandame tu situación por WhatsApp. Tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar.
+> Tenés dos caminos, y los dos están en el link de la descripción. Podés hablarme directo por WhatsApp, o agendar una llamada en la página.
 >
-> Lo leo yo. No hay un setter atrás.
+> Si me escribís, mandame tres datos: qué vendés, cuánto facturás por mes, y si tu producto se termina y se vuelve a comprar. Lo leo yo. No hay un setter atrás.
 >
-> Y si tu marca entra en el rango, hacemos una llamada y te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: cómo se vería tu variante de suscripción, con qué ciclo de reposición, y cuánto valdría cada cliente que se suscribe.
+> Y si tu marca entra en el rango, en la llamada te hago la misma auditoría que le hago a un cliente cuando entra. En pantalla, con tus números: cómo se vería tu variante de suscripción, con qué ciclo de reposición, y cuánto valdría cada cliente que se suscribe.
 >
 > `[pausa]`
 >
@@ -333,11 +376,11 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  Te copian el creativo y la landing en dos semanas
-1:32  Antes de seguir
-1:50  1 · Todo lo visible se copia
-3:30  2 · Competir por el modelo
-5:08  3 · Lo único que no se puede copiar
-6:39  Cómo hacemos tu cuenta
+1:46  Antes de seguir
+2:09  1 · Todo lo visible se copia
+4:30  2 · Competir por el modelo
+7:08  3 · Lo único que no se puede copiar
+9:34  Cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres
