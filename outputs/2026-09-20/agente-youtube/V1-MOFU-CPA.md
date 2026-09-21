@@ -4,9 +4,11 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 25:15** — 3.788 palabras habladas contadas, a 150 ppm. **CTA temprano en el 11,7%
-del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+**Duración: 25:01** — 3.752 palabras habladas contadas, a 150 ppm. **CTA temprano en el 11,5%
+del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración: 15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+
+**Formato de grabación (Santi, 20-sep):** Miro o presentación, con la cámara de Manu en una esquina, siempre en el mismo
+lugar. Ya no es pizarra ni estudio. La lente naranja y el tablero de Scalify siguen como firma visual.
 
 ---
 
@@ -29,8 +31,8 @@ Dice "más del doble" y no "el doble": la cuenta canónica da 2,5×, y el Nivel 
 (`Personaje.md`, sección 5).
 
 **Miniatura — 3 elementos:**
-1. Manu de pie junto a la pizarra, a cámara.
-2. En la pizarra, a mano y grande: **`2,5×`**
+1. Manu en una esquina, a cámara (el mismo encuadre del video).
+2. En la diapositiva, en grande: **`2,5×`**
 3. La lente naranja de Génesis OS circulando el 2,5×.
 
 Complementa el título en vez de repetirlo: el título dice quién gana, la miniatura dice por cuánto.
@@ -64,13 +66,13 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [0:00 – 2:58]
+## 1 · APERTURA · [0:00 – 2:52]
 
-**Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
+**Formato Miro / presentación** — el contenido ocupa la pantalla y la cámara de Manu va en una esquina.
 
 ### Los primeros 15 segundos
 
-> `[EN PANTALLA: la pizarra en blanco, Manu escribe CPA en grande]`
+> `[EN PANTALLA: una diapositiva con CPA en grande]`
 >
 > Tu competencia no te está ganando por mejores creativos.
 >
@@ -98,7 +100,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > No es una fórmula de curso. Es aritmética, y la vas a poder hacer con tus números mientras me mirás.
 >
-> Este es un video largo, a propósito. Voy a hacer la cuenta completa, en la pizarra, y a responder las objeciones que te vas a hacer mientras la ves. Si me seguís hasta el final, te llevás la lógica entera.
+> Este es un video largo, a propósito. Voy a hacer la cuenta completa, en pantalla, y a responder las objeciones que te vas a hacer mientras la ves. Si me seguís hasta el final, te llevás la lógica entera.
 >
 > Y te aviso una cosa: en este video no vas a aprender a bajar el CPA. Vas a aprender a que deje de ser el número que manda.
 
@@ -126,11 +128,11 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 > Esto es para el que ya sabe pautar. Tenés producto, tenés marca, tenés creativos que funcionan. No te falta operación. Te falta la cuenta.
 >
-> `[a cámara]` Y no te muestro cuánto facturo para que me creas. Te muestro cuántos se quedan. Ese churn quiere decir que el cliente que pagué una sola vez para conseguir sigue estando el mes que viene. Y todo lo que viene ahora sale de ahí.
+> `[a cámara]` Fijate lo que quiere decir ese churn: que el cliente que pagué una sola vez para conseguir sigue estando el mes que viene. Todo lo que viene ahora sale de ahí.
 
 ---
 
-## 2 · CTA TEMPRANO · [2:58 – 3:21]
+## 2 · CTA TEMPRANO · [2:52 – 3:15]
 
 > Antes de seguir, una sola cosa.
 >
@@ -140,13 +142,13 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 3 · PUNTO 1 — POR QUÉ CADA VENTA TE CUESTA LO MISMO · [3:21 – 7:46]
+## 3 · PUNTO 1 — POR QUÉ CADA VENTA TE CUESTA LO MISMO · [3:15 – 7:40]
 
 ### Dolor, con los costos ocultos
 
 > Empecemos por lo que ya conocés.
 >
-> `[EN PANTALLA: pizarra, tres renglones que aparecen de a uno — "Venta 1 · CPA 15 USD", "Venta 2 · CPA 15 USD", "Venta 3 · CPA 15 USD"]`
+> `[EN PANTALLA: el Miro, tres renglones que aparecen de a uno — "Venta 1 · CPA 15 USD", "Venta 2 · CPA 15 USD", "Venta 3 · CPA 15 USD"]`
 >
 > Vendés hoy. Mañana volvés a pautar. Y el mes que viene, otra vez, con el mismo costo o mayor.
 >
@@ -204,7 +206,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > A eso le puse De Pedido a Suscriptor. Es la primera pieza, y es lo que hace posible todo lo que viene.
 >
-> Miralo como una línea de tiempo. `[EN PANTALLA: la pizarra, dos líneas horizontales, una debajo de la otra]`
+> Miralo como una línea de tiempo. `[EN PANTALLA: el Miro, dos líneas horizontales, una debajo de la otra]`
 >
 > En compra única: el mes uno pagás para conseguir al cliente y le vendés. El mes dos, si querés que te compre de nuevo, volvés a pagar. El mes tres, otra vez.
 >
@@ -224,7 +226,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 4 · PUNTO 2 — EL ROAS CONTESTA LA PREGUNTA EQUIVOCADA · [7:46 – 11:17]
+## 4 · PUNTO 2 — EL ROAS CONTESTA LA PREGUNTA EQUIVOCADA · [7:40 – 11:13]
 
 ### Dolor, con los costos ocultos
 
@@ -236,7 +238,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Ahora fijate lo que ese número no te dice. No te dice cuánto margen te dejó esa venta. No te dice si ese cliente vuelve. Y no te dice cuánto podrías haber pagado por él.
 >
-> `[EN PANTALLA: la pizarra — "ROAS = facturación de la primera venta ÷ pauta"]`
+> `[EN PANTALLA: el Miro — "ROAS = facturación de la primera venta ÷ pauta"]`
 >
 > Y el costo oculto es este: apagás campañas que, mirando al cliente completo, eran buenas. Y escalás campañas que en el panel se ven lindas y que traen clientes que no vuelven nunca.
 >
@@ -258,17 +260,17 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 > Entonces la pregunta no es cuánto facturé por cada peso. Es cuánto me deja cada cliente, contra cuánto me costó conseguirlo.
 >
-> `[EN PANTALLA: Manu escribe en la pizarra dos columnas — "Campaña A" y "Campaña B"]`
+> `[EN PANTALLA: el Miro muestra dos columnas — "ROAS lindo, no vuelve" y "ROAS más bajo, se queda"]`
 >
-> Mirá con un ejemplo, y es inventado a propósito para entender la lógica.
+> Mirá con un caso que no es real, solo para entender la lógica.
 >
-> Campaña A: en el panel se ve excelente. Buen ROAS. Pero el cliente que trae compra una vez y no vuelve.
+> Hay una campaña que en el panel se ve excelente. Buen ROAS. Pero el cliente que trae compra una vez y no vuelve.
 >
-> Campaña B: en el panel se ve peor. El ROAS de la primera venta es más bajo. Pero el cliente que trae se suscribe, y compra tres veces.
+> Y hay otra que en el panel se ve peor. El ROAS de la primera venta es más bajo. Pero el cliente que trae se suscribe, y compra tres veces.
 >
-> Si mirás el ROAS, escalás la A y apagás la B.
+> Si mirás el ROAS, escalás la primera y apagás la segunda.
 >
-> Si mirás el cliente, es al revés. La B es la que te hace más plata, y la A la que te la hace perder de a poquito.
+> Si mirás el cliente, es al revés. La segunda es la que te hace más plata, y la primera la que te la hace perder de a poquito.
 >
 > `[a cámara]` Es la misma diferencia entre mirar un pedido y mirar un cliente. Y cambia qué campañas dejás vivas.
 >
@@ -296,7 +298,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 5 · PUNTO 3 — LA SUBASTA Y LA CUENTA DEL CPA · [11:17 – 15:18]
+## 5 · PUNTO 3 — LA SUBASTA Y LA CUENTA DEL CPA · [11:13 – 15:10]
 
 ### Dolor, con los costos ocultos
 
@@ -320,7 +322,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ### La solución única, con lógica
 
-> Hagamos la cuenta. `[EN PANTALLA: Manu escribe en la pizarra, línea por línea]`
+> Hagamos la cuenta. `[EN PANTALLA: el Miro, con cada línea apareciendo de a una]`
 >
 > Tu margen de contribución por pedido: treinta mil pesos.
 >
@@ -348,21 +350,19 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y ahora metámonos en la subasta, para que veas por qué esto decide quién se queda con el cliente.
 >
-> `[EN PANTALLA: la pizarra, dos marcas — "Marca A: techo 30.000" y "Marca B: techo 90.000"]`
+> `[EN PANTALLA: el Miro, dos pujas frente a frente — "hasta 30.000" y "hasta 90.000"]`
 >
-> Dos marcas venden lo mismo y le apuntan al mismo cliente. La A vende en compra única: su techo es treinta mil. La B es de suscripción: su techo es noventa mil.
+> Imaginate un remate donde hay un solo cliente y dos que quieren llevárselo. Uno puede pujar hasta treinta mil, porque ese es su margen. El otro puede pujar hasta noventa mil, porque sabe que ese cliente le va a comprar tres veces.
 >
-> Es un ejemplo, para entender la lógica.
+> Sube el CPM y llegar a ese cliente cuesta cada vez más. Digamos que llega un momento en que cuesta treinta y cinco mil.
 >
-> Sube el CPM. Llegar a ese cliente cuesta cada vez más. Digamos que llega un momento en que conseguirlo sale treinta y cinco mil.
+> El de los treinta mil se baja: si sigue, pierde plata con cada cliente que consigue.
 >
-> La marca A no puede seguir. Cada cliente que consiga le hace perder plata. Se baja de la subasta.
->
-> La marca B sigue. Todavía está por debajo de su techo, y ese cliente le va a comprar tres veces.
+> El otro sigue. Todavía está lejos de su límite.
 >
 > `[pausa]`
 >
-> El cliente se lo lleva la B. No porque tenga mejor anuncio. Porque puede pagar más.
+> El cliente se lo lleva el segundo. No porque tenga mejor anuncio. Porque puede pagar más.
 >
 > `[a cámara]` Es exactamente lo que te está pasando con tu competencia. Y desde afuera parece que te ganan por creativos.
 
@@ -387,7 +387,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 6 · PUNTO 4 — EL LTV SE MIDE, NO SE SUPONE · [15:18 – 18:32]
+## 6 · PUNTO 4 — EL LTV SE MIDE, NO SE SUPONE · [15:10 – 18:24]
 
 ### Dolor, con los costos ocultos
 
@@ -409,7 +409,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ### La solución única, con lógica
 
-> `[EN PANTALLA: pizarra, tres pasos escritos de a uno]`
+> `[EN PANTALLA: el Miro, tres pasos escritos de a uno]`
 >
 > Se hace en tres pasos, y lo podés hacer hoy.
 >
@@ -423,7 +423,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 >
 > Y ahora fijate lo que pasa con la cuenta según ese número.
 >
-> `[EN PANTALLA: la pizarra, con el margen de treinta mil arriba y tres filas debajo, una por vez]`
+> `[EN PANTALLA: el Miro, con el margen de treinta mil arriba y tres filas debajo, una por vez]`
 >
 > Con dos pedidos por cliente, tu techo es sesenta mil. Con tres, noventa mil. Con cuatro, ciento veinte mil.
 >
@@ -455,7 +455,7 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 7 · PUNTO 5 — LOS PRIMEROS CLIENTES, Y TUS CAMPAÑAS AL CPA NUEVO · [18:32 – 22:13]
+## 7 · PUNTO 5 — LOS PRIMEROS CLIENTES, Y TUS CAMPAÑAS AL CPA NUEVO · [18:24 – 21:59]
 
 ### Dolor, con los costos ocultos
 
@@ -483,11 +483,11 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 >
 > Y se ofrece como variante paralela: tu compra única no se toca. El día uno seguís vendiendo igual que hoy.
 >
-> El primer cobro no tarda seis meses. Cae cuando se cumple el primer ciclo de reposición de tu producto. Si tu producto se termina en treinta días, el primer cobro llega a los treinta.
+> El primer cobro no tarda seis meses: cae cuando se cumple el primer ciclo de reposición de tu producto.
 >
 > Y recién con esa base convertida, entra la pauta. Pero ya no la misma pauta.
 >
-> `[EN PANTALLA: la pizarra, "estructura de anuncios al CPA nuevo"]`
+> `[EN PANTALLA: el Miro, "estructura de anuncios al CPA nuevo"]`
 >
 > Ahora tus campañas se recalculan con el número que medimos en el punto cuatro. Los ángulos, los creativos y las campañas se arman contra un techo de noventa mil, no de treinta.
 >
@@ -519,13 +519,13 @@ este mini CTA se saltea completo y no se reemplaza por otro.]`
 
 ---
 
-## 8 · CTA FINAL · [22:13 – 25:15]
+## 8 · CTA FINAL · [21:59 – 25:01]
 
 ### Recap y tu ejercicio
 
-> `[EN PANTALLA: la pizarra completa, con todo lo escrito hasta acá]`
+> `[EN PANTALLA: el Miro completo, con todo lo armado hasta acá]`
 >
-> Juntemos todo en una sola pizarra, porque las cinco cosas son una sola.
+> Juntemos todo en una sola pantalla, porque las cinco cosas son una sola.
 >
 > Cada venta te cuesta lo mismo porque pagás el CPA cada vez. Si cambiás la unidad, de pedido a suscriptor, ese costo se paga una sola vez.
 >
@@ -619,13 +619,13 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  Tu competencia no te gana por creativos
-2:58  Antes de seguir
-3:21  1 · Por qué cada venta te cuesta lo mismo
-7:46  2 · El ROAS contesta la pregunta equivocada
-11:17  3 · La subasta y la cuenta del CPA
-15:18  4 · El LTV se mide, no se supone
-18:32  5 · Los primeros clientes y tus campañas al CPA nuevo
-22:13  Cómo hacemos tu cuenta
+2:52  Antes de seguir
+3:15  1 · Por qué cada venta te cuesta lo mismo
+7:40  2 · El ROAS contesta la pregunta equivocada
+11:13  3 · La subasta y la cuenta del CPA
+15:10  4 · El LTV se mide, no se supone
+18:24  5 · Los primeros clientes y tus campañas al CPA nuevo
+21:59  Cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres
@@ -640,16 +640,16 @@ la cuenta del cpa, cpa ecommerce, como bajar el cpa, cpa vs cac, roas vs ltv, cu
 
 # QUÉ GRABAR Y QUÉ MOSTRAR EN PANTALLA
 
-| Bloque | Escenario | Qué va en pantalla |
+| Bloque | Formato | Qué va en pantalla |
 |---|---|---|
-| 1 · Apertura | **Escenario 1** — pizarra, de pie | CPA escrito a mano · tablero de Scalify (2.200 · 1,28%) · los cinco bullets del roadmap |
-| 2 · CTA temprano | Escenario 1, a cámara | El link abajo |
-| 3 · Punto 1 | Escenario 1, escribiendo | Los tres renglones de CPA · CPA tachado y CAC escrito |
-| 4 · Punto 2 | Escenario 1, escribiendo | La fórmula del ROAS · las dos columnas Campaña A y Campaña B |
-| 5 · Punto 3 | Escenario 1, **escribiendo la cuenta** | 30.000 → 90.000 → 75.000, línea por línea · la lente naranja sobre el 90.000 y el 75.000 · la calculadora (bloqueada) |
-| 6 · Punto 4 | Escenario 1, escribiendo | Los tres pasos para medir el LTV · las tres filas 60.000 / 90.000 / 120.000, una por vez |
-| 7 · Punto 5 | Escenario 1 + **Escenario 3** | La base de compradores y la secuencia de mail y WhatsApp · la "estructura de anuncios al CPA nuevo" |
-| 8 · CTA final | Escenario 1, **mismo encuadre que la apertura** | El link + placa de cierre |
+| 1 · Apertura | **Miro / presentación**, cámara en la esquina | CPA en grande · tablero de Scalify (2.200 · 1,28%) · los cinco bullets del roadmap |
+| 2 · CTA temprano | Miro / presentación, diapositiva con el link | El link abajo |
+| 3 · Punto 1 | Miro / presentación | Los tres renglones de CPA · CPA tachado y CAC escrito |
+| 4 · Punto 2 | Miro / presentación | La fórmula del ROAS · las dos columnas (ROAS lindo / ROAS más bajo) |
+| 5 · Punto 3 | Miro / presentación, **armando la cuenta** | 30.000 → 90.000 → 75.000, línea por línea · la lente naranja sobre el 90.000 y el 75.000 · la calculadora (bloqueada) |
+| 6 · Punto 4 | Miro / presentación | Los tres pasos para medir el LTV · las tres filas 60.000 / 90.000 / 120.000, una por vez |
+| 7 · Punto 5 | Miro / presentación + pantalla compartida del tablero | La base de compradores y la secuencia de mail y WhatsApp · la "estructura de anuncios al CPA nuevo" |
+| 8 · CTA final | Miro / presentación, **mismo encuadre que la apertura** | El link + placa de cierre |
 
 **Proof stack:** el tablero en la apertura; la cuenta en el punto 3. José no aparece. La miniatura y el
 punto 3 no repiten la miniatura de "El backend" (30.000 → 75.000).
@@ -664,7 +664,7 @@ punto 3 no repiten la miniatura de "El backend" (30.000 → 75.000).
    pero no sale de `contexto/`. `[CONFIRMAR MANU: si así lo mide él]`
 4. **Las filas de LTV 2 y LTV 4** del punto 4 son aritmética sobre el margen canónico (margen × LTV): no
    son números nuevos. El punto operativo solo está definido para LTV 3 (75.000) y no se extiende a los otros.
-5. **La Campaña A / B del punto 2** se dice como ejemplo inventado, y así se avisa en cámara.
+5. **Las dos campañas del punto 2 y las dos pujas del punto 3** son casos hipotéticos: se dice en cámara.
 6. **Captura del tablero de Scalify** y **link de WhatsApp / formulario**.
 7. **Contar los caracteres de las etiquetas.**
 8. El "sesenta millones" sale del hook de Manu en el Ad 3 (`Voz-Genesis.md`, sección 8, punto 4).

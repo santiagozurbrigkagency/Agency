@@ -4,9 +4,11 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 25:44** — 3.860 palabras habladas contadas, a 150 ppm. **CTA temprano en el 12,6%
-del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+**Duración: 25:13** — 3.782 palabras habladas contadas, a 150 ppm. **CTA temprano en el 12,2%
+del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración: 15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+
+**Formato de grabación (Santi, 20-sep):** Miro o presentación, con la cámara de Manu en una esquina, siempre en el mismo
+lugar. Ya no es pizarra ni estudio. La lente naranja y el tablero de Scalify siguen como firma visual.
 
 ---
 
@@ -27,8 +29,8 @@ validado de "El backend". `[FALTA — research de outliers por views. Título si
 antes de grabar.]`
 
 **Miniatura — 3 elementos:**
-1. Manu de pie junto a la pizarra, a cámara.
-2. En la pizarra, a mano: la palabra **`META`** tachada y un **`0`** grande debajo.
+1. Manu en una esquina, a cámara (el mismo encuadre del video).
+2. En la diapositiva, en grande: la palabra **`META`** tachada y un **`0`** grande debajo.
 3. La lente naranja con **`1,28%`** adentro.
 
 Complementa el título: el título hace la pregunta, la miniatura muestra el riesgo y el número que lo
@@ -64,13 +66,13 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [0:00 – 3:15]
+## 1 · APERTURA · [0:00 – 3:04]
 
-**Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
+**Formato Miro / presentación** — el contenido ocupa la pantalla y la cámara de Manu va en una esquina.
 
 ### Los primeros 15 segundos
 
-> `[EN PANTALLA: la pizarra, Manu escribe META con una flecha hacia FACTURACIÓN]`
+> `[EN PANTALLA: el Miro, con META y una flecha hacia FACTURACIÓN]`
 >
 > Si mañana a la mañana te bajan la cuenta de Meta, ¿cuánto facturás el mes que viene?
 >
@@ -94,7 +96,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Sin BM de respaldo, sin tres cuentas por las dudas. Otra cosa.
 >
-> Es un video largo, a propósito. Porque este es un tema que no se resuelve con un truco: se resuelve entendiendo cómo está armado tu negocio. Si me seguís hasta el final, te llevás tres cosas: tu número de dependencia, la lógica de por qué una base cambia el riesgo, y un plan de tres frentes para el día que te pase.
+> Este tema no se resuelve con un truco: se resuelve entendiendo cómo está armado tu negocio. Si me seguís hasta el final, te llevás tres cosas: tu número de dependencia, la lógica de por qué una base cambia el riesgo, y un plan de tres frentes para el día que te pase.
 >
 > Y aclaro qué no es este video: no es un curso de cómo evitar el ban. Ese riesgo no lo evita nadie del todo. Lo que sí se puede hacer es que, si te pasa, no te lleve puesto.
 
@@ -126,7 +128,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > `[EN PANTALLA: el tablero de Scalify — 2.200 activos, churn 1,28%]`
 >
-> `[a cámara]` ¿Y por qué hablo de esto? Mirá el tablero. Dos mil doscientos suscriptores activos, churn de uno veintiocho por ciento. Eso quiere decir que de cada cien suscriptores, más de noventa y ocho siguen el mes siguiente. Ese es el número que me deja tranquilo. No cuánto facturo: cuántos se quedan.
+> `[a cámara]` Este es el tablero de mi marca. La columna que importa hoy es una sola: lo que se cobra sin que yo pague un peso de pauta ese mes. Más adelante te la muestro.
 
 `[OPCIONAL — BLOQUEADO hasta que Manu confirme que quiere contarlo. Sale de contexto/Personaje.md,
 sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
@@ -135,7 +137,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 2 · CTA TEMPRANO · [3:15 – 3:38]
+## 2 · CTA TEMPRANO · [3:04 – 3:27]
 
 > Antes de seguir, una sola cosa.
 >
@@ -145,7 +147,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 3 · PUNTO 1 — MÁS CUENTAS NO SACAN LA DEPENDENCIA · [3:38 – 8:00]
+## 3 · PUNTO 1 — MÁS CUENTAS NO SACAN LA DEPENDENCIA · [3:27 – 7:15]
 
 ### Dolor, con los costos ocultos
 
@@ -169,7 +171,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ### Cambio de paradigma
 
-> Te enseñaron que el riesgo se cubre con más cuentas. Más BM, más agencias, más respaldo.
+> Lo que se suele creer es que el riesgo se cubre con más cuentas. Más BM, más agencias, más respaldo.
 >
 > Y eso te prepara para el golpe. Pero no te saca la dependencia.
 >
@@ -185,7 +187,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 > Entonces la pregunta no es cómo protejo la cuenta. Es qué parte de mi facturación no pasa por la cuenta.
 >
-> Y eso se mide. Hacelo ahora, conmigo. `[EN PANTALLA: tres renglones, escritos de a uno]`
+> Y eso se mide. Hacelo ahora, conmigo. `[EN PANTALLA: la cuenta armada en el Miro — "compradas este mes ÷ facturación de 30 días"]`
 >
 > Uno: tu facturación de los últimos treinta días.
 >
@@ -197,33 +199,21 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 >
 > Ese porcentaje es lo que se va el día que te bajan la cuenta. Es tu número. Y no hace falta una auditoría para saberlo: alcanza con una calculadora y tres minutos.
 >
-> `[EN PANTALLA: un ejemplo escrito en la pizarra, con la aclaración "ejemplo"]`
+> `[EN PANTALLA: un ejemplo armado en el Miro, con la aclaración "ejemplo"]`
 >
-> Ponele un ejemplo, y es inventado para entender la lógica. Si tu número da noventa por ciento, quiere decir que de cada cien pesos que facturaste este mes, noventa los compraste este mismo mes con pauta. El día que caiga la cuenta, te quedan diez.
+> Una cuenta de servilleta, para ver la idea. Si tu número da noventa por ciento, quiere decir que de cada cien pesos que facturaste este mes, noventa los compraste este mismo mes con pauta. El día que caiga la cuenta, te quedan diez.
 >
 > Si da sesenta, te quedan cuarenta. Si da treinta, te quedan setenta.
 >
 > `[a cámara]` No hay un número bueno de entrada. Hay uno que es tuyo, y que hoy probablemente no conocías.
 >
-> Ahora hacé este ejercicio mental con dos marcas. Es un ejemplo inventado, para ver qué cambia.
->
-> `[EN PANTALLA: dos columnas — "Marca A: 90%" y "Marca B: 40%"]`
->
-> La marca A depende un noventa por ciento. La marca B, un cuarenta.
->
-> Cae la cuenta. La marca A entra al mes siguiente con el diez por ciento de la facturación que tenía. Tiene que reconstruir casi todo, y tiene que hacerlo rápido, porque los gastos del mes siguen.
->
-> La marca B entra con el sesenta por ciento. Está lejos de lo que tenía, pero puede sostenerse, y tiene tiempo para pensar qué hacer.
->
-> `[pausa]`
->
-> No es que la B esté a salvo. Es que la B tiene tiempo. Y el tiempo es lo que más te falta el día que te bajan la cuenta.
+> Y fijate lo que eso te da: cuanto más bajo tu número, más tiempo tenés el día que caiga la cuenta. Y el tiempo es lo que más te falta ese día.
 
 ### Anticipación de objeción
 
 > "Pero eso es lo normal en el ecommerce." Sí. Es lo normal. Que sea normal no quiere decir que sea una ley: es una decisión de modelo. Se puede cambiar.
 >
-> Y otra: "si me bajan la cuenta, abro una nueva y sigo". Puede ser. Pero no sabés cuánto vas a tardar. Y cada semana sin cuenta es una semana en la que tu número de dependencia decide cuánto te entra.
+> Otra que aparece: "si me bajan la cuenta, abro una nueva y sigo". Puede ser. Pero no sabés cuánto vas a tardar. Y cada semana sin cuenta es una semana en la que tu número de dependencia decide cuánto te entra.
 
 ### Puente
 
@@ -231,7 +221,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 4 · PUNTO 2 — QUÉ SIGUE COBRANDO CUANDO CAE LA CUENTA · [8:00 – 12:34]
+## 4 · PUNTO 2 — QUÉ SIGUE COBRANDO CUANDO CAE LA CUENTA · [7:15 – 12:05]
 
 ### Dolor, con los costos ocultos
 
@@ -271,7 +261,9 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 >
 > A esto le puse Facturación a Prueba de Meta.
 >
-> Y para que se entienda cómo funciona, seguí a un suscriptor. `[EN PANTALLA: una línea de tiempo con tres puntos]`
+> Y fijate una cosa que explica todo esto: la pauta paga la entrada. Trae al cliente hasta la puerta. Pero lo que pasa después de que alguien entra, la permanencia, no la paga ningún anuncio.
+>
+> Y para que se entienda cómo funciona, seguí a un suscriptor.
 >
 > Se suscribió hace tres meses. Ese mes pagó, y a vos te costó plata conseguirlo. Al mes siguiente, se le cobró solo. Al otro, también.
 >
@@ -295,11 +287,11 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 > "¿Y si los suscriptores se me van?" Por eso el tablero mide el churn. El mío es uno veintiocho por ciento, y ese es un número que se mira todas las semanas, no una promesa.
 >
-> Y otra: "¿y si el ban también me afecta a los suscriptores?" El ban es sobre tu cuenta publicitaria. Los suscriptores ya no dependen de ella para pagarte: se cobran por el ciclo de su suscripción, no por un anuncio.
+> También te vas a preguntar: "¿y si el ban también me afecta a los suscriptores?" El ban es sobre tu cuenta publicitaria. Los suscriptores ya no dependen de ella para pagarte: se cobran por el ciclo de su suscripción, no por un anuncio.
 >
 > Y otra que aparece: "pero mis suscriptores también vinieron de Meta". Sí. Vinieron de Meta cuando los conseguiste. Lo que cae con la cuenta es la capacidad de conseguir nuevos. Los que ya están, ya pasaron por esa puerta, y no tienen que volver a pasar para pagarte.
 >
-> Y otra: "tengo pocos suscriptores". Si son pocos, tu porcentaje va a bajar poco. Es verdad. Pero lo importante es la dirección: cada uno que sumás mueve el número, y el que ya está no se compra de nuevo.
+> Y la que sigue: "tengo pocos suscriptores". Si son pocos, tu porcentaje va a bajar poco. Es verdad. Pero lo importante es la dirección: cada uno que sumás mueve el número, y el que ya está no se compra de nuevo.
 
 ### Puente
 
@@ -307,7 +299,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 5 · PUNTO 3 — EL EMAIL Y LA COMUNIDAD NO ES LO MISMO · [12:34 – 15:40]
+## 5 · PUNTO 3 — EL EMAIL Y LA COMUNIDAD NO ES LO MISMO · [12:05 – 15:12]
 
 ### Dolor, con los costos ocultos
 
@@ -341,7 +333,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 > Con suscripción, el cliente no se va. Sigue ahí, y se le cobra en el ciclo que le corresponde.
 >
-> `[EN PANTALLA: la pizarra, dos dibujos — una persona remando y una persona flotando]`
+> `[EN PANTALLA: el Miro, dos dibujos — una persona remando y una persona flotando]`
 >
 > Es la diferencia entre remar y flotar. El email te ayuda a remar. La suscripción hace que no tengas que remar.
 >
@@ -365,7 +357,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 6 · PUNTO 4 — UN NÚMERO SANO, Y CÓMO SE MUEVE · [15:40 – 19:40]
+## 6 · PUNTO 4 — UN NÚMERO SANO, Y CÓMO SE MUEVE · [15:12 – 19:20]
 
 ### Dolor, con los costos ocultos
 
@@ -389,7 +381,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ### La solución única, con lógica
 
-> `[EN PANTALLA: pizarra, dos columnas — "facturación comprada este mes" y "facturación que ya estaba"]`
+> `[EN PANTALLA: el Miro, dos columnas — "facturación comprada este mes" y "facturación que ya estaba"]`
 >
 > Mirá cómo se mueve.
 >
@@ -421,17 +413,19 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 >
 > Y un cuidado al calcular. La primera vez alcanza con los últimos treinta días, como hiciste en el punto uno. Pero para seguirlo mes a mes, no lo hagas con el mejor mes ni con el peor: tomá un promedio de tres. Un mes bueno te hace ver más seguro de lo que estás, y uno malo te asusta de más.
 >
-> `[EN PANTALLA: un ejemplo escrito en la pizarra, con la aclaración "ejemplo"]`
+> `[EN PANTALLA: una comparación armada en el Miro: hoy contra tres meses después]`
 >
-> Ponele que hoy dependés noventa por ciento y dentro de tres meses das setenta. Es un ejemplo inventado. Quiere decir que veinte de cada cien pesos de tu facturación ya no dependen de que hayas pautado ese mes.
+> Supongamos que hoy dependés noventa por ciento y dentro de tres meses das setenta. Quiere decir que veinte de cada cien pesos de tu facturación ya no dependen de que hayas pautado ese mes.
 >
 > No es un número espectacular. Pero son veinte puntos que antes eran de Meta y ahora son tuyos. Y el mes siguiente parte de ahí.
+>
+> Y no lo midas para asustarte. Medilo para decidir. Un número que te da miedo y no te mueve a nada es un número inútil.
 
 ### Anticipación de objeción
 
 > "¿Y cuánto tiempo tarda en moverse?" Depende de tu ciclo de reposición y de cuántos de tus compradores actuales aceptan pasar. No te doy un plazo, porque cada marca es distinta, y no me gusta prometer lo que no puedo calcular con tus números.
 >
-> Y otra: "mi porcentaje ya es bajo". Si ya es bajo, este video te sirve distinto: te muestra por qué tenés algo que casi nadie tiene, y cómo cuidarlo.
+> Una más: "mi porcentaje ya es bajo". Si ya es bajo, este video te sirve distinto: te muestra por qué tenés algo que casi nadie tiene, y cómo cuidarlo.
 
 ### Puente
 
@@ -439,7 +433,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 7 · PUNTO 5 — EL DÍA DESPUÉS · [19:40 – 23:11]
+## 7 · PUNTO 5 — EL DÍA DESPUÉS · [19:20 – 23:09]
 
 ### Dolor, con los costos ocultos
 
@@ -461,7 +455,7 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 > Con una base de suscriptores, el día después tiene tres frentes.
 >
-> `[EN PANTALLA: tres renglones, escritos de a uno]`
+> `[EN PANTALLA: los tres frentes, apareciendo de a uno]`
 >
 > Primer frente: la base sigue cobrando. Eso no lo tocás. Y lo cuidás: la cadencia de contacto y la recuperación de bajas siguen trabajando, para que el churn no suba justo ahora.
 >
@@ -487,6 +481,8 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 >
 > `[a cámara]` El día después no se gana haciendo más rápido. Se gana haciendo menos, y mejor.
 >
+> Y hay algo del día después que casi nadie ve: tus suscriptores ni se enteran. Su ciclo sigue igual: les llega el producto, se les cobra en su fecha. Del lado del cliente no pasó nada. Esa continuidad es justamente lo que cuida tu churn.
+>
 > Y si hoy leés esto y no tenés base, te lo digo de frente: no hay atajo para el día que te pase. Lo que sí podés hacer es empezar. Porque cada suscriptor que sumás antes es un peso menos que depende de que la cuenta siga viva.
 
 ### Anticipación de objeción
@@ -497,33 +493,15 @@ sección 4: la cuenta vieja de TikTok, de siete mil seguidores, fue baneada.]`
 
 ---
 
-## 8 · CTA FINAL · [23:11 – 25:44]
+## 8 · CTA FINAL · [23:09 – 25:13]
 
-### Recap y tu ejercicio
+### Tu tarea, con fecha
 
-> `[EN PANTALLA: la pizarra completa, con todo lo escrito hasta acá]`
+> Una sola tarea, y es para hoy.
 >
-> Juntemos todo.
+> Calculá tu porcentaje de dependencia con la cuenta del punto uno. Anotalo, con la fecha.
 >
-> Tener varias cuentas no saca la dependencia: la mide el porcentaje de tu facturación que compraste este mes.
->
-> Lo que sostiene el negocio no es la pauta: es una base que se cobra sola.
->
-> El email recupera, la suscripción no necesita recuperar.
->
-> El número sano no existe: existe la dirección, y se mueve mes a mes.
->
-> Y el día que te pase, la diferencia es si te pega en crecer o si te pega en existir.
->
-> `[pausa]`
->
-> Ahora, tu ejercicio. Hacelo hoy.
->
-> Uno: calculá tu porcentaje de dependencia, con los tres renglones del punto uno.
->
-> Dos: anotalo. Con la fecha.
->
-> Tres: en tres meses, volvé a calcularlo. Ese es el número que te dice si tu negocio se está volviendo más o menos dependiente.
+> Y dentro de tres meses, volvé a calcularlo. Ese es el número que te dice si tu negocio se está volviendo más o menos dependiente de una cuenta que no controlás.
 
 ### Ultra específico y accionable
 
@@ -595,13 +573,13 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  Si Meta te baja la cuenta mañana
-3:15  Antes de seguir
-3:38  1 · Por qué tener tres cuentas no te salva
-8:00  2 · Qué sigue cobrando cuando cae la cuenta
-12:34  3 · El email no es lo mismo
-15:40  4 · El número sano y cómo se mueve
-19:40  5 · El día después
-23:11  Tu ejercicio y cómo hacemos tu cuenta
+3:04  Antes de seguir
+3:27  1 · Por qué tener tres cuentas no te salva
+7:15  2 · Qué sigue cobrando cuando cae la cuenta
+12:05  3 · El email no es lo mismo
+15:12  4 · El número sano y cómo se mueve
+19:20  5 · El día después
+23:09  Tu tarea y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres
@@ -616,16 +594,16 @@ que pasa si meta me baja la cuenta, cuenta publicitaria baneada, meta ads baneo,
 
 # QUÉ GRABAR Y QUÉ MOSTRAR EN PANTALLA
 
-| Bloque | Escenario | Qué va en pantalla |
+| Bloque | Formato | Qué va en pantalla |
 |---|---|---|
-| 1 · Apertura | **Escenario 1** — pizarra, de pie | META → FACTURACIÓN a mano · tablero de Scalify (2.200 · 1,28%) · los cinco bullets |
-| 2 · CTA temprano | Escenario 1, a cámara | El link abajo |
-| 3 · Punto 1 | Escenario 1, escribiendo | Los tres renglones del ejercicio · el ejemplo inventado (90 / 60 / 30) |
-| 4 · Punto 2 | **Escenario 3** para el tablero | Pantalla compartida del tablero + el % que se cobra sin pautar |
-| 5 · Punto 3 | Escenario 1 | El dibujo remar vs. flotar en la pizarra |
-| 6 · Punto 4 | Escenario 1 + **Escenario 3** | Las dos columnas (comprada este mes / ya estaba) · el tablero con activos y churn |
-| 7 · Punto 5 | Escenario 1, escribiendo | Los tres frentes del día después |
-| 8 · CTA final | Escenario 1, **mismo encuadre que la apertura** | La pizarra completa · el link + placa de cierre |
+| 1 · Apertura | **Miro / presentación**, cámara en la esquina | META → FACTURACIÓN · tablero de Scalify (2.200 · 1,28%) · los cinco bullets |
+| 2 · CTA temprano | Miro / presentación, diapositiva con el link | El link abajo |
+| 3 · Punto 1 | Miro / presentación | Los tres renglones del ejercicio · el ejemplo inventado (90 / 60 / 30) |
+| 4 · Punto 2 | Pantalla compartida del tablero | Pantalla compartida del tablero + el % que se cobra sin pautar |
+| 5 · Punto 3 | Miro / presentación | El dibujo remar vs. flotar en el Miro |
+| 6 · Punto 4 | Miro / presentación + pantalla compartida del tablero | Las dos columnas (comprada este mes / ya estaba) · el tablero con activos y churn |
+| 7 · Punto 5 | Miro / presentación | Los tres frentes del día después |
+| 8 · CTA final | Miro / presentación, **mismo encuadre que la apertura** | El Miro completo · el link + placa de cierre |
 
 **Proof stack:** el tablero va en la apertura y en los puntos 2 y 4, conectado a cada punto. José no aparece.
 

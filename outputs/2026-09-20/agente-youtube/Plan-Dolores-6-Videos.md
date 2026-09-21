@@ -4,6 +4,9 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (metadepende
 Estado: **guiones escritos** (`V1` a `V5` en esta misma carpeta), con checkpoint arriba de cada uno.
 **Duraciones pedidas por Santi (20-sep):** MOFU 25-30 min · mentalidad menos de 15 · TOFU menos de 20 ·
 BOFU = llamadas con clientes resubidas, sin guion (ver `V6-BOFU-Llamadas-con-Clientes.md`).
+**Formato (MOFU, TOFU y BOFU):** Miro o presentación, con la cámara de Manu en una esquina.
+**Formato (mentalidad):** Manu en pantalla completa, a cámara. Sin tableros, sin cuentas, sin overlays.
+**Regla de diferenciación:** cada video con sus propios ejemplos y su propia analogía; no se repiten entre dolores.
 **CTA en todos:** hablarme directo por WhatsApp, o agendar una llamada en la página.
 Decisiones tomadas por defecto en los guiones, sin respuesta tuya todavía: Video 3 = (a) competir por el
 modelo · Video 4 = blanqueo. El mercado finito quedó en el Video 5.

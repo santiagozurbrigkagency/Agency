@@ -15,6 +15,8 @@ que hoy vendo?") se descartó.
   a YouTube sí o sí."*
 - **Función en el funnel:** BOFU. Que el lead vea qué pasa adentro después de comprar, con un cliente de
   verdad.
+- **Formato (Santi, 20-sep):** igual que los otros: Miro o presentación, con la cámara de Manu en una esquina.
+  Si la llamada se graba por videollamada, queda por definir cómo se encuadra el cliente.
 - **Duración:** la de la llamada. No se fija.
 
 ## Lo que sigue pendiente (no lo armo, queda anotado)

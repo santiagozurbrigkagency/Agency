@@ -4,9 +4,11 @@ Producido por: agente-youtube · 20 de septiembre de 2026 · **v2** (MOFU a 25-3
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 25:44** — 3.861 palabras habladas contadas, a 150 ppm. **CTA temprano en el 10,6%
-del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración:
-15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+**Duración: 25:15** — 3.787 palabras habladas contadas, a 150 ppm. **CTA temprano en el 10,7%
+del video.** Duración pedida por Santi: MOFU entre 25 y 30 min. Objetivo de retención para esta duración: 15-25% (nunca abajo de 15%). CTR objetivo: 5-10%.
+
+**Formato de grabación (Santi, 20-sep):** Miro o presentación, con la cámara de Manu en una esquina, siempre en el mismo
+lugar. Ya no es pizarra ni estudio. La lente naranja y el tablero de Scalify siguen como firma visual.
 
 ---
 
@@ -30,8 +32,8 @@ título validado de "El backend". `[FALTA — research de outliers por views. T�
 valida antes de grabar.]`
 
 **Miniatura — 3 elementos:**
-1. Manu de pie junto a la pizarra, a cámara.
-2. En la pizarra, a mano y grande: un **`1`** (el día del mes) con **`$0`** al lado.
+1. Manu en una esquina, a cámara (el mismo encuadre del video).
+2. En la diapositiva, en grande: un **`1`** (el día del mes) con **`$0`** al lado.
 3. La lente naranja con **`2.200`** adentro.
 
 Complementa el título: el título dice cuándo, la miniatura dice con cuánto arrancás.
@@ -65,13 +67,13 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 1 · APERTURA · [0:00 – 2:44]
+## 1 · APERTURA · [0:00 – 2:42]
 
-**Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
+**Formato Miro / presentación** — el contenido ocupa la pantalla y la cámara de Manu va en una esquina.
 
 ### Los primeros 15 segundos
 
-> `[EN PANTALLA: la pizarra, Manu dibuja un calendario y encierra el número 1]`
+> `[EN PANTALLA: el Miro, con un calendario y el número 1 encerrado]`
 >
 > El primero de cada mes, ¿con cuánta facturación arrancás?
 >
@@ -97,7 +99,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y te aviso desde ahora: es un problema que no se siente como problema. Por eso dura tanto.
 >
-> Es un video largo, a propósito. Porque este es un dolor que hay que enseñar. No se entiende con una frase: se entiende viendo cómo está armado un mes. Si me seguís hasta el final, te llevás la lógica, el tablero que la mide y las decisiones que se destraban cuando la tenés.
+> Este es un dolor que hay que enseñar, y eso lleva tiempo. No se entiende con una frase: se entiende viendo cómo está armado un mes. Si me seguís hasta el final, te llevás la lógica, el tablero que la mide y las decisiones que se destraban cuando la tenés.
 
 ### Mini roadmap — cinco loops
 
@@ -129,7 +131,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 2 · CTA TEMPRANO · [2:44 – 3:06]
+## 2 · CTA TEMPRANO · [2:42 – 3:05]
 
 > Antes de seguir, una sola cosa.
 >
@@ -139,7 +141,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 3 · PUNTO 1 — NO COMPRASTE UN CLIENTE, COMPRASTE UNA TRANSACCIÓN · [3:06 – 7:08]
+## 3 · PUNTO 1 — NO COMPRASTE UN CLIENTE, COMPRASTE UNA TRANSACCIÓN · [3:05 – 6:42]
 
 ### Dolor, con los costos ocultos
 
@@ -147,7 +149,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Lo que vendiste el mes pasado no dejó nada atrás. No compraste un cliente: compraste una transacción, y se terminó cuando la entregaste.
 >
-> `[EN PANTALLA: la pizarra, dos calendarios de un mes, uno debajo del otro. El primero, vacío]`
+> `[EN PANTALLA: el Miro, dos calendarios de un mes, uno debajo del otro. El primero, vacío]`
 >
 > Mirá el calendario. Treinta días, y todos hay que llenarlos. Cada venta de cada día hay que ir a buscarla.
 >
@@ -157,21 +159,13 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y hay un costo que casi nadie se dice en voz alta: la sensación de que por más que crezcas, no avanzás. Facturás más, y aun así el 1 sentís lo mismo.
 >
-> Mirá dos marcas, en un ejemplo inventado para ver la diferencia. `[EN PANTALLA: dos columnas — "Marca A" y "Marca B"]`
+> Y eso se lleva puesto algo más que la plata: la tranquilidad. Uno no duerme igual cuando sabe que el 1 empieza de cero.
 >
-> Las dos vendieron lo mismo el mes pasado. La marca A vendió todo en compra única. La B, una parte en compra única y otra en suscripción.
->
-> El primero del mes, la A abre el panel y tiene cero. Tiene que ir a buscar todo. La B abre el panel y ya tiene una parte de su mes comprometida, y solo tiene que ir a buscar el resto.
->
-> `[pausa]`
->
-> Mismo mes pasado. Mismo esfuerzo. Y dos primeros de mes completamente distintos.
->
-> Y hay una diferencia que no se ve en la plata: la B duerme distinto. Sabe que aunque el mes venga flojo, algo entra.
+> Porque tus gastos tienen fecha y tu facturación no. El alquiler, los sueldos, el proveedor: vencen el día que vencen. Y lo que te entra depende de cómo salga la pauta de esa semana.
 
 ### Cambio de paradigma
 
-> Te enseñaron que si el mes viene flojo, la respuesta es vender más.
+> Todo el mundo repite que si el mes viene flojo, la respuesta es vender más.
 >
 > `[pausa larga]`
 >
@@ -193,7 +187,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > `[EN PANTALLA: pantalla compartida con el tablero de Scalify]`
 >
-> Yo el primero del mes ya sé con cuánto arranco. Porque hay dos mil doscientas personas a las que se les va a cobrar solas, y sé que más de noventa y ocho de cada cien se quedan.
+> Yo el primero del mes ya sé con cuánto arranco. Porque hay dos mil doscientas personas a las que se les va a cobrar solas, con un churn de uno veintiocho por ciento.
 >
 > La pauta suma. **El piso sostiene.** Esa es toda la diferencia.
 >
@@ -203,7 +197,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 > "Pero yo no puedo dejar de vender hoy para armar esto." No hace falta. La suscripción se instala al lado de tu compra única, no encima. El día uno seguís vendiendo igual que hoy.
 >
-> Y otra: "¿esto es cobrar todo el primer día del mes?" No. Cada suscriptor se cobra en su propio ciclo. Lo que tenés el día uno no es todo cobrado: es todo comprometido. Sabés qué va a entrar.
+> Una más: "¿esto es cobrar todo el primer día del mes?" No. Cada suscriptor se cobra en su propio ciclo. Lo que tenés el día uno no es todo cobrado: es todo comprometido. Sabés qué va a entrar.
 >
 > Y una tercera: "¿y las ventas nuevas?" Siguen. La pauta sigue trayendo clientes, y cada uno que entra puede sumarse a la base. El piso no reemplaza a lo que ya hacés: le da algo donde apoyarse.
 
@@ -213,7 +207,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 4 · PUNTO 2 — TODO MERCADO ES FINITO · [7:08 – 11:04]
+## 4 · PUNTO 2 — TODO MERCADO ES FINITO · [6:42 – 10:41]
 
 ### Dolor, con los costos ocultos
 
@@ -235,7 +229,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ### Cambio de paradigma
 
-> Te enseñaron que siempre hay más clientes nuevos. Que el negocio es salir a buscarlos.
+> El consejo que circula es que siempre hay más clientes nuevos. Que el negocio es salir a buscarlos.
 >
 > `[a cámara]` Todo mercado es finito. Si constantemente le vendés a clientes nuevos, es cuestión de tiempo que no haya más clientes.
 >
@@ -245,9 +239,9 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ### La solución única, con lógica
 
-> Hagamos una cuenta tonta para ver la idea. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo inventado"]`
+> Hagamos una cuenta tonta para ver la idea. `[EN PANTALLA: el Miro, con la aclaración "ejemplo inventado"]`
 >
-> Ponele que hay mil personas en tu país que podrían comprarte. Es un número inventado, para ver la lógica.
+> Ponele que hay mil personas en tu país que podrían comprarte. Es un número puesto a dedo, para ver la lógica.
 >
 > Si le vendés a cien nuevas por mes, en diez meses le vendiste a todas. Y ahí, ¿a quién le vendés el mes once?
 >
@@ -271,7 +265,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y otra: "mi mercado es enorme, no se termina". Puede ser. No te digo cuándo. Te digo que la parte del mercado que ya te compró es la única que no tenés que volver a conquistar. Y esa es la que se acumula.
 >
-> Y te propongo algo antes de seguir. Agarrá los clientes que te compraron durante el último año y contá cuántos te volvieron a comprar, aunque sea una vez. `[EN PANTALLA: la pregunta escrita en la pizarra]`
+> Y te propongo algo antes de seguir. Agarrá los clientes que te compraron durante el último año y contá cuántos te volvieron a comprar, aunque sea una vez. `[EN PANTALLA: la pregunta armada en el Miro]`
 >
 > Ese número te dice cuánto del mercado que ya conquistaste está trabajando para vos. Y cuánto, después de haberte comprado, se fue sin que nadie le vuelva a hablar.
 
@@ -281,7 +275,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 5 · PUNTO 3 — EL CICLO DE REPOSICIÓN MANDA · [11:04 – 15:12]
+## 5 · PUNTO 3 — EL CICLO DE REPOSICIÓN MANDA · [10:41 – 15:02]
 
 ### Dolor, con los costos ocultos
 
@@ -317,7 +311,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 > La regla es simple: cada cuántos días se termina, es cada cuántos días se cobra.
 >
-> `[EN PANTALLA: la pizarra, una línea de tiempo con el producto agotándose y el cobro cayendo justo antes]`
+> `[EN PANTALLA: el Miro, una línea de tiempo con el producto agotándose y el cobro cayendo justo antes]`
 >
 > Si tu producto se termina en treinta días, el cobro cae a los treinta. Si se termina en cuarenta y cinco, a los cuarenta y cinco. El cobro se ata al consumo, no al calendario.
 >
@@ -333,19 +327,21 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y te digo algo que no me gusta que se diga distinto: no hay un ciclo típico. Varía mucho de un cliente a otro, y de una marca a otra. Por eso se define caso por caso, no con un número por defecto.
 >
-> Un ejemplo inventado, para ver cómo se mueve la variante. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+> Un caso que no es real, para ver cómo se mueve la variante. `[EN PANTALLA: el Miro, con la aclaración "ejemplo"]`
 >
 > Ponele que tu producto viene en un formato que dura treinta días. Si ofrecés un formato el doble de grande, el ciclo pasa a sesenta. Mismo producto, otro ritmo.
 >
 > Y a la inversa: si el cliente lo consume más rápido de lo que pensabas, un formato más chico que se cobre más seguido puede calzar mejor.
 >
 > No es una receta. Es la manera de pensarlo: la variante se ajusta al ciclo del cliente, no el cliente a tu catálogo.
+>
+> Y el ciclo se revisa. No lo fijás una vez y te olvidás. Si cambia el tamaño, el formato o cómo lo usa la gente, el ritmo cambia con él.
 
 ### Anticipación de objeción
 
 > "Mi producto se usa distinto según el cliente." Es verdad, y es común. Por eso la primera etapa de un trabajo así no es instalar nada: es medir. Se calcula tu ciclo con tus números, y con eso se define la variante.
 >
-> Y otra: "¿entonces el primer cobro cuándo cae?" Cae cuando se cumple el primer ciclo de reposición de tu producto. Si tu producto se termina en treinta días, el primer cobro llega a los treinta. Es un ejemplo, no una promesa general: cada marca tiene el suyo.
+> Otra que aparece: "¿entonces el primer cobro cuándo cae?" Cae cuando se cumple el primer ciclo de reposición de tu producto. Si tu producto se termina en treinta días, el primer cobro llega a los treinta. Es un ejemplo, no una promesa general: cada marca tiene el suyo.
 
 ### Puente
 
@@ -353,7 +349,7 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 
 ---
 
-## 6 · PUNTO 4 — EL TABLERO DEL PISO · [15:12 – 19:16]
+## 6 · PUNTO 4 — EL TABLERO DEL PISO · [15:02 – 19:19]
 
 ### Dolor, con los costos ocultos
 
@@ -393,9 +389,11 @@ Marcas: `[pausa]` ≈ 1 s · `[pausa larga]` ≈ 2 s · `[a cámara]` = mirada a
 >
 > Y por eso es semanal. Si esperás a fin de mes, el mes ya se fue. Con el churn semanal, lo ves cuando todavía podés hacer algo.
 >
+> Y el churn no avisa. No hay un día en que se caiga la base: se va de a poco, un suscriptor por vez. Por eso el ojo semanal.
+>
 > Y una pregunta que te tenés que hacer cuando el churn sube: ¿cuándo se van? Si se van en el primer ciclo, mirá el ritmo, que es el punto tres. Si se van más adelante, es otra pregunta, y el tablero te la va a mostrar. Lo importante es que la pregunta aparece a tiempo.
 >
-> Y para que quede claro cómo se lee un lunes, un ejemplo inventado. `[EN PANTALLA: tres líneas, con la aclaración "ejemplo"]`
+> Y para que quede claro cómo se lee un lunes, tres lecturas posibles. `[EN PANTALLA: una tabla de tres lecturas, con la aclaración "ejemplo"]`
 >
 > Lunes uno: suben los activos, el churn queda igual. La base crece.
 >
@@ -426,7 +424,7 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 > "Un churn tan bajo no lo voy a lograr." No te prometo el mío. El churn de cada marca se mide con su propia base. Lo que te digo es que se mide, se sigue todas las semanas, y ese seguimiento es lo que lo hace mejorable.
 >
-> Y otra: "yo no tengo un tablero así". Hoy no lo tenés porque no lo necesitabas: con compra única no hay suscriptores que seguir. Es un tablero que nace cuando nace la base.
+> También te vas a preguntar: "yo no tengo un tablero así". Hoy no lo tenés porque no lo necesitabas: con compra única no hay suscriptores que seguir. Es un tablero que nace cuando nace la base.
 
 ### Puente
 
@@ -434,7 +432,7 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 ---
 
-## 7 · PUNTO 5 — LAS DECISIONES QUE SE DESTRABAN · [19:16 – 23:00]
+## 7 · PUNTO 5 — LAS DECISIONES QUE SE DESTRABAN · [19:19 – 23:05]
 
 ### Dolor, con los costos ocultos
 
@@ -450,7 +448,7 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 ### Cambio de paradigma
 
-> Te enseñaron que planificar es adivinar. Que en el ecommerce no se puede proyectar, porque depende de la pauta y de cómo ande el mes.
+> Se da por hecho que planificar es adivinar. Que en el ecommerce no se puede proyectar, porque depende de la pauta y de cómo ande el mes.
 >
 > `[pausa larga]`
 >
@@ -462,11 +460,11 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 >
 > Sabés cuántos suscriptores tenés, sabés en qué ciclo está cada uno, y sabés cuántos se quedan. Con eso, sabés cuánto vas a necesitar de producto en cada ciclo.
 >
-> `[EN PANTALLA: la pizarra, tres renglones — "cuántos suscriptores", "en qué ciclo", "cuántas unidades"]`
+> `[EN PANTALLA: el Miro, una multiplicación — suscriptores × unidades por ciclo = unidades a pedir]`
 >
 > Eso son tus proyecciones de stock y de reposición, calculadas sobre la base. Ya no adivinás cuánto pedirle a tu proveedor: lo calculás.
 >
-> Un ejemplo inventado, para ver la lógica. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+> Una cuenta de almacén, sin datos reales. `[EN PANTALLA: el Miro, con la aclaración "ejemplo"]`
 >
 > Ponele que tenés doscientos suscriptores, y que cada uno recibe una unidad por ciclo. Sabés que en el próximo ciclo necesitás doscientas unidades, más lo que esperes vender fuera de la suscripción.
 >
@@ -492,39 +490,25 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 > "¿Y si el piso baja?" Para eso está el churn semanal del punto cuatro. Lo ves cuando empieza a moverse, no cuando ya se movió.
 >
-> Y otra: "mis suscriptores son pocos". Entonces tu parte proyectable es más chica. Pero es mayor que cero, y cada suscriptor que sumás agranda la parte donde dejás de adivinar.
+> Y la que sigue: "mis suscriptores son pocos". Entonces tu parte proyectable es más chica. Pero es mayor que cero, y cada suscriptor que sumás agranda la parte donde dejás de adivinar.
 >
 > Y una última: "mi proveedor me pide compromisos grandes de compra". Con la parte recurrente calculada, tenés con qué apoyar una parte de ese compromiso. La otra parte la seguís decidiendo con tu criterio de siempre, pero ya no con toda la incertidumbre encima.
 
 ---
 
-## 8 · CTA FINAL · [23:00 – 25:44]
+## 8 · CTA FINAL · [23:05 – 25:15]
 
-### Recap y tu ejercicio
+### Tres preguntas para hoy
 
-> `[EN PANTALLA: la pizarra completa, con todo lo escrito hasta acá]`
+> Te dejo tres preguntas, para que las contestes hoy.
 >
-> Juntemos todo.
+> Una: ¿cuánto de tu mes ya está comprometido el día uno?
 >
-> El mes arranca en cero porque lo que vendiste no dejó nada atrás. Con una base, arranca con la facturación comprometida.
+> Dos: entre los que te recompraron, ¿cuánto tiempo pasó entre la primera compra y la segunda?
 >
-> El mercado es finito. Lo que no se achica es la parte que ya es tuya.
+> Tres: de los que te compraron el mes pasado, ¿cuántos volvieron?
 >
-> La suscripción funciona si el ritmo del cobro es el del consumo.
->
-> El piso se mide cada semana con tres números.
->
-> Y con la base, las decisiones de stock, de equipo y de contratos se apoyan en algo.
->
-> `[pausa]`
->
-> Ahora, tu ejercicio. Hacelo hoy.
->
-> Uno: escribí cuánto de tu mes del 1 ya está comprometido. Si la respuesta es cero, ya sabés dónde estás.
->
-> Dos: buscá a los que te recompraron y calculá cuánto tiempo pasó entre la primera y la segunda compra. Ese es tu primer acercamiento al ciclo.
->
-> Tres: contá cuántos de los que compraron el mes pasado volvieron a comprar. Ese número es el que hoy no estás mirando.
+> La tres es la que hoy no estás mirando. Y es la que te dice cuánto de tu mercado ya es tuyo.
 
 ### Ultra específico y accionable
 
@@ -550,7 +534,7 @@ Si no está lista, este mini CTA se saltea completo y no se reemplaza por otro.]
 
 ### Cierre con consecuencia
 
-> Y te digo por qué no lo dejes para después.
+> Y por qué no esperar.
 >
 > Cada mes que arrancás en cero es un mes más en que la facturación hay que volver a comprarla. Y el mercado al que le vendés no se agranda: se achica.
 >
@@ -597,13 +581,13 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  El primero del mes, ¿con cuánto arrancás?
-2:44  Antes de seguir
-3:06  1 · No compraste un cliente, compraste una transacción
-7:08  2 · Todo mercado es finito
-11:04  3 · El ciclo de reposición manda
-15:12  4 · El tablero del piso
-19:16  5 · Las decisiones que se destraban
-23:00  Tu ejercicio y cómo hacemos tu cuenta
+2:42  Antes de seguir
+3:05  1 · No compraste un cliente, compraste una transacción
+6:42  2 · Todo mercado es finito
+10:41  3 · El ciclo de reposición manda
+15:02  4 · El tablero del piso
+19:19  5 · Las decisiones que se destraban
+23:05  Tres preguntas y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres
@@ -618,16 +602,16 @@ el 1 del mes arranco en cero, facturacion predecible ecommerce, facturacion recu
 
 # QUÉ GRABAR Y QUÉ MOSTRAR EN PANTALLA
 
-| Bloque | Escenario | Qué va en pantalla |
+| Bloque | Formato | Qué va en pantalla |
 |---|---|---|
-| 1 · Apertura | **Escenario 1** — pizarra, de pie | El calendario con el 1 encerrado · tablero de Scalify (2.200 · 1,28%) · los cinco bullets |
-| 2 · CTA temprano | Escenario 1, a cámara | El link abajo |
-| 3 · Punto 1 | Escenario 1 + **Escenario 3** para el tablero | Los dos calendarios (uno vacío, otro con días pintados) · pantalla compartida del tablero |
-| 4 · Punto 2 | Escenario 1, escribiendo | El ejemplo inventado de las mil personas · los dos pasos (variación del producto, oferta a la base) |
-| 5 · Punto 3 | Escenario 1, escribiendo | La línea de tiempo del producto agotándose y el cobro cayendo antes |
-| 6 · Punto 4 | **Escenario 3** | Pantalla compartida del tablero: activos, churn, recompra, uno por vez |
-| 7 · Punto 5 | Escenario 1, escribiendo | Los tres renglones de la proyección de stock |
-| 8 · CTA final | Escenario 1, **mismo encuadre que la apertura** | La pizarra completa · el link + placa de cierre |
+| 1 · Apertura | **Miro / presentación**, cámara en la esquina | El calendario con el 1 encerrado · tablero de Scalify (2.200 · 1,28%) · los cinco bullets |
+| 2 · CTA temprano | Miro / presentación, diapositiva con el link | El link abajo |
+| 3 · Punto 1 | Miro / presentación + pantalla compartida del tablero | Los dos calendarios (uno vacío, otro con días pintados) · pantalla compartida del tablero |
+| 4 · Punto 2 | Miro / presentación | El ejemplo inventado de las mil personas · los dos pasos (variación del producto, oferta a la base) |
+| 5 · Punto 3 | Miro / presentación | La línea de tiempo del producto agotándose y el cobro cayendo antes |
+| 6 · Punto 4 | Pantalla compartida | Pantalla compartida del tablero: activos, churn, recompra, uno por vez |
+| 7 · Punto 5 | Miro / presentación | La multiplicación de la proyección de stock |
+| 8 · CTA final | Miro / presentación, **mismo encuadre que la apertura** | El Miro completo · el link + placa de cierre |
 
 **Proof stack:** el tablero en la apertura y en los puntos 1 y 4, conectado a cada punto. José no aparece.
 

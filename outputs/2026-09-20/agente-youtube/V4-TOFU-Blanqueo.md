@@ -4,10 +4,13 @@ Producido por: agente-youtube · 20 de septiembre de 2026
 Plan: `outputs/2026-09-20/agente-youtube/Plan-Dolores-6-Videos.md`
 Framework: `playbooks/agente-youtube.md` · voz: `contexto/Voz-Genesis.md` (sección 9 pesa más que las 1-8)
 
-**Duración: 14:21** — 2.152 palabras habladas contadas, a 150 ppm. **CTA temprano en el 14,0%
+**Duración: 13:58** — 2.095 palabras habladas contadas, a 150 ppm. **CTA temprano en el 13,6%
 del video.** Duración pedida por Santi: TOFU, menos de 20 min. Objetivo de retención para esta duración: 30-40%. CTR objetivo: 5-10%.
 
 **Decisión por defecto:** el plan dejaba blanqueo o Dolor 2 como TOFU. Se guionó blanqueo (el recomendado).
+
+**Formato de grabación (Santi, 20-sep):** Miro o presentación, con la cámara de Manu en una esquina, siempre en el mismo
+lugar. Ya no es pizarra ni estudio. La lente naranja y el tablero de Scalify siguen como firma visual.
 
 ---
 
@@ -33,8 +36,8 @@ Revenue — Here's Why"*: el número adentro del título) y el teaser entre par�
 grabar.]`
 
 **Miniatura — 3 elementos:**
-1. Manu de pie junto a la pizarra, a cámara.
-2. En la pizarra, a mano: **`MONOTRIBUTO → RI`** con una flecha.
+1. Manu en una esquina, a cámara (el mismo encuadre del video).
+2. En la diapositiva, en grande: **`MONOTRIBUTO → RI`** con una flecha.
 3. La lente naranja con **`15%`** adentro (el margen de un monotributista, dicho por Manu).
 
 Complementa el título: el título dice quién y qué, la miniatura muestra el salto y el margen chico.
@@ -71,13 +74,13 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 1 · APERTURA · [0:00 – 2:00]
+## 1 · APERTURA · [0:00 – 1:54]
 
-**Escenario 1** — pizarra de fondo. Manu de pie, fibrón en la mano.
+**Formato Miro / presentación** — el contenido ocupa la pantalla y la cámara de Manu va en una esquina.
 
 ### Los primeros 15 segundos
 
-> `[EN PANTALLA: la pizarra, Manu escribe MONOTRIBUTO y una flecha hacia RI]`
+> `[EN PANTALLA: el Miro, con MONOTRIBUTO y una flecha hacia RI]`
 >
 > Facturás bien. Y aun así, si mañana pasás a responsable inscripto, tu negocio no cierra.
 >
@@ -119,13 +122,13 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 >
 > `[EN PANTALLA: el tablero de Scalify — 2.200 activos, churn 1,28%]`
 >
-> `[a cámara]` Yo vendo un consumible, en Argentina, con Meta Ads. Mi marca tiene dos mil doscientos suscriptores activos y un churn de uno veintiocho por ciento. Y en el punto tres te muestro cómo se ve mi hoja con IVA y ganancias.
+> `[a cámara]` Yo vendo un consumible, en Argentina, con Meta Ads. Y en el punto tres te muestro cómo se ve la hoja con IVA y ganancias.
 >
 > `[DATO — confirmar con Manu cómo está formalizada su marca antes de decir nada más que esto]`
 
 ---
 
-## 2 · CTA TEMPRANO · [2:00 – 2:23]
+## 2 · CTA TEMPRANO · [1:54 – 2:17]
 
 > Antes de seguir, una sola cosa.
 >
@@ -135,7 +138,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 3 · PUNTO 1 — LA TRAMPA DEL 15 O 20% · [2:23 – 5:38]
+## 3 · PUNTO 1 — LA TRAMPA DEL 15 O 20% · [2:17 – 5:33]
 
 ### Dolor, con los costos ocultos
 
@@ -145,7 +148,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 >
 > Pero cuando pasan a responsable inscripto, básicamente no les queda margen.
 >
-> `[EN PANTALLA: la pizarra, "margen 15-20%" a la izquierda, "como RI: [CIFRA VALIDADA]" a la derecha]`
+> `[EN PANTALLA: el Miro, "margen 15-20%" a la izquierda, "como RI: [CIFRA VALIDADA]" a la derecha]`
 >
 > Y fijate lo que te cuesta quedarte donde estás. Te quedás en negro o en monotributo con un techo de escala. Sin estructura para financiarte. Con el miedo a una multa, a ANMAT, a que Mercado Pago te retenga.
 >
@@ -185,7 +188,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 >
 > A esto le puse Margen Formalizable.
 >
-> Mirá la lógica con un ejemplo inventado. `[EN PANTALLA: la pizarra, con la aclaración "ejemplo"]`
+> Mirá la lógica con un caso hipotético. `[EN PANTALLA: el Miro, con la aclaración "hipotético"]`
 >
 > Ponele que un pedido te deja quince pesos de margen por cada cien que vendés. Como monotributista, ese quince es tuyo.
 >
@@ -197,7 +200,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 > "Pero yo ya lo estoy pensando, mi contador me arma la sociedad." Perfecto. Eso te lo tiene que armar él. Pero es el punto dos.
 >
-> Y otra: "mi contador me dice que me quede en monotributo". No te digo que tu contador esté equivocado. Con ese margen, puede ser el mejor consejo para hoy. Lo que te digo es que no estás eligiendo: estás encerrado, porque el margen no te deja otra opción.
+> También te vas a preguntar: "mi contador me dice que me quede en monotributo". No te digo que tu contador esté equivocado. Con ese margen, puede ser el mejor consejo para hoy. Lo que te digo es que no estás eligiendo: estás encerrado, porque el margen no te deja otra opción.
 
 ### Puente
 
@@ -205,7 +208,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 4 · PUNTO 2 — LA ESTRUCTURA NO ARREGLA EL MARGEN · [5:38 – 7:48]
+## 4 · PUNTO 2 — LA ESTRUCTURA NO ARREGLA EL MARGEN · [5:33 – 7:44]
 
 ### Dolor, con los costos ocultos
 
@@ -223,7 +226,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ### Cambio de paradigma
 
-> Te enseñaron que el blanqueo es un problema fiscal. Que lo arregla el contador o una buena estructura legal.
+> La versión de siempre dice que el blanqueo es un problema fiscal. Que lo arregla el contador o una buena estructura legal.
 >
 > `[pausa larga]`
 >
@@ -235,7 +238,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 >
 > Por eso el orden importa. **Primero el modelo, después el contador.**
 >
-> `[EN PANTALLA: la pizarra, dos pasos — "1 · margen" y "2 · estructura"]`
+> `[EN PANTALLA: el Miro, dos pasos — "1 · margen" y "2 · estructura"]`
 >
 > Primero se hace que el margen por cliente aguante. Después el contador arma la estructura sobre un negocio que la sostiene.
 >
@@ -251,7 +254,7 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 
 ---
 
-## 5 · PUNTO 3 — EL PUNTO DE CORTE · [7:48 – 10:31]
+## 5 · PUNTO 3 — EL PUNTO DE CORTE · [7:44 – 10:26]
 
 ### Dolor, con los costos ocultos
 
@@ -283,13 +286,13 @@ contador ANTES de grabar. El guión no inventa ninguna: donde falta, dice [CIFRA
 >
 > **[CIFRA VALIDADA — el caso de la marca de Manu, en pantalla]**
 >
-> Un ejemplo inventado, para ver cómo se lee. Ponele que, con tu contador, viste que necesitás un margen mínimo por cliente para que el blanco cierre. **[CIFRA VALIDADA]**
+> Otro caso, también hipotético. Supongamos que, con tu contador, viste que necesitás un margen mínimo por cliente para que el blanco cierre. **[CIFRA VALIDADA]**
 >
 > Con un pedido por cliente, tu margen no llega. Con dos, se acerca. Con tres, lo pasa.
 >
 > Ese tres es tu punto de corte. Y te dice algo concreto: no necesitás que tu cliente compre diez veces. Necesitás que compre las suficientes para que la cuenta cierre.
 >
-> Y cuando vayas con tu contador, llevá tres preguntas. `[EN PANTALLA: tres renglones, de a uno]`
+> Y cuando vayas con tu contador, llevá tres preguntas. `[EN PANTALLA: las tres preguntas, una debajo de la otra]`
 >
 > Una: con mi margen y mis ventas de hoy, ¿cuánto me llevaría como responsable inscripto?
 >
@@ -316,7 +319,7 @@ reemplaza por otro.]`
 
 ---
 
-## 6 · PUNTO 4 — CADA COSA CON SU ESPECIALISTA · [10:31 – 12:11]
+## 6 · PUNTO 4 — CADA COSA CON SU ESPECIALISTA · [10:26 – 12:06]
 
 ### Dolor, con los costos ocultos
 
@@ -334,7 +337,7 @@ reemplaza por otro.]`
 
 ### La solución única, con lógica
 
-> `[EN PANTALLA: la pizarra, tres columnas — "modelo", "estructura fiscal", "fabricación y legales"]`
+> `[EN PANTALLA: el Miro, tres columnas — "modelo", "estructura fiscal", "fabricación y legales"]`
 >
 > El modelo, que es el margen por cliente: eso lo trabajo yo.
 >
@@ -358,25 +361,13 @@ reemplaza por otro.]`
 
 ---
 
-## 7 · CTA FINAL · [12:11 – 14:21]
+## 7 · CTA FINAL · [12:06 – 13:58]
 
-### Recap y tu ejercicio
+### Lo que te llevás para el contador
 
-> `[EN PANTALLA: la pizarra con todo lo escrito hasta acá]`
+> Antes de irte, lo que te llevás para la reunión con tu contador: tu margen de contribución real por pedido, cuánto te llevaría hoy como responsable inscripto, y cuántos pedidos por cliente necesitarías para que te sobre.
 >
-> Juntemos todo.
->
-> Un margen de quince o veinte por ciento funciona en monotributo y no alcanza como responsable inscripto.
->
-> La estructura fiscal reparte el margen, no lo crea. Por eso el margen viene primero.
->
-> El punto de corte se calcula, con tu margen y con lo que te diga tu contador.
->
-> Y cada parte tiene su especialista: el margen, yo; la estructura, tu contador.
->
-> `[pausa]`
->
-> Ahora, tu ejercicio. Uno: anotá tu margen de contribución real por pedido. Dos: pedile a tu contador cuánto te llevaría como responsable inscripto. Tres: mirá cuántos pedidos por cliente necesitarías para que te sobre.
+> Con esas tres cosas, la conversación deja de ser "no da" y pasa a ser "con qué margen sí da".
 
 ### Ultra específico y accionable
 
@@ -400,7 +391,7 @@ reemplaza por otro.]`
 
 ### Cierre con consecuencia
 
-> Y te digo por qué no lo dejes para después.
+> Y por qué hoy y no más adelante.
 >
 > Cada mes con este margen es un mes más con un techo de escala. Con una estructura que no podés armar y con el miedo de la multa a la vuelta.
 >
@@ -448,12 +439,12 @@ Timecodes contados sobre las palabras del guión a 150 ppm. **Se ajustan con el 
 
 ```
 0:00  Facturás bien y no podés blanquear
-2:00  Antes de seguir
-2:23  1 · La trampa del 15 o 20% de margen
-5:38  2 · Por qué tu contador no lo arregla
-7:48  3 · El punto de corte
-10:31  4 · Cada cosa con su especialista
-12:11  Tu ejercicio y cómo hacemos tu cuenta
+1:54  Antes de seguir
+2:17  1 · La trampa del 15 o 20% de margen
+5:33  2 · Por qué tu contador no lo arregla
+7:44  3 · El punto de corte
+10:26  4 · Cada cosa con su especialista
+12:06  Lo que te llevás al contador y cómo hacemos tu cuenta
 ```
 
 ## Etiquetas del video — dentro de 500 caracteres
@@ -468,14 +459,14 @@ monotributo a responsable inscripto, pasar a responsable inscripto ecommerce, bl
 
 # QUÉ GRABAR Y QUÉ MOSTRAR EN PANTALLA
 
-| Bloque | Escenario | Qué va en pantalla |
+| Bloque | Formato | Qué va en pantalla |
 |---|---|---|
-| 1 · Apertura | **Escenario 1** — pizarra, de pie | MONOTRIBUTO → RI a mano · tablero de Scalify (2.200 · 1,28%) · los tres bullets |
-| 2 · CTA temprano | Escenario 1, a cámara | El link abajo |
-| 3 · Punto 1 | Escenario 1, escribiendo | "Margen 15-20%" contra "como RI" (cifra validada) · la lente sobre "margen por cliente" |
-| 4 · Punto 2 | Escenario 1, escribiendo | Los dos pasos: 1 · margen, 2 · estructura |
-| 5 · Punto 3 | **Escenario 3** para la hoja | Pantalla compartida de la hoja de costeo con IVA y ganancias como RI |
-| 6 · CTA final | Escenario 1, **mismo encuadre que la apertura** | El link + placa de cierre |
+| 1 · Apertura | **Miro / presentación**, cámara en la esquina | MONOTRIBUTO → RI · tablero de Scalify (2.200 · 1,28%) · los tres bullets |
+| 2 · CTA temprano | Miro / presentación, diapositiva con el link | El link abajo |
+| 3 · Punto 1 | Miro / presentación | "Margen 15-20%" contra "como RI" (cifra validada) · la lente sobre "margen por cliente" |
+| 4 · Punto 2 | Miro / presentación | Los dos pasos: 1 · margen, 2 · estructura |
+| 5 · Punto 3 | Pantalla compartida de la hoja | Pantalla compartida de la hoja de costeo con IVA y ganancias como RI |
+| 6 · CTA final | Miro / presentación, **mismo encuadre que la apertura** | El link + placa de cierre |
 
 **Proof stack:** el tablero en la apertura; la hoja de costeo en el punto 3. José no aparece.
 
