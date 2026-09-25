@@ -184,7 +184,11 @@ El error más común del SOP es definir el método y nombrarlo una sola vez. Va 
   Bio de IG y TikTok — línea de cierre: "con ESCALAR HACIA ADENTRO ↓"
   Video de suscripciones y video largo — el título gira sobre el método: "Escalar hacia adentro: por qué tu competencia puede pagar 2,5× más que vos por el mismo cliente"
   TikTok con CTA a la comunidad — cierre: "Esto es escalar hacia adentro. En la comunidad dejé el video largo."
-  Webinar — nombre de trabajo y estructura de bloques: Migración sin Frenar → La Cuenta del CPA → Piso de Facturación.
+  Webinar — nombre de trabajo y estructura de bloques: De Pedido a Suscriptor → La Cuenta del CPA → Piso de Facturación.
+    [ACTUALIZADO 24-sep] Reemplaza a Migración sin Frenar como bloque 1: en los dolores de las
+    calls el miedo a la suscripción aparece como objeción, no como dolor — Migración sin Frenar
+    va al bloque de objeciones. Metadependencia no tiene bloque: abre el webinar y vuelve en el
+    bloque 3 como lo que está en juego. Detalle: outputs/2026-09-24/webinar-3-dolores-y-piezas.md.
   Llamada de venta — el setter califica preguntando si hoy "escala hacia afuera" (más pauta = más ventas, uno a uno). El closer presenta la oferta como el paso de afuera a adentro.
   Bloque de autoridad en cada caption — "Manu. Escalo hacia adentro: 2.200 suscriptores activos, 1,28% de churn."
   Nombre de la oferta — "Génesis — Escalar Hacia Adentro", como "Limitless — Webinar Cíclico".
